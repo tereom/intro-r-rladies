@@ -1,0 +1,1729 @@
+anio,edo,tipo,sexo,tasa
+2e3,Aguascalientes,trans,Mujeres,54.8
+2e3,Baja California,trans,Mujeres,63.9
+2e3,Baja California Sur,trans,Mujeres,61.5
+2e3,Campeche,trans,Mujeres,44.9
+2e3,Coahuila,trans,Mujeres,51.7
+2e3,Colima,trans,Mujeres,51
+2e3,Chiapas,trans,Mujeres,98.2
+2e3,Chihuahua,trans,Mujeres,63.2
+2e3,Distrito Federal,trans,Mujeres,60.2
+2e3,Durango,trans,Mujeres,40
+2e3,Guanajuato,trans,Mujeres,72.7
+2e3,Guerrero,trans,Mujeres,55.9
+2e3,Hidalgo,trans,Mujeres,56.6
+2e3,Jalisco,trans,Mujeres,64.4
+2e3,México,trans,Mujeres,76.9
+2e3,Michoacán,trans,Mujeres,49.7
+2e3,Morelos,trans,Mujeres,58.3
+2e3,Nayarit,trans,Mujeres,45.7
+2e3,Nuevo León,trans,Mujeres,46.8
+2e3,Oaxaca,trans,Mujeres,98
+2e3,Puebla,trans,Mujeres,101.6
+2e3,Querétaro,trans,Mujeres,70.3
+2e3,Quintana Roo,trans,Mujeres,61.8
+2e3,San Luis Potosí,trans,Mujeres,59.9
+2e3,Sinaloa,trans,Mujeres,38.6
+2e3,Sonora,trans,Mujeres,60.8
+2e3,Tabasco,trans,Mujeres,55.4
+2e3,Tamaulipas,trans,Mujeres,48.2
+2e3,Tlaxcala,trans,Mujeres,71.2
+2e3,Veracruz,trans,Mujeres,63.5
+2e3,Yucatán,trans,Mujeres,66
+2e3,Zacatecas,trans,Mujeres,52.4
+2001,Aguascalientes,trans,Mujeres,53.2
+2001,Baja California,trans,Mujeres,56.9
+2001,Baja California Sur,trans,Mujeres,59.8
+2001,Campeche,trans,Mujeres,45.5
+2001,Coahuila,trans,Mujeres,58
+2001,Colima,trans,Mujeres,53.9
+2001,Chiapas,trans,Mujeres,106
+2001,Chihuahua,trans,Mujeres,66.6
+2001,Distrito Federal,trans,Mujeres,59.1
+2001,Durango,trans,Mujeres,36.4
+2001,Guanajuato,trans,Mujeres,61.7
+2001,Guerrero,trans,Mujeres,56.8
+2001,Hidalgo,trans,Mujeres,56.3
+2001,Jalisco,trans,Mujeres,58.9
+2001,México,trans,Mujeres,72.9
+2001,Michoacán,trans,Mujeres,51.4
+2001,Morelos,trans,Mujeres,59.6
+2001,Nayarit,trans,Mujeres,52.8
+2001,Nuevo León,trans,Mujeres,46.6
+2001,Oaxaca,trans,Mujeres,93.5
+2001,Puebla,trans,Mujeres,85.4
+2001,Querétaro,trans,Mujeres,61.6
+2001,Quintana Roo,trans,Mujeres,56.4
+2001,San Luis Potosí,trans,Mujeres,58.2
+2001,Sinaloa,trans,Mujeres,37.4
+2001,Sonora,trans,Mujeres,59.5
+2001,Tabasco,trans,Mujeres,62.3
+2001,Tamaulipas,trans,Mujeres,42.2
+2001,Tlaxcala,trans,Mujeres,76.5
+2001,Veracruz,trans,Mujeres,63.7
+2001,Yucatán,trans,Mujeres,65.8
+2001,Zacatecas,trans,Mujeres,55.2
+2002,Aguascalientes,trans,Mujeres,52.9
+2002,Baja California,trans,Mujeres,56.9
+2002,Baja California Sur,trans,Mujeres,55.1
+2002,Campeche,trans,Mujeres,56.8
+2002,Coahuila,trans,Mujeres,51.2
+2002,Colima,trans,Mujeres,54.9
+2002,Chiapas,trans,Mujeres,93.6
+2002,Chihuahua,trans,Mujeres,70.9
+2002,Distrito Federal,trans,Mujeres,58.7
+2002,Durango,trans,Mujeres,40.9
+2002,Guanajuato,trans,Mujeres,66.7
+2002,Guerrero,trans,Mujeres,52.7
+2002,Hidalgo,trans,Mujeres,55.9
+2002,Jalisco,trans,Mujeres,61.4
+2002,México,trans,Mujeres,70.6
+2002,Michoacán,trans,Mujeres,52.7
+2002,Morelos,trans,Mujeres,62.1
+2002,Nayarit,trans,Mujeres,53.8
+2002,Nuevo León,trans,Mujeres,42.2
+2002,Oaxaca,trans,Mujeres,98.6
+2002,Puebla,trans,Mujeres,89.3
+2002,Querétaro,trans,Mujeres,66.8
+2002,Quintana Roo,trans,Mujeres,43.2
+2002,San Luis Potosí,trans,Mujeres,64.9
+2002,Sinaloa,trans,Mujeres,43.9
+2002,Sonora,trans,Mujeres,64.2
+2002,Tabasco,trans,Mujeres,58.2
+2002,Tamaulipas,trans,Mujeres,39.1
+2002,Tlaxcala,trans,Mujeres,77
+2002,Veracruz,trans,Mujeres,63.4
+2002,Yucatán,trans,Mujeres,64.3
+2002,Zacatecas,trans,Mujeres,62.5
+2003,Aguascalientes,trans,Mujeres,56.9
+2003,Baja California,trans,Mujeres,60.5
+2003,Baja California Sur,trans,Mujeres,73.6
+2003,Campeche,trans,Mujeres,55.8
+2003,Coahuila,trans,Mujeres,52.7
+2003,Colima,trans,Mujeres,47.2
+2003,Chiapas,trans,Mujeres,98.9
+2003,Chihuahua,trans,Mujeres,71.9
+2003,Distrito Federal,trans,Mujeres,55.2
+2003,Durango,trans,Mujeres,41.1
+2003,Guanajuato,trans,Mujeres,65.4
+2003,Guerrero,trans,Mujeres,54.6
+2003,Hidalgo,trans,Mujeres,49.5
+2003,Jalisco,trans,Mujeres,62.6
+2003,México,trans,Mujeres,68.1
+2003,Michoacán,trans,Mujeres,46.8
+2003,Morelos,trans,Mujeres,53.4
+2003,Nayarit,trans,Mujeres,56.4
+2003,Nuevo León,trans,Mujeres,43.4
+2003,Oaxaca,trans,Mujeres,95.5
+2003,Puebla,trans,Mujeres,82.8
+2003,Querétaro,trans,Mujeres,70.7
+2003,Quintana Roo,trans,Mujeres,55.4
+2003,San Luis Potosí,trans,Mujeres,64.8
+2003,Sinaloa,trans,Mujeres,44.4
+2003,Sonora,trans,Mujeres,70.3
+2003,Tabasco,trans,Mujeres,65.9
+2003,Tamaulipas,trans,Mujeres,39.7
+2003,Tlaxcala,trans,Mujeres,66.7
+2003,Veracruz,trans,Mujeres,63.7
+2003,Yucatán,trans,Mujeres,58.7
+2003,Zacatecas,trans,Mujeres,65.2
+2004,Aguascalientes,trans,Mujeres,51
+2004,Baja California,trans,Mujeres,64.6
+2004,Baja California Sur,trans,Mujeres,64.9
+2004,Campeche,trans,Mujeres,54.4
+2004,Coahuila,trans,Mujeres,48.2
+2004,Colima,trans,Mujeres,53.5
+2004,Chiapas,trans,Mujeres,100.6
+2004,Chihuahua,trans,Mujeres,59.8
+2004,Distrito Federal,trans,Mujeres,55.7
+2004,Durango,trans,Mujeres,40.9
+2004,Guanajuato,trans,Mujeres,57.2
+2004,Guerrero,trans,Mujeres,56.4
+2004,Hidalgo,trans,Mujeres,55.2
+2004,Jalisco,trans,Mujeres,61
+2004,México,trans,Mujeres,66.8
+2004,Michoacán,trans,Mujeres,50.9
+2004,Morelos,trans,Mujeres,54.6
+2004,Nayarit,trans,Mujeres,54.2
+2004,Nuevo León,trans,Mujeres,41.3
+2004,Oaxaca,trans,Mujeres,88.5
+2004,Puebla,trans,Mujeres,78.7
+2004,Querétaro,trans,Mujeres,59.3
+2004,Quintana Roo,trans,Mujeres,58.8
+2004,San Luis Potosí,trans,Mujeres,56.7
+2004,Sinaloa,trans,Mujeres,40.5
+2004,Sonora,trans,Mujeres,68.2
+2004,Tabasco,trans,Mujeres,53.9
+2004,Tamaulipas,trans,Mujeres,45.4
+2004,Tlaxcala,trans,Mujeres,66
+2004,Veracruz,trans,Mujeres,63.4
+2004,Yucatán,trans,Mujeres,63.2
+2004,Zacatecas,trans,Mujeres,50.2
+2005,Aguascalientes,trans,Mujeres,56.5
+2005,Baja California,trans,Mujeres,63.2
+2005,Baja California Sur,trans,Mujeres,72.5
+2005,Campeche,trans,Mujeres,57.7
+2005,Coahuila,trans,Mujeres,50.4
+2005,Colima,trans,Mujeres,50
+2005,Chiapas,trans,Mujeres,99
+2005,Chihuahua,trans,Mujeres,64.5
+2005,Distrito Federal,trans,Mujeres,56.1
+2005,Durango,trans,Mujeres,50.6
+2005,Guanajuato,trans,Mujeres,64.2
+2005,Guerrero,trans,Mujeres,53.3
+2005,Hidalgo,trans,Mujeres,57
+2005,Jalisco,trans,Mujeres,64.5
+2005,México,trans,Mujeres,68.9
+2005,Michoacán,trans,Mujeres,51.9
+2005,Morelos,trans,Mujeres,56.4
+2005,Nayarit,trans,Mujeres,52
+2005,Nuevo León,trans,Mujeres,43.8
+2005,Oaxaca,trans,Mujeres,82.8
+2005,Puebla,trans,Mujeres,82.2
+2005,Querétaro,trans,Mujeres,59.8
+2005,Quintana Roo,trans,Mujeres,57.4
+2005,San Luis Potosí,trans,Mujeres,57.8
+2005,Sinaloa,trans,Mujeres,47
+2005,Sonora,trans,Mujeres,69.1
+2005,Tabasco,trans,Mujeres,60
+2005,Tamaulipas,trans,Mujeres,44.8
+2005,Tlaxcala,trans,Mujeres,72.7
+2005,Veracruz,trans,Mujeres,63
+2005,Yucatán,trans,Mujeres,55.8
+2005,Zacatecas,trans,Mujeres,51.6
+2006,Aguascalientes,trans,Mujeres,49.3
+2006,Baja California,trans,Mujeres,60.9
+2006,Baja California Sur,trans,Mujeres,63.1
+2006,Campeche,trans,Mujeres,47.7
+2006,Coahuila,trans,Mujeres,52.8
+2006,Colima,trans,Mujeres,50.3
+2006,Chiapas,trans,Mujeres,88.8
+2006,Chihuahua,trans,Mujeres,69.2
+2006,Distrito Federal,trans,Mujeres,57.9
+2006,Durango,trans,Mujeres,43.6
+2006,Guanajuato,trans,Mujeres,60.8
+2006,Guerrero,trans,Mujeres,53.5
+2006,Hidalgo,trans,Mujeres,57.3
+2006,Jalisco,trans,Mujeres,57.3
+2006,México,trans,Mujeres,64.1
+2006,Michoacán,trans,Mujeres,48.2
+2006,Morelos,trans,Mujeres,57.6
+2006,Nayarit,trans,Mujeres,51.7
+2006,Nuevo León,trans,Mujeres,48.2
+2006,Oaxaca,trans,Mujeres,70.8
+2006,Puebla,trans,Mujeres,69.9
+2006,Querétaro,trans,Mujeres,56.4
+2006,Quintana Roo,trans,Mujeres,52.2
+2006,San Luis Potosí,trans,Mujeres,55
+2006,Sinaloa,trans,Mujeres,48.7
+2006,Sonora,trans,Mujeres,65.9
+2006,Tabasco,trans,Mujeres,62
+2006,Tamaulipas,trans,Mujeres,48.3
+2006,Tlaxcala,trans,Mujeres,60.7
+2006,Veracruz,trans,Mujeres,56.8
+2006,Yucatán,trans,Mujeres,65.5
+2006,Zacatecas,trans,Mujeres,51.1
+2007,Aguascalientes,trans,Mujeres,48.8
+2007,Baja California,trans,Mujeres,58.1
+2007,Baja California Sur,trans,Mujeres,57.5
+2007,Campeche,trans,Mujeres,48.3
+2007,Coahuila,trans,Mujeres,48.9
+2007,Colima,trans,Mujeres,58.5
+2007,Chiapas,trans,Mujeres,89
+2007,Chihuahua,trans,Mujeres,64.3
+2007,Distrito Federal,trans,Mujeres,58.3
+2007,Durango,trans,Mujeres,48.8
+2007,Guanajuato,trans,Mujeres,55.4
+2007,Guerrero,trans,Mujeres,56.1
+2007,Hidalgo,trans,Mujeres,54.4
+2007,Jalisco,trans,Mujeres,59
+2007,México,trans,Mujeres,63.7
+2007,Michoacán,trans,Mujeres,48.5
+2007,Morelos,trans,Mujeres,54.4
+2007,Nayarit,trans,Mujeres,49.7
+2007,Nuevo León,trans,Mujeres,46.6
+2007,Oaxaca,trans,Mujeres,82.4
+2007,Puebla,trans,Mujeres,70.1
+2007,Querétaro,trans,Mujeres,49.8
+2007,Quintana Roo,trans,Mujeres,49.9
+2007,San Luis Potosí,trans,Mujeres,53.2
+2007,Sinaloa,trans,Mujeres,44.4
+2007,Sonora,trans,Mujeres,52.6
+2007,Tabasco,trans,Mujeres,58.4
+2007,Tamaulipas,trans,Mujeres,46.6
+2007,Tlaxcala,trans,Mujeres,55.1
+2007,Veracruz,trans,Mujeres,62.7
+2007,Yucatán,trans,Mujeres,60.6
+2007,Zacatecas,trans,Mujeres,50.6
+2008,Aguascalientes,trans,Mujeres,48.6
+2008,Baja California,trans,Mujeres,55.2
+2008,Baja California Sur,trans,Mujeres,55.1
+2008,Campeche,trans,Mujeres,50.6
+2008,Coahuila,trans,Mujeres,47.7
+2008,Colima,trans,Mujeres,47.7
+2008,Chiapas,trans,Mujeres,87.9
+2008,Chihuahua,trans,Mujeres,67.3
+2008,Distrito Federal,trans,Mujeres,53.3
+2008,Durango,trans,Mujeres,48.7
+2008,Guanajuato,trans,Mujeres,54.6
+2008,Guerrero,trans,Mujeres,56
+2008,Hidalgo,trans,Mujeres,52
+2008,Jalisco,trans,Mujeres,62
+2008,México,trans,Mujeres,63
+2008,Michoacán,trans,Mujeres,48.4
+2008,Morelos,trans,Mujeres,56.9
+2008,Nayarit,trans,Mujeres,55.6
+2008,Nuevo León,trans,Mujeres,49.8
+2008,Oaxaca,trans,Mujeres,78.2
+2008,Puebla,trans,Mujeres,67.1
+2008,Querétaro,trans,Mujeres,53.6
+2008,Quintana Roo,trans,Mujeres,53.3
+2008,San Luis Potosí,trans,Mujeres,48.2
+2008,Sinaloa,trans,Mujeres,48.4
+2008,Sonora,trans,Mujeres,60.1
+2008,Tabasco,trans,Mujeres,52.8
+2008,Tamaulipas,trans,Mujeres,46.1
+2008,Tlaxcala,trans,Mujeres,52.6
+2008,Veracruz,trans,Mujeres,64.7
+2008,Yucatán,trans,Mujeres,60
+2008,Zacatecas,trans,Mujeres,52.6
+2e3,Aguascalientes,trans,Hombres,72.5
+2e3,Baja California,trans,Hombres,115.1
+2e3,Baja California Sur,trans,Hombres,91.3
+2e3,Campeche,trans,Hombres,64.1
+2e3,Coahuila,trans,Hombres,69.3
+2e3,Colima,trans,Hombres,72.1
+2e3,Chiapas,trans,Hombres,119
+2e3,Chihuahua,trans,Hombres,94.6
+2e3,Distrito Federal,trans,Hombres,90.7
+2e3,Durango,trans,Hombres,50.7
+2e3,Guanajuato,trans,Hombres,96.5
+2e3,Guerrero,trans,Hombres,69.8
+2e3,Hidalgo,trans,Hombres,72
+2e3,Jalisco,trans,Hombres,85.1
+2e3,México,trans,Hombres,102
+2e3,Michoacán,trans,Hombres,70.4
+2e3,Morelos,trans,Hombres,86.5
+2e3,Nayarit,trans,Hombres,75.4
+2e3,Nuevo León,trans,Hombres,68.4
+2e3,Oaxaca,trans,Hombres,117.9
+2e3,Puebla,trans,Hombres,121.7
+2e3,Querétaro,trans,Hombres,86.6
+2e3,Quintana Roo,trans,Hombres,79.1
+2e3,San Luis Potosí,trans,Hombres,69.8
+2e3,Sinaloa,trans,Hombres,56.3
+2e3,Sonora,trans,Hombres,87.7
+2e3,Tabasco,trans,Hombres,81.5
+2e3,Tamaulipas,trans,Hombres,60.9
+2e3,Tlaxcala,trans,Hombres,103.4
+2e3,Veracruz,trans,Hombres,89.1
+2e3,Yucatán,trans,Hombres,85.9
+2e3,Zacatecas,trans,Hombres,68.8
+2001,Aguascalientes,trans,Hombres,65.6
+2001,Baja California,trans,Hombres,99.1
+2001,Baja California Sur,trans,Hombres,85.2
+2001,Campeche,trans,Hombres,63.8
+2001,Coahuila,trans,Hombres,65.7
+2001,Colima,trans,Hombres,74.1
+2001,Chiapas,trans,Hombres,121.7
+2001,Chihuahua,trans,Hombres,93.2
+2001,Distrito Federal,trans,Hombres,86.3
+2001,Durango,trans,Hombres,56.7
+2001,Guanajuato,trans,Hombres,78.7
+2001,Guerrero,trans,Hombres,71.5
+2001,Hidalgo,trans,Hombres,65.2
+2001,Jalisco,trans,Hombres,79.9
+2001,México,trans,Hombres,95.4
+2001,Michoacán,trans,Hombres,64.9
+2001,Morelos,trans,Hombres,76.2
+2001,Nayarit,trans,Hombres,74.6
+2001,Nuevo León,trans,Hombres,64.8
+2001,Oaxaca,trans,Hombres,113.5
+2001,Puebla,trans,Hombres,114.3
+2001,Querétaro,trans,Hombres,79.2
+2001,Quintana Roo,trans,Hombres,86.4
+2001,San Luis Potosí,trans,Hombres,73.7
+2001,Sinaloa,trans,Hombres,52
+2001,Sonora,trans,Hombres,83.7
+2001,Tabasco,trans,Hombres,79.3
+2001,Tamaulipas,trans,Hombres,65.6
+2001,Tlaxcala,trans,Hombres,97.2
+2001,Veracruz,trans,Hombres,90.4
+2001,Yucatán,trans,Hombres,92.9
+2001,Zacatecas,trans,Hombres,56.4
+2002,Aguascalientes,trans,Hombres,64.2
+2002,Baja California,trans,Hombres,104.5
+2002,Baja California Sur,trans,Hombres,71.7
+2002,Campeche,trans,Hombres,79.6
+2002,Coahuila,trans,Hombres,75.9
+2002,Colima,trans,Hombres,71.2
+2002,Chiapas,trans,Hombres,114.7
+2002,Chihuahua,trans,Hombres,94.3
+2002,Distrito Federal,trans,Hombres,78
+2002,Durango,trans,Hombres,61.5
+2002,Guanajuato,trans,Hombres,82.5
+2002,Guerrero,trans,Hombres,70
+2002,Hidalgo,trans,Hombres,74.2
+2002,Jalisco,trans,Hombres,81.9
+2002,México,trans,Hombres,89.4
+2002,Michoacán,trans,Hombres,68.5
+2002,Morelos,trans,Hombres,84.7
+2002,Nayarit,trans,Hombres,74.4
+2002,Nuevo León,trans,Hombres,68.9
+2002,Oaxaca,trans,Hombres,116.9
+2002,Puebla,trans,Hombres,112.4
+2002,Querétaro,trans,Hombres,82.4
+2002,Quintana Roo,trans,Hombres,64.4
+2002,San Luis Potosí,trans,Hombres,77.5
+2002,Sinaloa,trans,Hombres,57
+2002,Sonora,trans,Hombres,85.8
+2002,Tabasco,trans,Hombres,83.6
+2002,Tamaulipas,trans,Hombres,58.2
+2002,Tlaxcala,trans,Hombres,92.8
+2002,Veracruz,trans,Hombres,90.7
+2002,Yucatán,trans,Hombres,82.8
+2002,Zacatecas,trans,Hombres,69.1
+2003,Aguascalientes,trans,Hombres,66.6
+2003,Baja California,trans,Hombres,103
+2003,Baja California Sur,trans,Hombres,94.2
+2003,Campeche,trans,Hombres,76
+2003,Coahuila,trans,Hombres,67.2
+2003,Colima,trans,Hombres,68.1
+2003,Chiapas,trans,Hombres,117.2
+2003,Chihuahua,trans,Hombres,99.5
+2003,Distrito Federal,trans,Hombres,81.6
+2003,Durango,trans,Hombres,55
+2003,Guanajuato,trans,Hombres,84.6
+2003,Guerrero,trans,Hombres,67.8
+2003,Hidalgo,trans,Hombres,72.2
+2003,Jalisco,trans,Hombres,82.6
+2003,México,trans,Hombres,87.6
+2003,Michoacán,trans,Hombres,60.4
+2003,Morelos,trans,Hombres,69.5
+2003,Nayarit,trans,Hombres,74.8
+2003,Nuevo León,trans,Hombres,66.4
+2003,Oaxaca,trans,Hombres,114.9
+2003,Puebla,trans,Hombres,100.8
+2003,Querétaro,trans,Hombres,83.7
+2003,Quintana Roo,trans,Hombres,68.6
+2003,San Luis Potosí,trans,Hombres,76.5
+2003,Sinaloa,trans,Hombres,58.6
+2003,Sonora,trans,Hombres,99.2
+2003,Tabasco,trans,Hombres,96.4
+2003,Tamaulipas,trans,Hombres,62.4
+2003,Tlaxcala,trans,Hombres,89.1
+2003,Veracruz,trans,Hombres,93.6
+2003,Yucatán,trans,Hombres,80.5
+2003,Zacatecas,trans,Hombres,71.1
+2004,Aguascalientes,trans,Hombres,65.8
+2004,Baja California,trans,Hombres,102.6
+2004,Baja California Sur,trans,Hombres,87.3
+2004,Campeche,trans,Hombres,76.3
+2004,Coahuila,trans,Hombres,67.8
+2004,Colima,trans,Hombres,64.1
+2004,Chiapas,trans,Hombres,114
+2004,Chihuahua,trans,Hombres,80.2
+2004,Distrito Federal,trans,Hombres,74.7
+2004,Durango,trans,Hombres,56.3
+2004,Guanajuato,trans,Hombres,78.8
+2004,Guerrero,trans,Hombres,74.8
+2004,Hidalgo,trans,Hombres,65.9
+2004,Jalisco,trans,Hombres,77.8
+2004,México,trans,Hombres,84.3
+2004,Michoacán,trans,Hombres,69.4
+2004,Morelos,trans,Hombres,68
+2004,Nayarit,trans,Hombres,65.8
+2004,Nuevo León,trans,Hombres,64.2
+2004,Oaxaca,trans,Hombres,102.9
+2004,Puebla,trans,Hombres,102.2
+2004,Querétaro,trans,Hombres,79.8
+2004,Quintana Roo,trans,Hombres,79.9
+2004,San Luis Potosí,trans,Hombres,69.9
+2004,Sinaloa,trans,Hombres,57.3
+2004,Sonora,trans,Hombres,95.2
+2004,Tabasco,trans,Hombres,85.8
+2004,Tamaulipas,trans,Hombres,63.6
+2004,Tlaxcala,trans,Hombres,84.3
+2004,Veracruz,trans,Hombres,88.5
+2004,Yucatán,trans,Hombres,76.9
+2004,Zacatecas,trans,Hombres,71.1
+2005,Aguascalientes,trans,Hombres,65.5
+2005,Baja California,trans,Hombres,102.6
+2005,Baja California Sur,trans,Hombres,80.9
+2005,Campeche,trans,Hombres,68.8
+2005,Coahuila,trans,Hombres,67.4
+2005,Colima,trans,Hombres,90.3
+2005,Chiapas,trans,Hombres,113.9
+2005,Chihuahua,trans,Hombres,84.1
+2005,Distrito Federal,trans,Hombres,77.2
+2005,Durango,trans,Hombres,64.6
+2005,Guanajuato,trans,Hombres,77.4
+2005,Guerrero,trans,Hombres,70.5
+2005,Hidalgo,trans,Hombres,71
+2005,Jalisco,trans,Hombres,79.8
+2005,México,trans,Hombres,83.2
+2005,Michoacán,trans,Hombres,73.1
+2005,Morelos,trans,Hombres,78.3
+2005,Nayarit,trans,Hombres,70.7
+2005,Nuevo León,trans,Hombres,71.2
+2005,Oaxaca,trans,Hombres,98.7
+2005,Puebla,trans,Hombres,100.5
+2005,Querétaro,trans,Hombres,73.4
+2005,Quintana Roo,trans,Hombres,76.3
+2005,San Luis Potosí,trans,Hombres,67.8
+2005,Sinaloa,trans,Hombres,63.6
+2005,Sonora,trans,Hombres,104.6
+2005,Tabasco,trans,Hombres,91.5
+2005,Tamaulipas,trans,Hombres,65
+2005,Tlaxcala,trans,Hombres,86.2
+2005,Veracruz,trans,Hombres,88.7
+2005,Yucatán,trans,Hombres,81.4
+2005,Zacatecas,trans,Hombres,64.9
+2006,Aguascalientes,trans,Hombres,68
+2006,Baja California,trans,Hombres,101.3
+2006,Baja California Sur,trans,Hombres,80.1
+2006,Campeche,trans,Hombres,61.5
+2006,Coahuila,trans,Hombres,64
+2006,Colima,trans,Hombres,76.2
+2006,Chiapas,trans,Hombres,109.1
+2006,Chihuahua,trans,Hombres,91.4
+2006,Distrito Federal,trans,Hombres,79.6
+2006,Durango,trans,Hombres,55
+2006,Guanajuato,trans,Hombres,79.4
+2006,Guerrero,trans,Hombres,65
+2006,Hidalgo,trans,Hombres,72.3
+2006,Jalisco,trans,Hombres,76.1
+2006,México,trans,Hombres,83
+2006,Michoacán,trans,Hombres,63.7
+2006,Morelos,trans,Hombres,75.3
+2006,Nayarit,trans,Hombres,69.1
+2006,Nuevo León,trans,Hombres,74.1
+2006,Oaxaca,trans,Hombres,93.1
+2006,Puebla,trans,Hombres,90.6
+2006,Querétaro,trans,Hombres,71.7
+2006,Quintana Roo,trans,Hombres,75.7
+2006,San Luis Potosí,trans,Hombres,73.8
+2006,Sinaloa,trans,Hombres,65.3
+2006,Sonora,trans,Hombres,95
+2006,Tabasco,trans,Hombres,82
+2006,Tamaulipas,trans,Hombres,72.5
+2006,Tlaxcala,trans,Hombres,69.6
+2006,Veracruz,trans,Hombres,82
+2006,Yucatán,trans,Hombres,88.3
+2006,Zacatecas,trans,Hombres,62.3
+2007,Aguascalientes,trans,Hombres,57.9
+2007,Baja California,trans,Hombres,90.4
+2007,Baja California Sur,trans,Hombres,78.2
+2007,Campeche,trans,Hombres,62.6
+2007,Coahuila,trans,Hombres,65.5
+2007,Colima,trans,Hombres,73.9
+2007,Chiapas,trans,Hombres,108.9
+2007,Chihuahua,trans,Hombres,88.3
+2007,Distrito Federal,trans,Hombres,79.4
+2007,Durango,trans,Hombres,57.6
+2007,Guanajuato,trans,Hombres,70.4
+2007,Guerrero,trans,Hombres,72
+2007,Hidalgo,trans,Hombres,68.4
+2007,Jalisco,trans,Hombres,76
+2007,México,trans,Hombres,79.3
+2007,Michoacán,trans,Hombres,62.6
+2007,Morelos,trans,Hombres,74.4
+2007,Nayarit,trans,Hombres,70.5
+2007,Nuevo León,trans,Hombres,70.3
+2007,Oaxaca,trans,Hombres,97.2
+2007,Puebla,trans,Hombres,91
+2007,Querétaro,trans,Hombres,66.2
+2007,Quintana Roo,trans,Hombres,80
+2007,San Luis Potosí,trans,Hombres,64.4
+2007,Sinaloa,trans,Hombres,58.8
+2007,Sonora,trans,Hombres,82.8
+2007,Tabasco,trans,Hombres,87.2
+2007,Tamaulipas,trans,Hombres,71.2
+2007,Tlaxcala,trans,Hombres,72.8
+2007,Veracruz,trans,Hombres,86.4
+2007,Yucatán,trans,Hombres,84
+2007,Zacatecas,trans,Hombres,62.3
+2008,Aguascalientes,trans,Hombres,60
+2008,Baja California,trans,Hombres,88.2
+2008,Baja California Sur,trans,Hombres,73.3
+2008,Campeche,trans,Hombres,65.6
+2008,Coahuila,trans,Hombres,59.6
+2008,Colima,trans,Hombres,71.4
+2008,Chiapas,trans,Hombres,106.2
+2008,Chihuahua,trans,Hombres,84.5
+2008,Distrito Federal,trans,Hombres,79.9
+2008,Durango,trans,Hombres,63
+2008,Guanajuato,trans,Hombres,68.9
+2008,Guerrero,trans,Hombres,71.6
+2008,Hidalgo,trans,Hombres,63.5
+2008,Jalisco,trans,Hombres,75.6
+2008,México,trans,Hombres,79.1
+2008,Michoacán,trans,Hombres,62.3
+2008,Morelos,trans,Hombres,76.1
+2008,Nayarit,trans,Hombres,82.6
+2008,Nuevo León,trans,Hombres,73
+2008,Oaxaca,trans,Hombres,101
+2008,Puebla,trans,Hombres,87.2
+2008,Querétaro,trans,Hombres,64.9
+2008,Quintana Roo,trans,Hombres,67.2
+2008,San Luis Potosí,trans,Hombres,62.6
+2008,Sinaloa,trans,Hombres,66
+2008,Sonora,trans,Hombres,82.8
+2008,Tabasco,trans,Hombres,76.6
+2008,Tamaulipas,trans,Hombres,70.3
+2008,Tlaxcala,trans,Hombres,60.4
+2008,Veracruz,trans,Hombres,91.6
+2008,Yucatán,trans,Hombres,82.7
+2008,Zacatecas,trans,Hombres,64.8
+2e3,Aguascalientes,noTrans,Mujeres,416.8
+2e3,Baja California,noTrans,Mujeres,503.8
+2e3,Baja California Sur,noTrans,Mujeres,409.9
+2e3,Campeche,noTrans,Mujeres,391.5
+2e3,Coahuila,noTrans,Mujeres,500.6
+2e3,Colima,noTrans,Mujeres,436.4
+2e3,Chiapas,noTrans,Mujeres,402.6
+2e3,Chihuahua,noTrans,Mujeres,503.7
+2e3,Distrito Federal,noTrans,Mujeres,476.8
+2e3,Durango,noTrans,Mujeres,400.5
+2e3,Guanajuato,noTrans,Mujeres,420.1
+2e3,Guerrero,noTrans,Mujeres,282.3
+2e3,Hidalgo,noTrans,Mujeres,355.2
+2e3,Jalisco,noTrans,Mujeres,452.6
+2e3,México,noTrans,Mujeres,466
+2e3,Michoacán,noTrans,Mujeres,394.1
+2e3,Morelos,noTrans,Mujeres,396.8
+2e3,Nayarit,noTrans,Mujeres,389.7
+2e3,Nuevo León,noTrans,Mujeres,452
+2e3,Oaxaca,noTrans,Mujeres,367.3
+2e3,Puebla,noTrans,Mujeres,417.4
+2e3,Querétaro,noTrans,Mujeres,429.4
+2e3,Quintana Roo,noTrans,Mujeres,364.7
+2e3,San Luis Potosí,noTrans,Mujeres,376.3
+2e3,Sinaloa,noTrans,Mujeres,377.4
+2e3,Sonora,noTrans,Mujeres,458.4
+2e3,Tabasco,noTrans,Mujeres,409.2
+2e3,Tamaulipas,noTrans,Mujeres,431.5
+2e3,Tlaxcala,noTrans,Mujeres,378.6
+2e3,Veracruz,noTrans,Mujeres,415.2
+2e3,Yucatán,noTrans,Mujeres,422.8
+2e3,Zacatecas,noTrans,Mujeres,382.1
+2001,Aguascalientes,noTrans,Mujeres,448.2
+2001,Baja California,noTrans,Mujeres,484.4
+2001,Baja California Sur,noTrans,Mujeres,417
+2001,Campeche,noTrans,Mujeres,363.8
+2001,Coahuila,noTrans,Mujeres,510
+2001,Colima,noTrans,Mujeres,431.2
+2001,Chiapas,noTrans,Mujeres,405.7
+2001,Chihuahua,noTrans,Mujeres,519.7
+2001,Distrito Federal,noTrans,Mujeres,469.9
+2001,Durango,noTrans,Mujeres,409.7
+2001,Guanajuato,noTrans,Mujeres,410.4
+2001,Guerrero,noTrans,Mujeres,299.2
+2001,Hidalgo,noTrans,Mujeres,375.8
+2001,Jalisco,noTrans,Mujeres,437.8
+2001,México,noTrans,Mujeres,462.8
+2001,Michoacán,noTrans,Mujeres,386
+2001,Morelos,noTrans,Mujeres,403.4
+2001,Nayarit,noTrans,Mujeres,375.5
+2001,Nuevo León,noTrans,Mujeres,439.4
+2001,Oaxaca,noTrans,Mujeres,367.5
+2001,Puebla,noTrans,Mujeres,417.9
+2001,Querétaro,noTrans,Mujeres,405.6
+2001,Quintana Roo,noTrans,Mujeres,353.8
+2001,San Luis Potosí,noTrans,Mujeres,372.3
+2001,Sinaloa,noTrans,Mujeres,369
+2001,Sonora,noTrans,Mujeres,472.9
+2001,Tabasco,noTrans,Mujeres,460
+2001,Tamaulipas,noTrans,Mujeres,425.2
+2001,Tlaxcala,noTrans,Mujeres,414.8
+2001,Veracruz,noTrans,Mujeres,418.2
+2001,Yucatán,noTrans,Mujeres,430.6
+2001,Zacatecas,noTrans,Mujeres,385.4
+2002,Aguascalientes,noTrans,Mujeres,483.3
+2002,Baja California,noTrans,Mujeres,474.6
+2002,Baja California Sur,noTrans,Mujeres,408.7
+2002,Campeche,noTrans,Mujeres,395.4
+2002,Coahuila,noTrans,Mujeres,511.8
+2002,Colima,noTrans,Mujeres,410
+2002,Chiapas,noTrans,Mujeres,406.1
+2002,Chihuahua,noTrans,Mujeres,506.4
+2002,Distrito Federal,noTrans,Mujeres,464
+2002,Durango,noTrans,Mujeres,397.8
+2002,Guanajuato,noTrans,Mujeres,445.2
+2002,Guerrero,noTrans,Mujeres,296.2
+2002,Hidalgo,noTrans,Mujeres,387.9
+2002,Jalisco,noTrans,Mujeres,455.5
+2002,México,noTrans,Mujeres,466.3
+2002,Michoacán,noTrans,Mujeres,407.4
+2002,Morelos,noTrans,Mujeres,407.3
+2002,Nayarit,noTrans,Mujeres,389.7
+2002,Nuevo León,noTrans,Mujeres,447.2
+2002,Oaxaca,noTrans,Mujeres,380.6
+2002,Puebla,noTrans,Mujeres,420.6
+2002,Querétaro,noTrans,Mujeres,411.8
+2002,Quintana Roo,noTrans,Mujeres,362.7
+2002,San Luis Potosí,noTrans,Mujeres,384.7
+2002,Sinaloa,noTrans,Mujeres,387.1
+2002,Sonora,noTrans,Mujeres,455.8
+2002,Tabasco,noTrans,Mujeres,433.6
+2002,Tamaulipas,noTrans,Mujeres,418.4
+2002,Tlaxcala,noTrans,Mujeres,406.5
+2002,Veracruz,noTrans,Mujeres,416.2
+2002,Yucatán,noTrans,Mujeres,439
+2002,Zacatecas,noTrans,Mujeres,400.1
+2003,Aguascalientes,noTrans,Mujeres,459.1
+2003,Baja California,noTrans,Mujeres,461.1
+2003,Baja California Sur,noTrans,Mujeres,401.8
+2003,Campeche,noTrans,Mujeres,383.4
+2003,Coahuila,noTrans,Mujeres,528.7
+2003,Colima,noTrans,Mujeres,400.8
+2003,Chiapas,noTrans,Mujeres,406.9
+2003,Chihuahua,noTrans,Mujeres,508.6
+2003,Distrito Federal,noTrans,Mujeres,468
+2003,Durango,noTrans,Mujeres,414.3
+2003,Guanajuato,noTrans,Mujeres,443.5
+2003,Guerrero,noTrans,Mujeres,322.4
+2003,Hidalgo,noTrans,Mujeres,384.8
+2003,Jalisco,noTrans,Mujeres,450.9
+2003,México,noTrans,Mujeres,471.2
+2003,Michoacán,noTrans,Mujeres,405.6
+2003,Morelos,noTrans,Mujeres,413.9
+2003,Nayarit,noTrans,Mujeres,379.3
+2003,Nuevo León,noTrans,Mujeres,452
+2003,Oaxaca,noTrans,Mujeres,375
+2003,Puebla,noTrans,Mujeres,433.5
+2003,Querétaro,noTrans,Mujeres,437.4
+2003,Quintana Roo,noTrans,Mujeres,375.1
+2003,San Luis Potosí,noTrans,Mujeres,406.4
+2003,Sinaloa,noTrans,Mujeres,397.4
+2003,Sonora,noTrans,Mujeres,476.5
+2003,Tabasco,noTrans,Mujeres,459.4
+2003,Tamaulipas,noTrans,Mujeres,425.3
+2003,Tlaxcala,noTrans,Mujeres,400.9
+2003,Veracruz,noTrans,Mujeres,433.2
+2003,Yucatán,noTrans,Mujeres,450.2
+2003,Zacatecas,noTrans,Mujeres,405.1
+2004,Aguascalientes,noTrans,Mujeres,442.8
+2004,Baja California,noTrans,Mujeres,473.7
+2004,Baja California Sur,noTrans,Mujeres,392.4
+2004,Campeche,noTrans,Mujeres,408.8
+2004,Coahuila,noTrans,Mujeres,491.5
+2004,Colima,noTrans,Mujeres,432
+2004,Chiapas,noTrans,Mujeres,406.4
+2004,Chihuahua,noTrans,Mujeres,479.2
+2004,Distrito Federal,noTrans,Mujeres,468.6
+2004,Durango,noTrans,Mujeres,403.1
+2004,Guanajuato,noTrans,Mujeres,432.2
+2004,Guerrero,noTrans,Mujeres,304.5
+2004,Hidalgo,noTrans,Mujeres,392.6
+2004,Jalisco,noTrans,Mujeres,431.6
+2004,México,noTrans,Mujeres,460.2
+2004,Michoacán,noTrans,Mujeres,394.9
+2004,Morelos,noTrans,Mujeres,408.4
+2004,Nayarit,noTrans,Mujeres,386.3
+2004,Nuevo León,noTrans,Mujeres,439.8
+2004,Oaxaca,noTrans,Mujeres,371.9
+2004,Puebla,noTrans,Mujeres,437.5
+2004,Querétaro,noTrans,Mujeres,423.3
+2004,Quintana Roo,noTrans,Mujeres,379.4
+2004,San Luis Potosí,noTrans,Mujeres,387.5
+2004,Sinaloa,noTrans,Mujeres,387.5
+2004,Sonora,noTrans,Mujeres,471.5
+2004,Tabasco,noTrans,Mujeres,435.4
+2004,Tamaulipas,noTrans,Mujeres,426.6
+2004,Tlaxcala,noTrans,Mujeres,426.3
+2004,Veracruz,noTrans,Mujeres,442.4
+2004,Yucatán,noTrans,Mujeres,427.1
+2004,Zacatecas,noTrans,Mujeres,393.3
+2005,Aguascalientes,noTrans,Mujeres,464
+2005,Baja California,noTrans,Mujeres,463.1
+2005,Baja California Sur,noTrans,Mujeres,397.7
+2005,Campeche,noTrans,Mujeres,387.7
+2005,Coahuila,noTrans,Mujeres,538.9
+2005,Colima,noTrans,Mujeres,430
+2005,Chiapas,noTrans,Mujeres,412.3
+2005,Chihuahua,noTrans,Mujeres,508.7
+2005,Distrito Federal,noTrans,Mujeres,460.9
+2005,Durango,noTrans,Mujeres,448.3
+2005,Guanajuato,noTrans,Mujeres,444.3
+2005,Guerrero,noTrans,Mujeres,310.2
+2005,Hidalgo,noTrans,Mujeres,409.3
+2005,Jalisco,noTrans,Mujeres,454.3
+2005,México,noTrans,Mujeres,472.1
+2005,Michoacán,noTrans,Mujeres,404.4
+2005,Morelos,noTrans,Mujeres,414.2
+2005,Nayarit,noTrans,Mujeres,395.4
+2005,Nuevo León,noTrans,Mujeres,461.4
+2005,Oaxaca,noTrans,Mujeres,390.9
+2005,Puebla,noTrans,Mujeres,441.6
+2005,Querétaro,noTrans,Mujeres,441
+2005,Quintana Roo,noTrans,Mujeres,374.6
+2005,San Luis Potosí,noTrans,Mujeres,391.7
+2005,Sinaloa,noTrans,Mujeres,382.1
+2005,Sonora,noTrans,Mujeres,478.6
+2005,Tabasco,noTrans,Mujeres,467.5
+2005,Tamaulipas,noTrans,Mujeres,432.4
+2005,Tlaxcala,noTrans,Mujeres,407.4
+2005,Veracruz,noTrans,Mujeres,445.3
+2005,Yucatán,noTrans,Mujeres,450.5
+2005,Zacatecas,noTrans,Mujeres,422.8
+2006,Aguascalientes,noTrans,Mujeres,437.1
+2006,Baja California,noTrans,Mujeres,454.2
+2006,Baja California Sur,noTrans,Mujeres,425.9
+2006,Campeche,noTrans,Mujeres,422.9
+2006,Coahuila,noTrans,Mujeres,493.2
+2006,Colima,noTrans,Mujeres,424.7
+2006,Chiapas,noTrans,Mujeres,429.5
+2006,Chihuahua,noTrans,Mujeres,504.9
+2006,Distrito Federal,noTrans,Mujeres,445.4
+2006,Durango,noTrans,Mujeres,430.7
+2006,Guanajuato,noTrans,Mujeres,428.8
+2006,Guerrero,noTrans,Mujeres,295.5
+2006,Hidalgo,noTrans,Mujeres,388.8
+2006,Jalisco,noTrans,Mujeres,438
+2006,México,noTrans,Mujeres,452.9
+2006,Michoacán,noTrans,Mujeres,391.2
+2006,Morelos,noTrans,Mujeres,414.3
+2006,Nayarit,noTrans,Mujeres,381.1
+2006,Nuevo León,noTrans,Mujeres,431.3
+2006,Oaxaca,noTrans,Mujeres,374.6
+2006,Puebla,noTrans,Mujeres,433.7
+2006,Querétaro,noTrans,Mujeres,419.9
+2006,Quintana Roo,noTrans,Mujeres,343.2
+2006,San Luis Potosí,noTrans,Mujeres,386.3
+2006,Sinaloa,noTrans,Mujeres,375.5
+2006,Sonora,noTrans,Mujeres,449.3
+2006,Tabasco,noTrans,Mujeres,450.1
+2006,Tamaulipas,noTrans,Mujeres,416.8
+2006,Tlaxcala,noTrans,Mujeres,410.1
+2006,Veracruz,noTrans,Mujeres,436.6
+2006,Yucatán,noTrans,Mujeres,427.5
+2006,Zacatecas,noTrans,Mujeres,393.2
+2007,Aguascalientes,noTrans,Mujeres,439
+2007,Baja California,noTrans,Mujeres,443.3
+2007,Baja California Sur,noTrans,Mujeres,439
+2007,Campeche,noTrans,Mujeres,417.1
+2007,Coahuila,noTrans,Mujeres,519.8
+2007,Colima,noTrans,Mujeres,391.3
+2007,Chiapas,noTrans,Mujeres,437.4
+2007,Chihuahua,noTrans,Mujeres,496.9
+2007,Distrito Federal,noTrans,Mujeres,449.7
+2007,Durango,noTrans,Mujeres,452.5
+2007,Guanajuato,noTrans,Mujeres,433.9
+2007,Guerrero,noTrans,Mujeres,324.5
+2007,Hidalgo,noTrans,Mujeres,421
+2007,Jalisco,noTrans,Mujeres,434
+2007,México,noTrans,Mujeres,457.1
+2007,Michoacán,noTrans,Mujeres,402.3
+2007,Morelos,noTrans,Mujeres,418.8
+2007,Nayarit,noTrans,Mujeres,385.7
+2007,Nuevo León,noTrans,Mujeres,446
+2007,Oaxaca,noTrans,Mujeres,399.6
+2007,Puebla,noTrans,Mujeres,439.1
+2007,Querétaro,noTrans,Mujeres,420.5
+2007,Quintana Roo,noTrans,Mujeres,382.9
+2007,San Luis Potosí,noTrans,Mujeres,397.3
+2007,Sinaloa,noTrans,Mujeres,353.9
+2007,Sonora,noTrans,Mujeres,431.6
+2007,Tabasco,noTrans,Mujeres,449.4
+2007,Tamaulipas,noTrans,Mujeres,427.8
+2007,Tlaxcala,noTrans,Mujeres,414.3
+2007,Veracruz,noTrans,Mujeres,448.5
+2007,Yucatán,noTrans,Mujeres,438.8
+2007,Zacatecas,noTrans,Mujeres,412.2
+2008,Aguascalientes,noTrans,Mujeres,463.8
+2008,Baja California,noTrans,Mujeres,443.3
+2008,Baja California Sur,noTrans,Mujeres,425.5
+2008,Campeche,noTrans,Mujeres,428.3
+2008,Coahuila,noTrans,Mujeres,513.5
+2008,Colima,noTrans,Mujeres,433.5
+2008,Chiapas,noTrans,Mujeres,442.7
+2008,Chihuahua,noTrans,Mujeres,499.7
+2008,Distrito Federal,noTrans,Mujeres,447
+2008,Durango,noTrans,Mujeres,494.8
+2008,Guanajuato,noTrans,Mujeres,444.6
+2008,Guerrero,noTrans,Mujeres,354
+2008,Hidalgo,noTrans,Mujeres,441.5
+2008,Jalisco,noTrans,Mujeres,434.2
+2008,México,noTrans,Mujeres,456.3
+2008,Michoacán,noTrans,Mujeres,415.8
+2008,Morelos,noTrans,Mujeres,440.5
+2008,Nayarit,noTrans,Mujeres,400.4
+2008,Nuevo León,noTrans,Mujeres,441.3
+2008,Oaxaca,noTrans,Mujeres,399.3
+2008,Puebla,noTrans,Mujeres,435.3
+2008,Querétaro,noTrans,Mujeres,452.3
+2008,Quintana Roo,noTrans,Mujeres,387.7
+2008,San Luis Potosí,noTrans,Mujeres,417
+2008,Sinaloa,noTrans,Mujeres,402.5
+2008,Sonora,noTrans,Mujeres,453.6
+2008,Tabasco,noTrans,Mujeres,478.5
+2008,Tamaulipas,noTrans,Mujeres,428.9
+2008,Tlaxcala,noTrans,Mujeres,422.8
+2008,Veracruz,noTrans,Mujeres,450.6
+2008,Yucatán,noTrans,Mujeres,454.1
+2008,Zacatecas,noTrans,Mujeres,427.4
+2e3,Aguascalientes,noTrans,Hombres,539.6
+2e3,Baja California,noTrans,Hombres,717.9
+2e3,Baja California Sur,noTrans,Hombres,596.6
+2e3,Campeche,noTrans,Hombres,430.6
+2e3,Coahuila,noTrans,Hombres,638.4
+2e3,Colima,noTrans,Hombres,564.5
+2e3,Chiapas,noTrans,Hombres,432
+2e3,Chihuahua,noTrans,Hombres,666.7
+2e3,Distrito Federal,noTrans,Hombres,633.2
+2e3,Durango,noTrans,Hombres,507.8
+2e3,Guanajuato,noTrans,Hombres,544.4
+2e3,Guerrero,noTrans,Hombres,362.2
+2e3,Hidalgo,noTrans,Hombres,477
+2e3,Jalisco,noTrans,Hombres,572.3
+2e3,México,noTrans,Hombres,593.2
+2e3,Michoacán,noTrans,Hombres,497.6
+2e3,Morelos,noTrans,Hombres,503.9
+2e3,Nayarit,noTrans,Hombres,470.2
+2e3,Nuevo León,noTrans,Hombres,589.1
+2e3,Oaxaca,noTrans,Hombres,478.6
+2e3,Puebla,noTrans,Hombres,576.3
+2e3,Querétaro,noTrans,Hombres,591.9
+2e3,Quintana Roo,noTrans,Hombres,406.9
+2e3,San Luis Potosí,noTrans,Hombres,482.2
+2e3,Sinaloa,noTrans,Hombres,528.2
+2e3,Sonora,noTrans,Hombres,654.5
+2e3,Tabasco,noTrans,Hombres,491
+2e3,Tamaulipas,noTrans,Hombres,556.2
+2e3,Tlaxcala,noTrans,Hombres,482.2
+2e3,Veracruz,noTrans,Hombres,545.1
+2e3,Yucatán,noTrans,Hombres,487.4
+2e3,Zacatecas,noTrans,Hombres,483.9
+2001,Aguascalientes,noTrans,Hombres,543.9
+2001,Baja California,noTrans,Hombres,661.6
+2001,Baja California Sur,noTrans,Hombres,623.3
+2001,Campeche,noTrans,Hombres,448.5
+2001,Coahuila,noTrans,Hombres,640.9
+2001,Colima,noTrans,Hombres,544.4
+2001,Chiapas,noTrans,Hombres,437.4
+2001,Chihuahua,noTrans,Hombres,655.7
+2001,Distrito Federal,noTrans,Hombres,631.7
+2001,Durango,noTrans,Hombres,507.6
+2001,Guanajuato,noTrans,Hombres,513.9
+2001,Guerrero,noTrans,Hombres,380.7
+2001,Hidalgo,noTrans,Hombres,518.3
+2001,Jalisco,noTrans,Hombres,561.7
+2001,México,noTrans,Hombres,594.7
+2001,Michoacán,noTrans,Hombres,490.3
+2001,Morelos,noTrans,Hombres,500.5
+2001,Nayarit,noTrans,Hombres,458.7
+2001,Nuevo León,noTrans,Hombres,588.1
+2001,Oaxaca,noTrans,Hombres,466.8
+2001,Puebla,noTrans,Hombres,573.9
+2001,Querétaro,noTrans,Hombres,575.5
+2001,Quintana Roo,noTrans,Hombres,430.6
+2001,San Luis Potosí,noTrans,Hombres,457.7
+2001,Sinaloa,noTrans,Hombres,517.8
+2001,Sonora,noTrans,Hombres,661.1
+2001,Tabasco,noTrans,Hombres,516.2
+2001,Tamaulipas,noTrans,Hombres,564.5
+2001,Tlaxcala,noTrans,Hombres,497.6
+2001,Veracruz,noTrans,Hombres,561.5
+2001,Yucatán,noTrans,Hombres,502.6
+2001,Zacatecas,noTrans,Hombres,474.8
+2002,Aguascalientes,noTrans,Hombres,588.5
+2002,Baja California,noTrans,Hombres,658.1
+2002,Baja California Sur,noTrans,Hombres,598.3
+2002,Campeche,noTrans,Hombres,459.4
+2002,Coahuila,noTrans,Hombres,637.9
+2002,Colima,noTrans,Hombres,563.4
+2002,Chiapas,noTrans,Hombres,463.9
+2002,Chihuahua,noTrans,Hombres,661
+2002,Distrito Federal,noTrans,Hombres,625.3
+2002,Durango,noTrans,Hombres,531.6
+2002,Guanajuato,noTrans,Hombres,556.3
+2002,Guerrero,noTrans,Hombres,376.8
+2002,Hidalgo,noTrans,Hombres,548.1
+2002,Jalisco,noTrans,Hombres,587.8
+2002,México,noTrans,Hombres,592.9
+2002,Michoacán,noTrans,Hombres,505.3
+2002,Morelos,noTrans,Hombres,521
+2002,Nayarit,noTrans,Hombres,505.8
+2002,Nuevo León,noTrans,Hombres,602.9
+2002,Oaxaca,noTrans,Hombres,485.3
+2002,Puebla,noTrans,Hombres,589.2
+2002,Querétaro,noTrans,Hombres,595.5
+2002,Quintana Roo,noTrans,Hombres,439
+2002,San Luis Potosí,noTrans,Hombres,472.8
+2002,Sinaloa,noTrans,Hombres,543
+2002,Sonora,noTrans,Hombres,666.9
+2002,Tabasco,noTrans,Hombres,530.4
+2002,Tamaulipas,noTrans,Hombres,573.2
+2002,Tlaxcala,noTrans,Hombres,505.9
+2002,Veracruz,noTrans,Hombres,574.7
+2002,Yucatán,noTrans,Hombres,509.1
+2002,Zacatecas,noTrans,Hombres,491.1
+2003,Aguascalientes,noTrans,Hombres,587.5
+2003,Baja California,noTrans,Hombres,677.3
+2003,Baja California Sur,noTrans,Hombres,612.6
+2003,Campeche,noTrans,Hombres,476.7
+2003,Coahuila,noTrans,Hombres,660.9
+2003,Colima,noTrans,Hombres,516.3
+2003,Chiapas,noTrans,Hombres,468.1
+2003,Chihuahua,noTrans,Hombres,679.2
+2003,Distrito Federal,noTrans,Hombres,636
+2003,Durango,noTrans,Hombres,544.2
+2003,Guanajuato,noTrans,Hombres,558.4
+2003,Guerrero,noTrans,Hombres,397.1
+2003,Hidalgo,noTrans,Hombres,526.2
+2003,Jalisco,noTrans,Hombres,587.3
+2003,México,noTrans,Hombres,599.2
+2003,Michoacán,noTrans,Hombres,510.9
+2003,Morelos,noTrans,Hombres,507.7
+2003,Nayarit,noTrans,Hombres,490.6
+2003,Nuevo León,noTrans,Hombres,590.3
+2003,Oaxaca,noTrans,Hombres,483.9
+2003,Puebla,noTrans,Hombres,592.3
+2003,Querétaro,noTrans,Hombres,591.1
+2003,Quintana Roo,noTrans,Hombres,470
+2003,San Luis Potosí,noTrans,Hombres,500.6
+2003,Sinaloa,noTrans,Hombres,540.8
+2003,Sonora,noTrans,Hombres,671.6
+2003,Tabasco,noTrans,Hombres,558.8
+2003,Tamaulipas,noTrans,Hombres,573
+2003,Tlaxcala,noTrans,Hombres,480.7
+2003,Veracruz,noTrans,Hombres,594.9
+2003,Yucatán,noTrans,Hombres,540.6
+2003,Zacatecas,noTrans,Hombres,486.6
+2004,Aguascalientes,noTrans,Hombres,572
+2004,Baja California,noTrans,Hombres,660.8
+2004,Baja California Sur,noTrans,Hombres,579.8
+2004,Campeche,noTrans,Hombres,491.7
+2004,Coahuila,noTrans,Hombres,629.1
+2004,Colima,noTrans,Hombres,527.6
+2004,Chiapas,noTrans,Hombres,456.4
+2004,Chihuahua,noTrans,Hombres,627
+2004,Distrito Federal,noTrans,Hombres,636.6
+2004,Durango,noTrans,Hombres,520.7
+2004,Guanajuato,noTrans,Hombres,547.8
+2004,Guerrero,noTrans,Hombres,395.3
+2004,Hidalgo,noTrans,Hombres,542.1
+2004,Jalisco,noTrans,Hombres,570.2
+2004,México,noTrans,Hombres,589.1
+2004,Michoacán,noTrans,Hombres,516.7
+2004,Morelos,noTrans,Hombres,524.7
+2004,Nayarit,noTrans,Hombres,489
+2004,Nuevo León,noTrans,Hombres,586.7
+2004,Oaxaca,noTrans,Hombres,493.6
+2004,Puebla,noTrans,Hombres,589
+2004,Querétaro,noTrans,Hombres,558.3
+2004,Quintana Roo,noTrans,Hombres,454.6
+2004,San Luis Potosí,noTrans,Hombres,502.1
+2004,Sinaloa,noTrans,Hombres,519.3
+2004,Sonora,noTrans,Hombres,636.4
+2004,Tabasco,noTrans,Hombres,560.9
+2004,Tamaulipas,noTrans,Hombres,569.8
+2004,Tlaxcala,noTrans,Hombres,524.8
+2004,Veracruz,noTrans,Hombres,583.2
+2004,Yucatán,noTrans,Hombres,485.4
+2004,Zacatecas,noTrans,Hombres,506.7
+2005,Aguascalientes,noTrans,Hombres,565.1
+2005,Baja California,noTrans,Hombres,634.7
+2005,Baja California Sur,noTrans,Hombres,601.8
+2005,Campeche,noTrans,Hombres,505.9
+2005,Coahuila,noTrans,Hombres,682.4
+2005,Colima,noTrans,Hombres,573.3
+2005,Chiapas,noTrans,Hombres,468.6
+2005,Chihuahua,noTrans,Hombres,658.6
+2005,Distrito Federal,noTrans,Hombres,634.4
+2005,Durango,noTrans,Hombres,590.3
+2005,Guanajuato,noTrans,Hombres,576.3
+2005,Guerrero,noTrans,Hombres,396.4
+2005,Hidalgo,noTrans,Hombres,555.6
+2005,Jalisco,noTrans,Hombres,589.3
+2005,México,noTrans,Hombres,588.5
+2005,Michoacán,noTrans,Hombres,518.8
+2005,Morelos,noTrans,Hombres,522.2
+2005,Nayarit,noTrans,Hombres,521.6
+2005,Nuevo León,noTrans,Hombres,633.3
+2005,Oaxaca,noTrans,Hombres,521.1
+2005,Puebla,noTrans,Hombres,599.2
+2005,Querétaro,noTrans,Hombres,580.8
+2005,Quintana Roo,noTrans,Hombres,466.8
+2005,San Luis Potosí,noTrans,Hombres,500
+2005,Sinaloa,noTrans,Hombres,529.3
+2005,Sonora,noTrans,Hombres,656.9
+2005,Tabasco,noTrans,Hombres,566.6
+2005,Tamaulipas,noTrans,Hombres,568.5
+2005,Tlaxcala,noTrans,Hombres,482.4
+2005,Veracruz,noTrans,Hombres,595
+2005,Yucatán,noTrans,Hombres,512.9
+2005,Zacatecas,noTrans,Hombres,478.2
+2006,Aguascalientes,noTrans,Hombres,588.9
+2006,Baja California,noTrans,Hombres,600.2
+2006,Baja California Sur,noTrans,Hombres,608.4
+2006,Campeche,noTrans,Hombres,483.6
+2006,Coahuila,noTrans,Hombres,639.5
+2006,Colima,noTrans,Hombres,579
+2006,Chiapas,noTrans,Hombres,483
+2006,Chihuahua,noTrans,Hombres,640.3
+2006,Distrito Federal,noTrans,Hombres,615
+2006,Durango,noTrans,Hombres,592.5
+2006,Guanajuato,noTrans,Hombres,557.5
+2006,Guerrero,noTrans,Hombres,371.4
+2006,Hidalgo,noTrans,Hombres,538.6
+2006,Jalisco,noTrans,Hombres,567.1
+2006,México,noTrans,Hombres,578.2
+2006,Michoacán,noTrans,Hombres,513.8
+2006,Morelos,noTrans,Hombres,513.5
+2006,Nayarit,noTrans,Hombres,502.2
+2006,Nuevo León,noTrans,Hombres,587.8
+2006,Oaxaca,noTrans,Hombres,495.8
+2006,Puebla,noTrans,Hombres,581.4
+2006,Querétaro,noTrans,Hombres,585.7
+2006,Quintana Roo,noTrans,Hombres,435.3
+2006,San Luis Potosí,noTrans,Hombres,492.1
+2006,Sinaloa,noTrans,Hombres,523.8
+2006,Sonora,noTrans,Hombres,630.8
+2006,Tabasco,noTrans,Hombres,558.9
+2006,Tamaulipas,noTrans,Hombres,568
+2006,Tlaxcala,noTrans,Hombres,528.7
+2006,Veracruz,noTrans,Hombres,579.6
+2006,Yucatán,noTrans,Hombres,523.3
+2006,Zacatecas,noTrans,Hombres,482.1
+2007,Aguascalientes,noTrans,Hombres,608.3
+2007,Baja California,noTrans,Hombres,612.8
+2007,Baja California Sur,noTrans,Hombres,596.3
+2007,Campeche,noTrans,Hombres,492.2
+2007,Coahuila,noTrans,Hombres,631.2
+2007,Colima,noTrans,Hombres,574.8
+2007,Chiapas,noTrans,Hombres,499.9
+2007,Chihuahua,noTrans,Hombres,635.5
+2007,Distrito Federal,noTrans,Hombres,610.5
+2007,Durango,noTrans,Hombres,576.1
+2007,Guanajuato,noTrans,Hombres,566.8
+2007,Guerrero,noTrans,Hombres,435.1
+2007,Hidalgo,noTrans,Hombres,555.5
+2007,Jalisco,noTrans,Hombres,571.6
+2007,México,noTrans,Hombres,574.4
+2007,Michoacán,noTrans,Hombres,520.5
+2007,Morelos,noTrans,Hombres,529.6
+2007,Nayarit,noTrans,Hombres,526.7
+2007,Nuevo León,noTrans,Hombres,620.4
+2007,Oaxaca,noTrans,Hombres,510.1
+2007,Puebla,noTrans,Hombres,576.5
+2007,Querétaro,noTrans,Hombres,573.5
+2007,Quintana Roo,noTrans,Hombres,491.5
+2007,San Luis Potosí,noTrans,Hombres,508.5
+2007,Sinaloa,noTrans,Hombres,503.1
+2007,Sonora,noTrans,Hombres,638.7
+2007,Tabasco,noTrans,Hombres,563.9
+2007,Tamaulipas,noTrans,Hombres,580.2
+2007,Tlaxcala,noTrans,Hombres,530.6
+2007,Veracruz,noTrans,Hombres,589.5
+2007,Yucatán,noTrans,Hombres,542.9
+2007,Zacatecas,noTrans,Hombres,493.1
+2008,Aguascalientes,noTrans,Hombres,608.1
+2008,Baja California,noTrans,Hombres,621.8
+2008,Baja California Sur,noTrans,Hombres,594
+2008,Campeche,noTrans,Hombres,544
+2008,Coahuila,noTrans,Hombres,664.7
+2008,Colima,noTrans,Hombres,579.5
+2008,Chiapas,noTrans,Hombres,505.3
+2008,Chihuahua,noTrans,Hombres,644.7
+2008,Distrito Federal,noTrans,Hombres,606.5
+2008,Durango,noTrans,Hombres,619.7
+2008,Guanajuato,noTrans,Hombres,602.6
+2008,Guerrero,noTrans,Hombres,453.2
+2008,Hidalgo,noTrans,Hombres,586.1
+2008,Jalisco,noTrans,Hombres,578.8
+2008,México,noTrans,Hombres,576.7
+2008,Michoacán,noTrans,Hombres,542.5
+2008,Morelos,noTrans,Hombres,553.3
+2008,Nayarit,noTrans,Hombres,532.2
+2008,Nuevo León,noTrans,Hombres,610.7
+2008,Oaxaca,noTrans,Hombres,520
+2008,Puebla,noTrans,Hombres,593.8
+2008,Querétaro,noTrans,Hombres,615.5
+2008,Quintana Roo,noTrans,Hombres,477.3
+2008,San Luis Potosí,noTrans,Hombres,512.5
+2008,Sinaloa,noTrans,Hombres,550.9
+2008,Sonora,noTrans,Hombres,643.9
+2008,Tabasco,noTrans,Hombres,566
+2008,Tamaulipas,noTrans,Hombres,588.3
+2008,Tlaxcala,noTrans,Hombres,529.1
+2008,Veracruz,noTrans,Hombres,608.9
+2008,Yucatán,noTrans,Hombres,542.2
+2008,Zacatecas,noTrans,Hombres,503.8
+2e3,Aguascalientes,lesiones,Mujeres,25
+2e3,Baja California,lesiones,Mujeres,29.8
+2e3,Baja California Sur,lesiones,Mujeres,23.7
+2e3,Campeche,lesiones,Mujeres,19.5
+2e3,Coahuila,lesiones,Mujeres,18.9
+2e3,Colima,lesiones,Mujeres,21.9
+2e3,Chiapas,lesiones,Mujeres,21.5
+2e3,Chihuahua,lesiones,Mujeres,28.4
+2e3,Distrito Federal,lesiones,Mujeres,19.8
+2e3,Durango,lesiones,Mujeres,17.1
+2e3,Guanajuato,lesiones,Mujeres,23
+2e3,Guerrero,lesiones,Mujeres,26.5
+2e3,Hidalgo,lesiones,Mujeres,24.3
+2e3,Jalisco,lesiones,Mujeres,25.9
+2e3,México,lesiones,Mujeres,22.4
+2e3,Michoacán,lesiones,Mujeres,27
+2e3,Morelos,lesiones,Mujeres,21.6
+2e3,Nayarit,lesiones,Mujeres,21.2
+2e3,Nuevo León,lesiones,Mujeres,18.7
+2e3,Oaxaca,lesiones,Mujeres,22.9
+2e3,Puebla,lesiones,Mujeres,21.6
+2e3,Querétaro,lesiones,Mujeres,25
+2e3,Quintana Roo,lesiones,Mujeres,24.5
+2e3,San Luis Potosí,lesiones,Mujeres,21.7
+2e3,Sinaloa,lesiones,Mujeres,24.4
+2e3,Sonora,lesiones,Mujeres,25.6
+2e3,Tabasco,lesiones,Mujeres,23.7
+2e3,Tamaulipas,lesiones,Mujeres,22.1
+2e3,Tlaxcala,lesiones,Mujeres,26.8
+2e3,Veracruz,lesiones,Mujeres,16.8
+2e3,Yucatán,lesiones,Mujeres,16.5
+2e3,Zacatecas,lesiones,Mujeres,18.1
+2001,Aguascalientes,lesiones,Mujeres,22.2
+2001,Baja California,lesiones,Mujeres,31.5
+2001,Baja California Sur,lesiones,Mujeres,17.5
+2001,Campeche,lesiones,Mujeres,21.7
+2001,Coahuila,lesiones,Mujeres,22.6
+2001,Colima,lesiones,Mujeres,26.8
+2001,Chiapas,lesiones,Mujeres,19.7
+2001,Chihuahua,lesiones,Mujeres,29.9
+2001,Distrito Federal,lesiones,Mujeres,21.6
+2001,Durango,lesiones,Mujeres,19.7
+2001,Guanajuato,lesiones,Mujeres,23.7
+2001,Guerrero,lesiones,Mujeres,25.9
+2001,Hidalgo,lesiones,Mujeres,24.3
+2001,Jalisco,lesiones,Mujeres,24.9
+2001,México,lesiones,Mujeres,24.9
+2001,Michoacán,lesiones,Mujeres,27.8
+2001,Morelos,lesiones,Mujeres,26.4
+2001,Nayarit,lesiones,Mujeres,22.3
+2001,Nuevo León,lesiones,Mujeres,19.3
+2001,Oaxaca,lesiones,Mujeres,22.7
+2001,Puebla,lesiones,Mujeres,22.8
+2001,Querétaro,lesiones,Mujeres,24.3
+2001,Quintana Roo,lesiones,Mujeres,25.5
+2001,San Luis Potosí,lesiones,Mujeres,18.6
+2001,Sinaloa,lesiones,Mujeres,21.9
+2001,Sonora,lesiones,Mujeres,23.1
+2001,Tabasco,lesiones,Mujeres,24.5
+2001,Tamaulipas,lesiones,Mujeres,20.5
+2001,Tlaxcala,lesiones,Mujeres,21
+2001,Veracruz,lesiones,Mujeres,19.8
+2001,Yucatán,lesiones,Mujeres,21.2
+2001,Zacatecas,lesiones,Mujeres,21.9
+2002,Aguascalientes,lesiones,Mujeres,29.2
+2002,Baja California,lesiones,Mujeres,28.8
+2002,Baja California Sur,lesiones,Mujeres,28.3
+2002,Campeche,lesiones,Mujeres,20.3
+2002,Coahuila,lesiones,Mujeres,23.3
+2002,Colima,lesiones,Mujeres,19.9
+2002,Chiapas,lesiones,Mujeres,22.2
+2002,Chihuahua,lesiones,Mujeres,33.9
+2002,Distrito Federal,lesiones,Mujeres,20.4
+2002,Durango,lesiones,Mujeres,24
+2002,Guanajuato,lesiones,Mujeres,22.8
+2002,Guerrero,lesiones,Mujeres,29.6
+2002,Hidalgo,lesiones,Mujeres,18.4
+2002,Jalisco,lesiones,Mujeres,26.1
+2002,México,lesiones,Mujeres,24.2
+2002,Michoacán,lesiones,Mujeres,29
+2002,Morelos,lesiones,Mujeres,18.3
+2002,Nayarit,lesiones,Mujeres,25.2
+2002,Nuevo León,lesiones,Mujeres,17.9
+2002,Oaxaca,lesiones,Mujeres,24.6
+2002,Puebla,lesiones,Mujeres,24.2
+2002,Querétaro,lesiones,Mujeres,27.1
+2002,Quintana Roo,lesiones,Mujeres,19.4
+2002,San Luis Potosí,lesiones,Mujeres,20.6
+2002,Sinaloa,lesiones,Mujeres,22
+2002,Sonora,lesiones,Mujeres,22.9
+2002,Tabasco,lesiones,Mujeres,20.8
+2002,Tamaulipas,lesiones,Mujeres,19.9
+2002,Tlaxcala,lesiones,Mujeres,27.8
+2002,Veracruz,lesiones,Mujeres,18.1
+2002,Yucatán,lesiones,Mujeres,18.4
+2002,Zacatecas,lesiones,Mujeres,28.3
+2003,Aguascalientes,lesiones,Mujeres,32.8
+2003,Baja California,lesiones,Mujeres,31.3
+2003,Baja California Sur,lesiones,Mujeres,25.1
+2003,Campeche,lesiones,Mujeres,18.7
+2003,Coahuila,lesiones,Mujeres,24.1
+2003,Colima,lesiones,Mujeres,30
+2003,Chiapas,lesiones,Mujeres,19.6
+2003,Chihuahua,lesiones,Mujeres,35.3
+2003,Distrito Federal,lesiones,Mujeres,21.4
+2003,Durango,lesiones,Mujeres,26.2
+2003,Guanajuato,lesiones,Mujeres,22.9
+2003,Guerrero,lesiones,Mujeres,26.6
+2003,Hidalgo,lesiones,Mujeres,21.7
+2003,Jalisco,lesiones,Mujeres,26.3
+2003,México,lesiones,Mujeres,22
+2003,Michoacán,lesiones,Mujeres,25.9
+2003,Morelos,lesiones,Mujeres,21
+2003,Nayarit,lesiones,Mujeres,29.5
+2003,Nuevo León,lesiones,Mujeres,18.3
+2003,Oaxaca,lesiones,Mujeres,25.1
+2003,Puebla,lesiones,Mujeres,22.9
+2003,Querétaro,lesiones,Mujeres,21.3
+2003,Quintana Roo,lesiones,Mujeres,26
+2003,San Luis Potosí,lesiones,Mujeres,19.4
+2003,Sinaloa,lesiones,Mujeres,20.6
+2003,Sonora,lesiones,Mujeres,21.5
+2003,Tabasco,lesiones,Mujeres,19.9
+2003,Tamaulipas,lesiones,Mujeres,17.1
+2003,Tlaxcala,lesiones,Mujeres,23.2
+2003,Veracruz,lesiones,Mujeres,18.3
+2003,Yucatán,lesiones,Mujeres,20.4
+2003,Zacatecas,lesiones,Mujeres,35.1
+2004,Aguascalientes,lesiones,Mujeres,23.6
+2004,Baja California,lesiones,Mujeres,31
+2004,Baja California Sur,lesiones,Mujeres,27.2
+2004,Campeche,lesiones,Mujeres,19.3
+2004,Coahuila,lesiones,Mujeres,21.5
+2004,Colima,lesiones,Mujeres,21.2
+2004,Chiapas,lesiones,Mujeres,18.5
+2004,Chihuahua,lesiones,Mujeres,31.2
+2004,Distrito Federal,lesiones,Mujeres,18.2
+2004,Durango,lesiones,Mujeres,24.8
+2004,Guanajuato,lesiones,Mujeres,22.9
+2004,Guerrero,lesiones,Mujeres,25.2
+2004,Hidalgo,lesiones,Mujeres,25.2
+2004,Jalisco,lesiones,Mujeres,24.3
+2004,México,lesiones,Mujeres,22.2
+2004,Michoacán,lesiones,Mujeres,27.4
+2004,Morelos,lesiones,Mujeres,23.2
+2004,Nayarit,lesiones,Mujeres,32.2
+2004,Nuevo León,lesiones,Mujeres,20.5
+2004,Oaxaca,lesiones,Mujeres,22.6
+2004,Puebla,lesiones,Mujeres,21.9
+2004,Querétaro,lesiones,Mujeres,24.1
+2004,Quintana Roo,lesiones,Mujeres,27.8
+2004,San Luis Potosí,lesiones,Mujeres,19.7
+2004,Sinaloa,lesiones,Mujeres,22.2
+2004,Sonora,lesiones,Mujeres,23.6
+2004,Tabasco,lesiones,Mujeres,23.7
+2004,Tamaulipas,lesiones,Mujeres,20.2
+2004,Tlaxcala,lesiones,Mujeres,26.4
+2004,Veracruz,lesiones,Mujeres,16.4
+2004,Yucatán,lesiones,Mujeres,15.9
+2004,Zacatecas,lesiones,Mujeres,27.8
+2005,Aguascalientes,lesiones,Mujeres,31.7
+2005,Baja California,lesiones,Mujeres,31.7
+2005,Baja California Sur,lesiones,Mujeres,36.7
+2005,Campeche,lesiones,Mujeres,22.4
+2005,Coahuila,lesiones,Mujeres,23.5
+2005,Colima,lesiones,Mujeres,24.3
+2005,Chiapas,lesiones,Mujeres,20.2
+2005,Chihuahua,lesiones,Mujeres,33.6
+2005,Distrito Federal,lesiones,Mujeres,20.7
+2005,Durango,lesiones,Mujeres,25.3
+2005,Guanajuato,lesiones,Mujeres,24.5
+2005,Guerrero,lesiones,Mujeres,21.1
+2005,Hidalgo,lesiones,Mujeres,22
+2005,Jalisco,lesiones,Mujeres,21.4
+2005,México,lesiones,Mujeres,22.8
+2005,Michoacán,lesiones,Mujeres,27.7
+2005,Morelos,lesiones,Mujeres,24
+2005,Nayarit,lesiones,Mujeres,25.6
+2005,Nuevo León,lesiones,Mujeres,21.6
+2005,Oaxaca,lesiones,Mujeres,24.7
+2005,Puebla,lesiones,Mujeres,23.5
+2005,Querétaro,lesiones,Mujeres,23.7
+2005,Quintana Roo,lesiones,Mujeres,27.8
+2005,San Luis Potosí,lesiones,Mujeres,20.1
+2005,Sinaloa,lesiones,Mujeres,24.3
+2005,Sonora,lesiones,Mujeres,24.4
+2005,Tabasco,lesiones,Mujeres,21.2
+2005,Tamaulipas,lesiones,Mujeres,21.7
+2005,Tlaxcala,lesiones,Mujeres,21.1
+2005,Veracruz,lesiones,Mujeres,17
+2005,Yucatán,lesiones,Mujeres,16.6
+2005,Zacatecas,lesiones,Mujeres,29
+2006,Aguascalientes,lesiones,Mujeres,24.2
+2006,Baja California,lesiones,Mujeres,29.3
+2006,Baja California Sur,lesiones,Mujeres,28.2
+2006,Campeche,lesiones,Mujeres,15.5
+2006,Coahuila,lesiones,Mujeres,21.3
+2006,Colima,lesiones,Mujeres,21.1
+2006,Chiapas,lesiones,Mujeres,24
+2006,Chihuahua,lesiones,Mujeres,36
+2006,Distrito Federal,lesiones,Mujeres,18.6
+2006,Durango,lesiones,Mujeres,28.1
+2006,Guanajuato,lesiones,Mujeres,20
+2006,Guerrero,lesiones,Mujeres,26.5
+2006,Hidalgo,lesiones,Mujeres,22
+2006,Jalisco,lesiones,Mujeres,24.6
+2006,México,lesiones,Mujeres,20.4
+2006,Michoacán,lesiones,Mujeres,27.6
+2006,Morelos,lesiones,Mujeres,22.1
+2006,Nayarit,lesiones,Mujeres,28.1
+2006,Nuevo León,lesiones,Mujeres,21.2
+2006,Oaxaca,lesiones,Mujeres,23.7
+2006,Puebla,lesiones,Mujeres,20.5
+2006,Querétaro,lesiones,Mujeres,23.4
+2006,Quintana Roo,lesiones,Mujeres,21.2
+2006,San Luis Potosí,lesiones,Mujeres,22.7
+2006,Sinaloa,lesiones,Mujeres,23.5
+2006,Sonora,lesiones,Mujeres,27.2
+2006,Tabasco,lesiones,Mujeres,26.4
+2006,Tamaulipas,lesiones,Mujeres,20.4
+2006,Tlaxcala,lesiones,Mujeres,24.1
+2006,Veracruz,lesiones,Mujeres,16.6
+2006,Yucatán,lesiones,Mujeres,18.4
+2006,Zacatecas,lesiones,Mujeres,25
+2007,Aguascalientes,lesiones,Mujeres,20.7
+2007,Baja California,lesiones,Mujeres,26.5
+2007,Baja California Sur,lesiones,Mujeres,35
+2007,Campeche,lesiones,Mujeres,19.2
+2007,Coahuila,lesiones,Mujeres,22.7
+2007,Colima,lesiones,Mujeres,26.2
+2007,Chiapas,lesiones,Mujeres,20.2
+2007,Chihuahua,lesiones,Mujeres,29.4
+2007,Distrito Federal,lesiones,Mujeres,17
+2007,Durango,lesiones,Mujeres,29.5
+2007,Guanajuato,lesiones,Mujeres,20.1
+2007,Guerrero,lesiones,Mujeres,29.3
+2007,Hidalgo,lesiones,Mujeres,24.2
+2007,Jalisco,lesiones,Mujeres,25.3
+2007,México,lesiones,Mujeres,21.7
+2007,Michoacán,lesiones,Mujeres,30.7
+2007,Morelos,lesiones,Mujeres,22.9
+2007,Nayarit,lesiones,Mujeres,27.2
+2007,Nuevo León,lesiones,Mujeres,19.3
+2007,Oaxaca,lesiones,Mujeres,21.6
+2007,Puebla,lesiones,Mujeres,20.8
+2007,Querétaro,lesiones,Mujeres,24.1
+2007,Quintana Roo,lesiones,Mujeres,28.6
+2007,San Luis Potosí,lesiones,Mujeres,23.5
+2007,Sinaloa,lesiones,Mujeres,24.6
+2007,Sonora,lesiones,Mujeres,28.8
+2007,Tabasco,lesiones,Mujeres,23.2
+2007,Tamaulipas,lesiones,Mujeres,21.3
+2007,Tlaxcala,lesiones,Mujeres,21.5
+2007,Veracruz,lesiones,Mujeres,16.8
+2007,Yucatán,lesiones,Mujeres,14.8
+2007,Zacatecas,lesiones,Mujeres,26.2
+2008,Aguascalientes,lesiones,Mujeres,24.5
+2008,Baja California,lesiones,Mujeres,28.7
+2008,Baja California Sur,lesiones,Mujeres,32.6
+2008,Campeche,lesiones,Mujeres,17.2
+2008,Coahuila,lesiones,Mujeres,22.1
+2008,Colima,lesiones,Mujeres,32.3
+2008,Chiapas,lesiones,Mujeres,18.5
+2008,Chihuahua,lesiones,Mujeres,40.1
+2008,Distrito Federal,lesiones,Mujeres,16.9
+2008,Durango,lesiones,Mujeres,33.4
+2008,Guanajuato,lesiones,Mujeres,22.4
+2008,Guerrero,lesiones,Mujeres,28.5
+2008,Hidalgo,lesiones,Mujeres,23.7
+2008,Jalisco,lesiones,Mujeres,25.8
+2008,México,lesiones,Mujeres,20.1
+2008,Michoacán,lesiones,Mujeres,31.5
+2008,Morelos,lesiones,Mujeres,21.5
+2008,Nayarit,lesiones,Mujeres,27.1
+2008,Nuevo León,lesiones,Mujeres,16.6
+2008,Oaxaca,lesiones,Mujeres,22.4
+2008,Puebla,lesiones,Mujeres,19.3
+2008,Querétaro,lesiones,Mujeres,19.9
+2008,Quintana Roo,lesiones,Mujeres,22.8
+2008,San Luis Potosí,lesiones,Mujeres,18.6
+2008,Sinaloa,lesiones,Mujeres,22.4
+2008,Sonora,lesiones,Mujeres,27.1
+2008,Tabasco,lesiones,Mujeres,24.2
+2008,Tamaulipas,lesiones,Mujeres,19.8
+2008,Tlaxcala,lesiones,Mujeres,24.3
+2008,Veracruz,lesiones,Mujeres,18.2
+2008,Yucatán,lesiones,Mujeres,16
+2008,Zacatecas,lesiones,Mujeres,28.5
+2e3,Aguascalientes,lesiones,Hombres,82.9
+2e3,Baja California,lesiones,Hombres,135.9
+2e3,Baja California Sur,lesiones,Hombres,95.8
+2e3,Campeche,lesiones,Hombres,105.8
+2e3,Coahuila,lesiones,Hombres,75
+2e3,Colima,lesiones,Hombres,97.2
+2e3,Chiapas,lesiones,Hombres,116.5
+2e3,Chihuahua,lesiones,Hombres,137.1
+2e3,Distrito Federal,lesiones,Hombres,74.3
+2e3,Durango,lesiones,Hombres,89.6
+2e3,Guanajuato,lesiones,Hombres,92.8
+2e3,Guerrero,lesiones,Hombres,140.1
+2e3,Hidalgo,lesiones,Hombres,96.7
+2e3,Jalisco,lesiones,Hombres,98.6
+2e3,México,lesiones,Hombres,94.4
+2e3,Michoacán,lesiones,Hombres,134.7
+2e3,Morelos,lesiones,Hombres,96.4
+2e3,Nayarit,lesiones,Hombres,106.1
+2e3,Nuevo León,lesiones,Hombres,63.9
+2e3,Oaxaca,lesiones,Hombres,122.3
+2e3,Puebla,lesiones,Hombres,98.4
+2e3,Querétaro,lesiones,Hombres,103.8
+2e3,Quintana Roo,lesiones,Hombres,98.6
+2e3,San Luis Potosí,lesiones,Hombres,94.2
+2e3,Sinaloa,lesiones,Hombres,115.4
+2e3,Sonora,lesiones,Hombres,100.4
+2e3,Tabasco,lesiones,Hombres,123.8
+2e3,Tamaulipas,lesiones,Hombres,89.9
+2e3,Tlaxcala,lesiones,Hombres,81.7
+2e3,Veracruz,lesiones,Hombres,86.7
+2e3,Yucatán,lesiones,Hombres,77
+2e3,Zacatecas,lesiones,Hombres,105
+2001,Aguascalientes,lesiones,Hombres,79.2
+2001,Baja California,lesiones,Hombres,123.7
+2001,Baja California Sur,lesiones,Hombres,89
+2001,Campeche,lesiones,Hombres,82.5
+2001,Coahuila,lesiones,Hombres,78.7
+2001,Colima,lesiones,Hombres,97.3
+2001,Chiapas,lesiones,Hombres,102.8
+2001,Chihuahua,lesiones,Hombres,132.1
+2001,Distrito Federal,lesiones,Hombres,74.8
+2001,Durango,lesiones,Hombres,96.4
+2001,Guanajuato,lesiones,Hombres,86.1
+2001,Guerrero,lesiones,Hombres,126.6
+2001,Hidalgo,lesiones,Hombres,93.3
+2001,Jalisco,lesiones,Hombres,97.6
+2001,México,lesiones,Hombres,90.1
+2001,Michoacán,lesiones,Hombres,127
+2001,Morelos,lesiones,Hombres,94.6
+2001,Nayarit,lesiones,Hombres,107.8
+2001,Nuevo León,lesiones,Hombres,67.2
+2001,Oaxaca,lesiones,Hombres,121.3
+2001,Puebla,lesiones,Hombres,90.9
+2001,Querétaro,lesiones,Hombres,111
+2001,Quintana Roo,lesiones,Hombres,102.2
+2001,San Luis Potosí,lesiones,Hombres,91.9
+2001,Sinaloa,lesiones,Hombres,110
+2001,Sonora,lesiones,Hombres,106.5
+2001,Tabasco,lesiones,Hombres,123.7
+2001,Tamaulipas,lesiones,Hombres,81.1
+2001,Tlaxcala,lesiones,Hombres,91.9
+2001,Veracruz,lesiones,Hombres,85.1
+2001,Yucatán,lesiones,Hombres,69.8
+2001,Zacatecas,lesiones,Hombres,101.5
+2002,Aguascalientes,lesiones,Hombres,97.4
+2002,Baja California,lesiones,Hombres,114.9
+2002,Baja California Sur,lesiones,Hombres,85.7
+2002,Campeche,lesiones,Hombres,101.4
+2002,Coahuila,lesiones,Hombres,77.5
+2002,Colima,lesiones,Hombres,95.8
+2002,Chiapas,lesiones,Hombres,106.1
+2002,Chihuahua,lesiones,Hombres,135.1
+2002,Distrito Federal,lesiones,Hombres,75
+2002,Durango,lesiones,Hombres,103.1
+2002,Guanajuato,lesiones,Hombres,90.1
+2002,Guerrero,lesiones,Hombres,122.4
+2002,Hidalgo,lesiones,Hombres,85.9
+2002,Jalisco,lesiones,Hombres,94.2
+2002,México,lesiones,Hombres,87.3
+2002,Michoacán,lesiones,Hombres,118.7
+2002,Morelos,lesiones,Hombres,88.1
+2002,Nayarit,lesiones,Hombres,126
+2002,Nuevo León,lesiones,Hombres,62.3
+2002,Oaxaca,lesiones,Hombres,117.6
+2002,Puebla,lesiones,Hombres,90
+2002,Querétaro,lesiones,Hombres,92.4
+2002,Quintana Roo,lesiones,Hombres,100.2
+2002,San Luis Potosí,lesiones,Hombres,91.9
+2002,Sinaloa,lesiones,Hombres,110
+2002,Sonora,lesiones,Hombres,95.6
+2002,Tabasco,lesiones,Hombres,112.6
+2002,Tamaulipas,lesiones,Hombres,77.8
+2002,Tlaxcala,lesiones,Hombres,103.1
+2002,Veracruz,lesiones,Hombres,84.4
+2002,Yucatán,lesiones,Hombres,88.4
+2002,Zacatecas,lesiones,Hombres,112.3
+2003,Aguascalientes,lesiones,Hombres,89.6
+2003,Baja California,lesiones,Hombres,120.1
+2003,Baja California Sur,lesiones,Hombres,82.1
+2003,Campeche,lesiones,Hombres,93.6
+2003,Coahuila,lesiones,Hombres,71.7
+2003,Colima,lesiones,Hombres,82.9
+2003,Chiapas,lesiones,Hombres,96.7
+2003,Chihuahua,lesiones,Hombres,132.2
+2003,Distrito Federal,lesiones,Hombres,74.9
+2003,Durango,lesiones,Hombres,111.6
+2003,Guanajuato,lesiones,Hombres,88.3
+2003,Guerrero,lesiones,Hombres,118
+2003,Hidalgo,lesiones,Hombres,87.1
+2003,Jalisco,lesiones,Hombres,94.3
+2003,México,lesiones,Hombres,84.1
+2003,Michoacán,lesiones,Hombres,120.7
+2003,Morelos,lesiones,Hombres,89.5
+2003,Nayarit,lesiones,Hombres,115.1
+2003,Nuevo León,lesiones,Hombres,66.8
+2003,Oaxaca,lesiones,Hombres,120.2
+2003,Puebla,lesiones,Hombres,91.1
+2003,Querétaro,lesiones,Hombres,87.2
+2003,Quintana Roo,lesiones,Hombres,92.1
+2003,San Luis Potosí,lesiones,Hombres,88.7
+2003,Sinaloa,lesiones,Hombres,103.9
+2003,Sonora,lesiones,Hombres,91.4
+2003,Tabasco,lesiones,Hombres,114.3
+2003,Tamaulipas,lesiones,Hombres,78.2
+2003,Tlaxcala,lesiones,Hombres,80.6
+2003,Veracruz,lesiones,Hombres,83.8
+2003,Yucatán,lesiones,Hombres,78.2
+2003,Zacatecas,lesiones,Hombres,117.2
+2004,Aguascalientes,lesiones,Hombres,84
+2004,Baja California,lesiones,Hombres,114.1
+2004,Baja California Sur,lesiones,Hombres,84.6
+2004,Campeche,lesiones,Hombres,78.3
+2004,Coahuila,lesiones,Hombres,66.9
+2004,Colima,lesiones,Hombres,90.8
+2004,Chiapas,lesiones,Hombres,93.4
+2004,Chihuahua,lesiones,Hombres,126.4
+2004,Distrito Federal,lesiones,Hombres,67
+2004,Durango,lesiones,Hombres,101.3
+2004,Guanajuato,lesiones,Hombres,86.3
+2004,Guerrero,lesiones,Hombres,115.9
+2004,Hidalgo,lesiones,Hombres,100
+2004,Jalisco,lesiones,Hombres,88.9
+2004,México,lesiones,Hombres,81.8
+2004,Michoacán,lesiones,Hombres,119.9
+2004,Morelos,lesiones,Hombres,80.5
+2004,Nayarit,lesiones,Hombres,109.6
+2004,Nuevo León,lesiones,Hombres,60.7
+2004,Oaxaca,lesiones,Hombres,112.3
+2004,Puebla,lesiones,Hombres,87.5
+2004,Querétaro,lesiones,Hombres,99.2
+2004,Quintana Roo,lesiones,Hombres,97.1
+2004,San Luis Potosí,lesiones,Hombres,88
+2004,Sinaloa,lesiones,Hombres,106.3
+2004,Sonora,lesiones,Hombres,98.4
+2004,Tabasco,lesiones,Hombres,116.7
+2004,Tamaulipas,lesiones,Hombres,84
+2004,Tlaxcala,lesiones,Hombres,74.3
+2004,Veracruz,lesiones,Hombres,78.3
+2004,Yucatán,lesiones,Hombres,73.9
+2004,Zacatecas,lesiones,Hombres,107.1
+2005,Aguascalientes,lesiones,Hombres,82.4
+2005,Baja California,lesiones,Hombres,112.7
+2005,Baja California Sur,lesiones,Hombres,101.9
+2005,Campeche,lesiones,Hombres,90.9
+2005,Coahuila,lesiones,Hombres,77.4
+2005,Colima,lesiones,Hombres,79.9
+2005,Chiapas,lesiones,Hombres,99.3
+2005,Chihuahua,lesiones,Hombres,124.7
+2005,Distrito Federal,lesiones,Hombres,65.6
+2005,Durango,lesiones,Hombres,110.8
+2005,Guanajuato,lesiones,Hombres,88.9
+2005,Guerrero,lesiones,Hombres,112.2
+2005,Hidalgo,lesiones,Hombres,87.2
+2005,Jalisco,lesiones,Hombres,89.9
+2005,México,lesiones,Hombres,81.7
+2005,Michoacán,lesiones,Hombres,132.7
+2005,Morelos,lesiones,Hombres,80.4
+2005,Nayarit,lesiones,Hombres,118
+2005,Nuevo León,lesiones,Hombres,66.4
+2005,Oaxaca,lesiones,Hombres,114.5
+2005,Puebla,lesiones,Hombres,82.8
+2005,Querétaro,lesiones,Hombres,89.7
+2005,Quintana Roo,lesiones,Hombres,93.7
+2005,San Luis Potosí,lesiones,Hombres,88.4
+2005,Sinaloa,lesiones,Hombres,111.7
+2005,Sonora,lesiones,Hombres,100.6
+2005,Tabasco,lesiones,Hombres,114.2
+2005,Tamaulipas,lesiones,Hombres,86.4
+2005,Tlaxcala,lesiones,Hombres,73.6
+2005,Veracruz,lesiones,Hombres,77.6
+2005,Yucatán,lesiones,Hombres,72.6
+2005,Zacatecas,lesiones,Hombres,115.8
+2006,Aguascalientes,lesiones,Hombres,79.8
+2006,Baja California,lesiones,Hombres,106.6
+2006,Baja California Sur,lesiones,Hombres,91.6
+2006,Campeche,lesiones,Hombres,86.7
+2006,Coahuila,lesiones,Hombres,76.8
+2006,Colima,lesiones,Hombres,83.2
+2006,Chiapas,lesiones,Hombres,107.6
+2006,Chihuahua,lesiones,Hombres,139.7
+2006,Distrito Federal,lesiones,Hombres,64.3
+2006,Durango,lesiones,Hombres,107.5
+2006,Guanajuato,lesiones,Hombres,84.3
+2006,Guerrero,lesiones,Hombres,125.3
+2006,Hidalgo,lesiones,Hombres,84.7
+2006,Jalisco,lesiones,Hombres,86.2
+2006,México,lesiones,Hombres,78.6
+2006,Michoacán,lesiones,Hombres,152.7
+2006,Morelos,lesiones,Hombres,83.8
+2006,Nayarit,lesiones,Hombres,116.5
+2006,Nuevo León,lesiones,Hombres,62.3
+2006,Oaxaca,lesiones,Hombres,104.8
+2006,Puebla,lesiones,Hombres,80.4
+2006,Querétaro,lesiones,Hombres,85.4
+2006,Quintana Roo,lesiones,Hombres,86.5
+2006,San Luis Potosí,lesiones,Hombres,87.5
+2006,Sinaloa,lesiones,Hombres,115.2
+2006,Sonora,lesiones,Hombres,103.9
+2006,Tabasco,lesiones,Hombres,126.4
+2006,Tamaulipas,lesiones,Hombres,87.4
+2006,Tlaxcala,lesiones,Hombres,85.7
+2006,Veracruz,lesiones,Hombres,77.3
+2006,Yucatán,lesiones,Hombres,71.5
+2006,Zacatecas,lesiones,Hombres,106.1
+2007,Aguascalientes,lesiones,Hombres,88.4
+2007,Baja California,lesiones,Hombres,102
+2007,Baja California Sur,lesiones,Hombres,114.8
+2007,Campeche,lesiones,Hombres,83.5
+2007,Coahuila,lesiones,Hombres,82.5
+2007,Colima,lesiones,Hombres,85.9
+2007,Chiapas,lesiones,Hombres,89.1
+2007,Chihuahua,lesiones,Hombres,124
+2007,Distrito Federal,lesiones,Hombres,64.2
+2007,Durango,lesiones,Hombres,123.5
+2007,Guanajuato,lesiones,Hombres,88.2
+2007,Guerrero,lesiones,Hombres,145.8
+2007,Hidalgo,lesiones,Hombres,85.3
+2007,Jalisco,lesiones,Hombres,88.2
+2007,México,lesiones,Hombres,75.2
+2007,Michoacán,lesiones,Hombres,141
+2007,Morelos,lesiones,Hombres,82.7
+2007,Nayarit,lesiones,Hombres,119.5
+2007,Nuevo León,lesiones,Hombres,68.8
+2007,Oaxaca,lesiones,Hombres,117
+2007,Puebla,lesiones,Hombres,79
+2007,Querétaro,lesiones,Hombres,83.7
+2007,Quintana Roo,lesiones,Hombres,107.5
+2007,San Luis Potosí,lesiones,Hombres,86.7
+2007,Sinaloa,lesiones,Hombres,122.7
+2007,Sonora,lesiones,Hombres,110.1
+2007,Tabasco,lesiones,Hombres,122.5
+2007,Tamaulipas,lesiones,Hombres,75.2
+2007,Tlaxcala,lesiones,Hombres,73.1
+2007,Veracruz,lesiones,Hombres,83
+2007,Yucatán,lesiones,Hombres,74.1
+2007,Zacatecas,lesiones,Hombres,109.1
+2008,Aguascalientes,lesiones,Hombres,83.9
+2008,Baja California,lesiones,Hombres,120.6
+2008,Baja California Sur,lesiones,Hombres,99.6
+2008,Campeche,lesiones,Hombres,96.9
+2008,Coahuila,lesiones,Hombres,79.4
+2008,Colima,lesiones,Hombres,85.2
+2008,Chiapas,lesiones,Hombres,97
+2008,Chihuahua,lesiones,Hombres,244.3
+2008,Distrito Federal,lesiones,Hombres,62.1
+2008,Durango,lesiones,Hombres,155.1
+2008,Guanajuato,lesiones,Hombres,90.8
+2008,Guerrero,lesiones,Hombres,150.5
+2008,Hidalgo,lesiones,Hombres,93.1
+2008,Jalisco,lesiones,Hombres,92
+2008,México,lesiones,Hombres,78.6
+2008,Michoacán,lesiones,Hombres,140.1
+2008,Morelos,lesiones,Hombres,89.9
+2008,Nayarit,lesiones,Hombres,125.3
+2008,Nuevo León,lesiones,Hombres,65.2
+2008,Oaxaca,lesiones,Hombres,119.1
+2008,Puebla,lesiones,Hombres,83.8
+2008,Querétaro,lesiones,Hombres,84.1
+2008,Quintana Roo,lesiones,Hombres,106.4
+2008,San Luis Potosí,lesiones,Hombres,93.7
+2008,Sinaloa,lesiones,Hombres,155.6
+2008,Sonora,lesiones,Hombres,110
+2008,Tabasco,lesiones,Hombres,125.8
+2008,Tamaulipas,lesiones,Hombres,83.6
+2008,Tlaxcala,lesiones,Hombres,73.3
+2008,Veracruz,lesiones,Hombres,85.5
+2008,Yucatán,lesiones,Hombres,72
+2008,Zacatecas,lesiones,Hombres,113.9

@@ -1,0 +1,2457 @@
+Cve_Ent,Ent,Cve_Mun,Mun,Gini,Grado_cohesion_social,Grado_de_polarizacion
+01,Aguascalientes,01001,Aguascalientes,0.437,Alta cohesión social,Polo de baja marginación
+01,Aguascalientes,01002,Asientos,0.371,Alta cohesión social,Sin polo
+01,Aguascalientes,01003,Calvillo,0.384,Alta cohesión social,Polo de baja marginación
+01,Aguascalientes,01004,Cosío,0.381,Alta cohesión social,Sin polo
+01,Aguascalientes,01005,Jesús María,0.421,Alta cohesión social,Polo de baja marginación
+01,Aguascalientes,01006,Pabellón de Arteaga,0.431,Alta cohesión social,Polo de baja marginación
+01,Aguascalientes,01007,Rincón de Romos,0.432,Alta cohesión social,Polo de baja marginación
+01,Aguascalientes,01008,San José de Gracia,0.452,Alta cohesión social,Polo de baja marginación
+01,Aguascalientes,01009,Tepezalá,0.349,Alta cohesión social,Sin polo
+01,Aguascalientes,01010,El Llano,0.357,Alta cohesión social,Sin polo
+01,Aguascalientes,01011,San Francisco de los Romo,0.393,Alta cohesión social,Polo de baja marginación
+02,Baja California,02001,Ensenada,0.452,Alta cohesión social,Sin polo
+02,Baja California,02002,Mexicali,0.440,Alta cohesión social,Polo de baja marginación
+02,Baja California,02003,Tecate,0.445,Alta cohesión social,Polo de baja marginación
+02,Baja California,02004,Tijuana,0.438,Alta cohesión social,Polo de baja marginación
+02,Baja California,02005,Playas de Rosarito,0.456,Alta cohesión social,Polo de baja marginación
+03,Baja California Sur,03001,Comondú,0.417,Alta cohesión social,Polo de baja marginación
+03,Baja California Sur,03002,Mulegé,0.410,Alta cohesión social,Sin polo
+03,Baja California Sur,03003,La Paz,0.440,Alta cohesión social,Polo de baja marginación
+03,Baja California Sur,03008,Los Cabos,0.461,Alta cohesión social,Sin polo
+03,Baja California Sur,03009,Loreto,0.424,Alta cohesión social,Polo de baja marginación
+04,Campeche,04001,Calkiní,0.479,Alta cohesión social,Sin polo
+04,Campeche,04002,Campeche,0.448,Alta cohesión social,Polo de baja marginación
+04,Campeche,04003,Carmen,0.485,Alta cohesión social,Polo de baja marginación
+04,Campeche,04004,Champotón,0.395,Alta cohesión social,Sin polo
+04,Campeche,04005,Hecelchakán,0.437,Alta cohesión social,Sin polo
+04,Campeche,04006,Hopelchén,0.448,Alta cohesión social,Sin polo
+04,Campeche,04007,Palizada,0.441,Alta cohesión social,Sin polo
+04,Campeche,04008,Tenabo,0.432,Baja cohesión social,Polo de alta marginación
+04,Campeche,04009,Escárcega,0.461,Alta cohesión social,Sin polo
+04,Campeche,04010,Calakmul,0.462,Baja cohesión social,Polo de alta marginación
+04,Campeche,04011,Candelaria,0.450,Alta cohesión social,Sin polo
+05,Coahuila,05001,Abasolo,0.369,Alta cohesión social,Polo de baja marginación
+05,Coahuila,05002,Acuña,0.400,Alta cohesión social,Polo de baja marginación
+05,Coahuila,05003,Allende,0.413,Alta cohesión social,Polo de baja marginación
+05,Coahuila,05004,Arteaga,0.379,Alta cohesión social,Sin polo
+05,Coahuila,05005,Candela,0.370,Alta cohesión social,Polo de baja marginación
+05,Coahuila,05006,Castaños,0.378,Alta cohesión social,Polo de baja marginación
+05,Coahuila,05007,Cuatro Ciénegas,0.434,Alta cohesión social,Polo de baja marginación
+05,Coahuila,05008,Escobedo,0.365,Alta cohesión social,Polo de baja marginación
+05,Coahuila,05009,Francisco I. Madero,0.398,Alta cohesión social,Polo de baja marginación
+05,Coahuila,05010,Frontera,0.370,Alta cohesión social,Polo de baja marginación
+05,Coahuila,05011,General Cepeda,0.523,Alta cohesión social,Sin polo
+05,Coahuila,05012,Guerrero,0.393,Alta cohesión social,Sin polo
+05,Coahuila,05013,Hidalgo,0.358,Alta cohesión social,Polo de baja marginación
+05,Coahuila,05014,Jiménez,0.347,Alta cohesión social,Sin polo
+05,Coahuila,05015,Juárez,0.366,Alta cohesión social,Polo de baja marginación
+05,Coahuila,05016,Lamadrid,0.396,Alta cohesión social,Polo de baja marginación
+05,Coahuila,05017,Matamoros,0.383,Alta cohesión social,Polo de baja marginación
+05,Coahuila,05018,Monclova,0.409,Alta cohesión social,Polo de baja marginación
+05,Coahuila,05019,Morelos,0.400,Alta cohesión social,Polo de baja marginación
+05,Coahuila,05020,Múzquiz,0.377,Alta cohesión social,Polo de baja marginación
+05,Coahuila,05021,Nadadores,0.383,Alta cohesión social,Polo de baja marginación
+05,Coahuila,05022,Nava,0.364,Alta cohesión social,Polo de baja marginación
+05,Coahuila,05023,Ocampo,0.378,Alta cohesión social,Sin polo
+05,Coahuila,05024,Parras,0.428,Alta cohesión social,Polo de baja marginación
+05,Coahuila,05025,Piedras Negras,0.403,Alta cohesión social,Polo de baja marginación
+05,Coahuila,05026,Progreso,0.346,Alta cohesión social,Polo de baja marginación
+05,Coahuila,05027,Ramos Arizpe,0.446,Alta cohesión social,Polo de baja marginación
+05,Coahuila,05028,Sabinas,0.411,Alta cohesión social,Polo de baja marginación
+05,Coahuila,05029,Sacramento,0.411,Alta cohesión social,Polo de baja marginación
+05,Coahuila,05030,Saltillo,0.442,Alta cohesión social,Polo de baja marginación
+05,Coahuila,05031,San Buenaventura,0.406,Alta cohesión social,Polo de baja marginación
+05,Coahuila,05032,San Juan de Sabinas,0.405,Alta cohesión social,Polo de baja marginación
+05,Coahuila,05033,San Pedro,0.403,Alta cohesión social,Sin polo
+05,Coahuila,05034,Sierra Mojada,0.379,Alta cohesión social,Polo de baja marginación
+05,Coahuila,05035,Torreón,0.452,Alta cohesión social,Polo de baja marginación
+05,Coahuila,05036,Viesca,0.482,Alta cohesión social,Sin polo
+05,Coahuila,05037,Villa Unión,0.346,Alta cohesión social,Polo de baja marginación
+05,Coahuila,05038,Zaragoza,0.378,Alta cohesión social,Polo de baja marginación
+06,Colima,06001,Armería,0.591,Alta cohesión social,Sin polo
+06,Colima,06002,Colima,0.450,Alta cohesión social,Polo de baja marginación
+06,Colima,06003,Comala,0.397,Alta cohesión social,Sin polo
+06,Colima,06004,Coquimatlán,0.383,Alta cohesión social,Polo de baja marginación
+06,Colima,06005,Cuauhtémoc,0.402,Alta cohesión social,Polo de baja marginación
+06,Colima,06006,Ixtlahuacán,0.393,Baja cohesión social,Polarizado
+06,Colima,06007,Manzanillo,0.458,Alta cohesión social,Polo de baja marginación
+06,Colima,06008,Minatitlán,0.402,Alta cohesión social,Sin polo
+06,Colima,06009,Tecomán,0.403,Alta cohesión social,Sin polo
+06,Colima,06010,Villa de Álvarez,0.439,Alta cohesión social,Polo de baja marginación
+07,Chiapas,07001,Acacoyagua,0.425,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07002,Acala,0.439,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07003,Acapetahua,0.432,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07004,Altamirano,0.548,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07005,Amatán,0.421,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07006,Amatenango de la Frontera,0.410,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07007,Amatenango del Valle,0.399,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07008,Angel Albino Corzo,0.424,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07009,Arriaga,0.432,Alta cohesión social,Sin polo
+07,Chiapas,07010,Bejucal de Ocampo,0.375,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07011,Bella Vista,0.363,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07012,Berriozábal,0.448,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07013,Bochil,0.505,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07014,El Bosque,0.429,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07015,Cacahoatán,0.458,Alta cohesión social,Sin polo
+07,Chiapas,07016,Catazajá,0.461,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07017,Cintalapa,0.464,Alta cohesión social,Sin polo
+07,Chiapas,07018,Coapilla,0.452,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07019,Comitán de Domínguez,0.450,Alta cohesión social,Sin polo
+07,Chiapas,07020,La Concordia,0.402,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07021,Copainalá,0.445,Alta cohesión social,Sin polo
+07,Chiapas,07022,Chalchihuitán,0.377,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07023,Chamula,0.391,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07024,Chanal,0.390,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07025,Chapultenango,0.427,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07026,Chenalhó,0.431,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07027,Chiapa de Corzo,0.480,Alta cohesión social,Sin polo
+07,Chiapas,07028,Chiapilla,0.396,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07029,Chicoasén,0.395,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07030,Chicomuselo,0.449,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07031,Chilón,0.449,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07032,Escuintla,0.496,Alta cohesión social,Sin polo
+07,Chiapas,07033,Francisco León,0.354,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07034,Frontera Comalapa,0.439,Alta cohesión social,Sin polo
+07,Chiapas,07035,Frontera Hidalgo,0.466,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07036,La Grandeza,0.425,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07037,Huehuetán,0.478,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07038,Huixtán,0.401,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07039,Huitiupán,0.444,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07040,Huixtla,0.448,Alta cohesión social,Sin polo
+07,Chiapas,07041,La Independencia,0.371,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07042,Ixhuatán,0.418,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07043,Ixtacomitán,0.502,Alta cohesión social,Sin polo
+07,Chiapas,07044,Ixtapa,0.426,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07045,Ixtapangajoya,0.370,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07046,Jiquipilas,0.453,Alta cohesión social,Sin polo
+07,Chiapas,07047,Jitotol,0.488,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07048,Juárez,0.433,Alta cohesión social,Sin polo
+07,Chiapas,07049,Larráinzar,0.398,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07050,La Libertad,0.449,Alta cohesión social,Sin polo
+07,Chiapas,07051,Mapastepec,0.457,Alta cohesión social,Sin polo
+07,Chiapas,07052,Las Margaritas,0.491,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07053,Mazapa de Madero,0.396,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07054,Mazatán,0.431,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07055,Metapa,0.417,Alta cohesión social,Sin polo
+07,Chiapas,07056,Mitontic,0.389,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07057,Motozintla,0.456,Alta cohesión social,Sin polo
+07,Chiapas,07058,Nicolás Ruíz,0.343,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07059,Ocosingo,0.510,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07060,Ocotepec,0.461,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07061,Ocozocoautla de Espinosa,0.446,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07062,Ostuacán,0.426,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07063,Osumacinta,0.419,Alta cohesión social,Sin polo
+07,Chiapas,07064,Oxchuc,0.467,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07065,Palenque,0.470,Alta cohesión social,Sin polo
+07,Chiapas,07066,Pantelhó,0.443,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07067,Pantepec,0.360,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07068,Pichucalco,0.454,Alta cohesión social,Sin polo
+07,Chiapas,07069,Pijijiapan,0.446,Alta cohesión social,Sin polo
+07,Chiapas,07070,El Porvenir,0.388,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07071,Villa Comaltitlán,0.423,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07072,Pueblo Nuevo Solistahuacán,0.505,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07073,Rayón,0.498,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07074,Reforma,0.515,Alta cohesión social,Sin polo
+07,Chiapas,07075,Las Rosas,0.472,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07076,Sabanilla,0.412,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07077,Salto de Agua,0.410,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07078,San Cristóbal de las Casas,0.498,Alta cohesión social,Sin polo
+07,Chiapas,07079,San Fernando,0.413,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07080,Siltepec,0.410,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07081,Simojovel,0.538,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07082,Sitalá,0.395,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07083,Socoltenango,0.407,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07084,Solosuchiapa,0.393,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07085,Soyaló,0.410,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07086,Suchiapa,0.424,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07087,Suchiate,0.416,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07088,Sunuapa,0.407,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07089,Tapachula,0.496,Baja cohesión social,Polarizado
+07,Chiapas,07090,Tapalapa,0.391,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07091,Tapilula,0.432,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07092,Tecpatán,0.418,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07093,Tenejapa,0.385,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07094,Teopisca,0.469,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07096,Tila,0.476,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07097,Tonalá,0.466,Alta cohesión social,Sin polo
+07,Chiapas,07098,Totolapa,0.394,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07099,La Trinitaria,0.399,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07100,Tumbalá,0.428,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07101,Tuxtla Gutiérrez,0.472,Alta cohesión social,Polo de baja marginación
+07,Chiapas,07102,Tuxtla Chico,0.490,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07103,Tuzantán,0.421,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07104,Tzimol,0.405,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07105,Unión Juárez,0.439,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07106,Venustiano Carranza,0.434,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07107,Villa Corzo,0.440,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07108,Villaflores,0.431,Alta cohesión social,Sin polo
+07,Chiapas,07109,Yajalón,0.551,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07110,San Lucas,0.406,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07111,Zinacantán,0.406,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07112,San Juan Cancuc,0.390,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07113,Aldama,0.372,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07114,Benemérito de las Américas,0.406,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07115,Maravilla Tenejapa,0.394,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07116,Marqués de Comillas,0.357,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07117,Montecristo de Guerrero,0.387,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07118,San Andrés Duraznal,0.396,Baja cohesión social,Polo de alta marginación
+07,Chiapas,07119,Santiago el Pinar,0.389,Baja cohesión social,Polo de alta marginación
+08,Chihuahua,08001,Ahumada,0.385,Alta cohesión social,Polo de baja marginación
+08,Chihuahua,08002,Aldama,0.388,Alta cohesión social,Polo de baja marginación
+08,Chihuahua,08003,Allende,0.447,Alta cohesión social,Polo de baja marginación
+08,Chihuahua,08004,Aquiles Serdán,0.391,Alta cohesión social,Polo de baja marginación
+08,Chihuahua,08005,Ascensión,0.426,Alta cohesión social,Sin polo
+08,Chihuahua,08006,Bachíniva,0.389,Alta cohesión social,Sin polo
+08,Chihuahua,08007,Balleza,0.449,Baja cohesión social,Polo de alta marginación
+08,Chihuahua,08008,Batopilas,0.408,Baja cohesión social,Polo de alta marginación
+08,Chihuahua,08009,Bocoyna,0.463,Alta cohesión social,Sin polo
+08,Chihuahua,08010,Buenaventura,0.445,Alta cohesión social,Sin polo
+08,Chihuahua,08011,Camargo,0.424,Alta cohesión social,Polo de baja marginación
+08,Chihuahua,08012,Carichí,0.442,Baja cohesión social,Polarizado
+08,Chihuahua,08013,Casas Grandes,0.442,Alta cohesión social,Polo de baja marginación
+08,Chihuahua,08014,Coronado,0.386,Alta cohesión social,Polo de baja marginación
+08,Chihuahua,08015,Coyame del Sotol,0.445,Alta cohesión social,Polo de baja marginación
+08,Chihuahua,08016,La Cruz,0.452,Alta cohesión social,Polo de baja marginación
+08,Chihuahua,08017,Cuauhtémoc,0.402,Alta cohesión social,Polo de baja marginación
+08,Chihuahua,08018,Cusihuiriachi,0.462,Alta cohesión social,Sin polo
+08,Chihuahua,08019,Chihuahua,0.422,Alta cohesión social,Polo de baja marginación
+08,Chihuahua,08020,Chínipas,0.397,Baja cohesión social,Polo de alta marginación
+08,Chihuahua,08021,Delicias,0.428,Alta cohesión social,Polo de baja marginación
+08,Chihuahua,08022,Dr. Belisario Domínguez,0.389,Alta cohesión social,Polo de baja marginación
+08,Chihuahua,08023,Galeana,0.413,Alta cohesión social,Polo de baja marginación
+08,Chihuahua,08024,Santa Isabel,0.423,Alta cohesión social,Polo de baja marginación
+08,Chihuahua,08025,Gómez Farías,0.381,Alta cohesión social,Polo de baja marginación
+08,Chihuahua,08026,Gran Morelos,0.415,Alta cohesión social,Sin polo
+08,Chihuahua,08027,Guachochi,0.549,Baja cohesión social,Polarizado
+08,Chihuahua,08028,Guadalupe,0.362,Alta cohesión social,Polo de baja marginación
+08,Chihuahua,08029,Guadalupe y Calvo,0.464,Baja cohesión social,Polo de alta marginación
+08,Chihuahua,08030,Guazapares,0.490,Baja cohesión social,Polo de alta marginación
+08,Chihuahua,08031,Guerrero,0.399,Alta cohesión social,Sin polo
+08,Chihuahua,08032,Hidalgo del Parral,0.423,Alta cohesión social,Polo de baja marginación
+08,Chihuahua,08033,Huejotitán,0.402,Alta cohesión social,Sin polo
+08,Chihuahua,08034,Ignacio Zaragoza,0.349,Alta cohesión social,Polo de baja marginación
+08,Chihuahua,08035,Janos,0.395,Alta cohesión social,Sin polo
+08,Chihuahua,08036,Jiménez,0.423,Alta cohesión social,Polo de baja marginación
+08,Chihuahua,08037,Juárez,0.419,Alta cohesión social,Polo de baja marginación
+08,Chihuahua,08038,Julimes,0.476,Alta cohesión social,Polo de baja marginación
+08,Chihuahua,08039,López,0.415,Alta cohesión social,Polo de baja marginación
+08,Chihuahua,08040,Madera,0.440,Alta cohesión social,Polo de baja marginación
+08,Chihuahua,08041,Maguarichi,0.425,Baja cohesión social,Polo de alta marginación
+08,Chihuahua,08042,Manuel Benavides,0.453,Alta cohesión social,Sin polo
+08,Chihuahua,08043,Matachí,0.423,Alta cohesión social,Sin polo
+08,Chihuahua,08044,Matamoros,0.366,Alta cohesión social,Polo de baja marginación
+08,Chihuahua,08045,Meoqui,0.397,Alta cohesión social,Polo de baja marginación
+08,Chihuahua,08046,Morelos,0.420,Baja cohesión social,Polo de alta marginación
+08,Chihuahua,08047,Moris,0.374,Alta cohesión social,Sin polo
+08,Chihuahua,08048,Namiquipa,0.415,Alta cohesión social,Polo de baja marginación
+08,Chihuahua,08049,Nonoava,0.422,Alta cohesión social,Sin polo
+08,Chihuahua,08050,Nuevo Casas Grandes,0.418,Alta cohesión social,Polo de baja marginación
+08,Chihuahua,08051,Ocampo,0.389,Alta cohesión social,Sin polo
+08,Chihuahua,08052,Ojinaga,0.423,Alta cohesión social,Polo de baja marginación
+08,Chihuahua,08053,Praxedis G. Guerrero,0.393,Alta cohesión social,Polo de baja marginación
+08,Chihuahua,08054,Riva Palacio,0.425,Alta cohesión social,Polo de baja marginación
+08,Chihuahua,08055,Rosales,0.393,Alta cohesión social,Polo de baja marginación
+08,Chihuahua,08056,Rosario,0.371,Alta cohesión social,Sin polo
+08,Chihuahua,08057,San Francisco de Borja,0.383,Alta cohesión social,Sin polo
+08,Chihuahua,08058,San Francisco de Conchos,0.420,Alta cohesión social,Polo de baja marginación
+08,Chihuahua,08059,San Francisco del Oro,0.405,Alta cohesión social,Polo de baja marginación
+08,Chihuahua,08060,Santa Bárbara,0.358,Alta cohesión social,Polo de baja marginación
+08,Chihuahua,08061,Satevó,0.442,Alta cohesión social,Sin polo
+08,Chihuahua,08062,Saucillo,0.381,Alta cohesión social,Polo de baja marginación
+08,Chihuahua,08063,Temósachic,0.411,Baja cohesión social,Polarizado
+08,Chihuahua,08064,El Tule,0.402,Alta cohesión social,Sin polo
+08,Chihuahua,08065,Urique,0.485,Baja cohesión social,Polo de alta marginación
+08,Chihuahua,08066,Uruachi,0.435,Baja cohesión social,Polo de alta marginación
+08,Chihuahua,08067,Valle de Zaragoza,0.418,Alta cohesión social,Sin polo
+09,Distrito Federal,09002,Azcapotzalco,0.421,Alta cohesión social,Polo de baja marginación
+09,Distrito Federal,09003,Coyoacán,0.458,Alta cohesión social,Polo de baja marginación
+09,Distrito Federal,09004,Cuajimalpa de Morelos,0.477,Alta cohesión social,Polo de baja marginación
+09,Distrito Federal,09005,Gustavo A. Madero,0.413,Alta cohesión social,Polo de baja marginación
+09,Distrito Federal,09006,Iztacalco,0.414,Alta cohesión social,Polo de baja marginación
+09,Distrito Federal,09007,Iztapalapa,0.409,Alta cohesión social,Polo de baja marginación
+09,Distrito Federal,09008,La Magdalena Contreras,0.441,Alta cohesión social,Polo de baja marginación
+09,Distrito Federal,09009,Milpa Alta,0.404,Alta cohesión social,Polo de baja marginación
+09,Distrito Federal,09010,Álvaro Obregón,0.442,Alta cohesión social,Polo de baja marginación
+09,Distrito Federal,09011,Tláhuac,0.395,Alta cohesión social,Polo de baja marginación
+09,Distrito Federal,09012,Tlalpan,0.462,Alta cohesión social,Polo de baja marginación
+09,Distrito Federal,09013,Xochimilco,0.444,Alta cohesión social,Polo de baja marginación
+09,Distrito Federal,09014,Benito Juárez,0.450,Alta cohesión social,Polo de baja marginación
+09,Distrito Federal,09015,Cuauhtémoc,0.446,Alta cohesión social,Polo de baja marginación
+09,Distrito Federal,09016,Miguel Hidalgo,0.455,Alta cohesión social,Polo de baja marginación
+09,Distrito Federal,09017,Venustiano Carranza,0.424,Alta cohesión social,Polo de baja marginación
+10,Durango,10001,Canatlán,0.415,Alta cohesión social,Polo de baja marginación
+10,Durango,10002,Canelas,0.396,Baja cohesión social,Polo de alta marginación
+10,Durango,10003,Coneto de Comonfort,0.343,Alta cohesión social,Sin polo
+10,Durango,10004,Cuencamé,0.506,Alta cohesión social,Sin polo
+10,Durango,10005,Durango,0.436,Alta cohesión social,Polo de baja marginación
+10,Durango,10006,General Simón Bolívar,0.391,Alta cohesión social,Sin polo
+10,Durango,10007,Gómez Palacio,0.421,Alta cohesión social,Polo de baja marginación
+10,Durango,10008,Guadalupe Victoria,0.412,Alta cohesión social,Polo de baja marginación
+10,Durango,10009,Guanaceví,0.388,Alta cohesión social,Sin polo
+10,Durango,10010,Hidalgo,0.360,Alta cohesión social,Polo de baja marginación
+10,Durango,10011,Indé,0.373,Alta cohesión social,Sin polo
+10,Durango,10012,Lerdo,0.439,Alta cohesión social,Polo de baja marginación
+10,Durango,10013,Mapimí,0.540,Alta cohesión social,Sin polo
+10,Durango,10014,Mezquital,0.458,Baja cohesión social,Polo de alta marginación
+10,Durango,10015,Nazas,0.509,Alta cohesión social,Sin polo
+10,Durango,10016,Nombre de Dios,0.419,Alta cohesión social,Sin polo
+10,Durango,10017,Ocampo,0.414,Alta cohesión social,Polo de baja marginación
+10,Durango,10018,El Oro,0.426,Alta cohesión social,Polo de baja marginación
+10,Durango,10019,Otáez,0.368,Baja cohesión social,Polo de alta marginación
+10,Durango,10020,Pánuco de Coronado,0.399,Alta cohesión social,Sin polo
+10,Durango,10021,Peñón Blanco,0.409,Alta cohesión social,Sin polo
+10,Durango,10022,Poanas,0.396,Alta cohesión social,Sin polo
+10,Durango,10023,Pueblo Nuevo,0.476,Baja cohesión social,Polarizado
+10,Durango,10024,Rodeo,0.425,Alta cohesión social,Sin polo
+10,Durango,10025,San Bernardo,0.410,Alta cohesión social,Sin polo
+10,Durango,10026,San Dimas,0.425,Baja cohesión social,Polarizado
+10,Durango,10027,San Juan de Guadalupe,0.403,Alta cohesión social,Sin polo
+10,Durango,10028,San Juan del Río,0.418,Alta cohesión social,Sin polo
+10,Durango,10029,San Luis del Cordero,0.408,Alta cohesión social,Sin polo
+10,Durango,10030,San Pedro del Gallo,0.389,Alta cohesión social,Polo de baja marginación
+10,Durango,10031,Santa Clara,0.372,Alta cohesión social,Sin polo
+10,Durango,10032,Santiago Papasquiaro,0.452,Alta cohesión social,Polo de baja marginación
+10,Durango,10033,Súchil,0.434,Alta cohesión social,Sin polo
+10,Durango,10034,Tamazula,0.409,Baja cohesión social,Polo de alta marginación
+10,Durango,10035,Tepehuanes,0.429,Alta cohesión social,Sin polo
+10,Durango,10036,Tlahualilo,0.383,Alta cohesión social,Polo de baja marginación
+10,Durango,10037,Topia,0.389,Alta cohesión social,Sin polo
+10,Durango,10038,Vicente Guerrero,0.420,Alta cohesión social,Polo de baja marginación
+10,Durango,10039,Nuevo Ideal,0.438,Alta cohesión social,Sin polo
+11,Guanajuato,11001,Abasolo,0.412,Alta cohesión social,Sin polo
+11,Guanajuato,11002,Acámbaro,0.426,Alta cohesión social,Sin polo
+11,Guanajuato,11003,San Miguel de Allende,0.502,Baja cohesión social,Polarizado
+11,Guanajuato,11004,Apaseo el Alto,0.420,Baja cohesión social,Polarizado
+11,Guanajuato,11005,Apaseo el Grande,0.380,Alta cohesión social,Sin polo
+11,Guanajuato,11006,Atarjea,0.417,Baja cohesión social,Polo de alta marginación
+11,Guanajuato,11007,Celaya,0.477,Alta cohesión social,Polo de baja marginación
+11,Guanajuato,11008,Manuel Doblado,0.417,Baja cohesión social,Polarizado
+11,Guanajuato,11009,Comonfort,0.424,Alta cohesión social,Sin polo
+11,Guanajuato,11010,Coroneo,0.414,Alta cohesión social,Sin polo
+11,Guanajuato,11011,Cortazar,0.384,Alta cohesión social,Polo de baja marginación
+11,Guanajuato,11012,Cuerámaro,0.442,Baja cohesión social,Polarizado
+11,Guanajuato,11013,Doctor Mora,0.464,Alta cohesión social,Sin polo
+11,Guanajuato,11014,Dolores Hidalgo Cuna de la Independencia Nacional,0.411,Baja cohesión social,Polarizado
+11,Guanajuato,11015,Guanajuato,0.483,Alta cohesión social,Polo de baja marginación
+11,Guanajuato,11016,Huanímaro,0.372,Alta cohesión social,Sin polo
+11,Guanajuato,11017,Irapuato,0.460,Alta cohesión social,Polo de baja marginación
+11,Guanajuato,11018,Jaral del Progreso,0.421,Alta cohesión social,Sin polo
+11,Guanajuato,11019,Jerécuaro,0.421,Baja cohesión social,Polo de alta marginación
+11,Guanajuato,11020,León,0.443,Alta cohesión social,Polo de baja marginación
+11,Guanajuato,11021,Moroleón,0.410,Alta cohesión social,Polo de baja marginación
+11,Guanajuato,11022,Ocampo,0.429,Alta cohesión social,Sin polo
+11,Guanajuato,11023,Pénjamo,0.457,Alta cohesión social,Sin polo
+11,Guanajuato,11024,Pueblo Nuevo,0.399,Alta cohesión social,Sin polo
+11,Guanajuato,11025,Purísima del Rincón,0.366,Alta cohesión social,Sin polo
+11,Guanajuato,11026,Romita,0.399,Alta cohesión social,Sin polo
+11,Guanajuato,11027,Salamanca,0.441,Alta cohesión social,Sin polo
+11,Guanajuato,11028,Salvatierra,0.404,Alta cohesión social,Sin polo
+11,Guanajuato,11029,San Diego de la Unión,0.436,Baja cohesión social,Polo de alta marginación
+11,Guanajuato,11030,San Felipe,0.411,Alta cohesión social,Sin polo
+11,Guanajuato,11031,San Francisco del Rincón,0.410,Alta cohesión social,Sin polo
+11,Guanajuato,11032,San José Iturbide,0.386,Alta cohesión social,Sin polo
+11,Guanajuato,11033,San Luis de la Paz,0.438,Baja cohesión social,Polarizado
+11,Guanajuato,11034,Santa Catarina,0.438,Alta cohesión social,Sin polo
+11,Guanajuato,11035,Santa Cruz de Juventino Rosas,0.424,Alta cohesión social,Sin polo
+11,Guanajuato,11036,Santiago Maravatío,0.398,Alta cohesión social,Sin polo
+11,Guanajuato,11037,Silao,0.443,Alta cohesión social,Sin polo
+11,Guanajuato,11038,Tarandacuao,0.431,Alta cohesión social,Sin polo
+11,Guanajuato,11039,Tarimoro,0.370,Alta cohesión social,Sin polo
+11,Guanajuato,11040,Tierra Blanca,0.443,Baja cohesión social,Polo de alta marginación
+11,Guanajuato,11041,Uriangato,0.375,Alta cohesión social,Polo de baja marginación
+11,Guanajuato,11042,Valle de Santiago,0.409,Baja cohesión social,Polarizado
+11,Guanajuato,11043,Victoria,0.460,Baja cohesión social,Polo de alta marginación
+11,Guanajuato,11044,Villagrán,0.364,Alta cohesión social,Sin polo
+11,Guanajuato,11045,Xichú,0.439,Baja cohesión social,Polo de alta marginación
+11,Guanajuato,11046,Yuriria,0.423,Baja cohesión social,Polarizado
+12,Guerrero,12001,Acapulco de Juárez,0.444,Alta cohesión social,Polo de baja marginación
+12,Guerrero,12002,Ahuacuotzingo,0.437,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12003,Ajuchitlán del Progreso,0.482,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12004,Alcozauca de Guerrero,0.462,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12005,Alpoyeca,0.453,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12006,Apaxtla,0.526,Alta cohesión social,Sin polo
+12,Guerrero,12007,Arcelia,0.501,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12008,Atenango del Río,0.507,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12009,Atlamajalcingo del Monte,0.466,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12010,Atlixtac,0.423,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12011,Atoyac de Álvarez,0.491,Alta cohesión social,Sin polo
+12,Guerrero,12012,Ayutla de los Libres,0.496,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12013,Azoyú,0.456,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12014,Benito Juárez,0.472,Alta cohesión social,Sin polo
+12,Guerrero,12015,Buenavista de Cuéllar,0.430,Baja cohesión social,Polarizado
+12,Guerrero,12016,Coahuayutla de José María Izazaga,0.414,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12017,Cocula,0.507,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12018,Copala,0.463,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12019,Copalillo,0.432,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12020,Copanatoyac,0.451,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12021,Coyuca de Benítez,0.457,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12022,Coyuca de Catalán,0.469,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12023,Cuajinicuilapa,0.471,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12024,Cualác,0.428,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12025,Cuautepec,0.463,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12026,Cuetzala del Progreso,0.396,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12027,Cutzamala de Pinzón,0.445,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12028,Chilapa de Álvarez,0.502,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12029,Chilpancingo de los Bravo,0.473,Alta cohesión social,Polo de baja marginación
+12,Guerrero,12030,Florencio Villarreal,0.486,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12031,General Canuto A. Neri,0.380,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12032,General Heliodoro Castillo,0.424,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12033,Huamuxtitlán,0.526,Alta cohesión social,Sin polo
+12,Guerrero,12034,Huitzuco de los Figueroa,0.479,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12035,Iguala de la Independencia,0.446,Alta cohesión social,Polo de baja marginación
+12,Guerrero,12036,Igualapa,0.464,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12037,Ixcateopan de Cuauhtémoc,0.454,Alta cohesión social,Sin polo
+12,Guerrero,12038,Zihuatanejo de Azueta,0.408,Alta cohesión social,Sin polo
+12,Guerrero,12039,Juan R. Escudero,0.476,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12040,Leonardo Bravo,0.463,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12041,Malinaltepec,0.492,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12042,Mártir de Cuilapan,0.498,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12043,Metlatónoc,0.430,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12044,Mochitlán,0.526,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12045,Olinalá,0.451,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12046,Ometepec,0.526,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12047,Pedro Ascencio Alquisiras,0.398,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12048,Petatlán,0.483,Alta cohesión social,Sin polo
+12,Guerrero,12049,Pilcaya,0.458,Alta cohesión social,Sin polo
+12,Guerrero,12050,Pungarabato,0.416,Alta cohesión social,Sin polo
+12,Guerrero,12051,Quechultenango,0.479,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12052,San Luis Acatlán,0.503,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12053,San Marcos,0.492,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12054,San Miguel Totolapan,0.448,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12055,Taxco de Alarcón,0.437,Baja cohesión social,Polarizado
+12,Guerrero,12056,Tecoanapa,0.473,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12057,Técpan de Galeana,0.469,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12058,Teloloapan,0.499,Alta cohesión social,Sin polo
+12,Guerrero,12059,Tepecoacuilco de Trujano,0.489,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12060,Tetipac,0.408,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12061,Tixtla de Guerrero,0.541,Alta cohesión social,Sin polo
+12,Guerrero,12062,Tlacoachistlahuaca,0.507,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12063,Tlacoapa,0.479,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12064,Tlalchapa,0.479,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12065,Tlalixtaquilla de Maldonado,0.379,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12066,Tlapa de Comonfort,0.546,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12067,Tlapehuala,0.479,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12068,La Unión de Isidoro Montes de Oca,0.454,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12069,Xalpatláhuac,0.413,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12070,Xochihuehuetlán,0.426,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12071,Xochistlahuaca,0.487,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12072,Zapotitlán Tablas,0.462,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12073,Zirándaro,0.456,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12074,Zitlala,0.445,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12075,Eduardo Neri,0.458,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12076,Acatepec,0.418,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12077,Marquelia,0.462,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12078,Cochoapa el Grande,0.425,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12079,José Joaquin de Herrera,0.402,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12080,Juchitán,0.470,Baja cohesión social,Polo de alta marginación
+12,Guerrero,12081,Iliatenco,0.495,Baja cohesión social,Polo de alta marginación
+13,Hidalgo,13001,Acatlán,0.419,Alta cohesión social,Sin polo
+13,Hidalgo,13002,Acaxochitlán,0.427,Baja cohesión social,Polo de alta marginación
+13,Hidalgo,13003,Actopan,0.437,Alta cohesión social,Sin polo
+13,Hidalgo,13004,Agua Blanca de Iturbide,0.399,Baja cohesión social,Polo de alta marginación
+13,Hidalgo,13005,Ajacuba,0.361,Alta cohesión social,Sin polo
+13,Hidalgo,13006,Alfajayucan,0.423,Alta cohesión social,Sin polo
+13,Hidalgo,13007,Almoloya,0.373,Alta cohesión social,Sin polo
+13,Hidalgo,13008,Apan,0.393,Alta cohesión social,Sin polo
+13,Hidalgo,13009,El Arenal,0.361,Alta cohesión social,Sin polo
+13,Hidalgo,13010,Atitalaquia,0.413,Alta cohesión social,Polo de baja marginación
+13,Hidalgo,13011,Atlapexco,0.476,Baja cohesión social,Polo de alta marginación
+13,Hidalgo,13012,Atotonilco el Grande,0.402,Alta cohesión social,Sin polo
+13,Hidalgo,13013,Atotonilco de Tula,0.413,Alta cohesión social,Polo de baja marginación
+13,Hidalgo,13014,Calnali,0.421,Baja cohesión social,Polo de alta marginación
+13,Hidalgo,13015,Cardonal,0.483,Alta cohesión social,Sin polo
+13,Hidalgo,13016,Cuautepec de Hinojosa,0.396,Baja cohesión social,Polarizado
+13,Hidalgo,13017,Chapantongo,0.410,Baja cohesión social,Polo de alta marginación
+13,Hidalgo,13018,Chapulhuacán,0.458,Baja cohesión social,Polo de alta marginación
+13,Hidalgo,13019,Chilcuautla,0.433,Alta cohesión social,Sin polo
+13,Hidalgo,13020,Eloxochitlán,0.428,Baja cohesión social,Polo de alta marginación
+13,Hidalgo,13021,Emiliano Zapata,0.387,Alta cohesión social,Polo de baja marginación
+13,Hidalgo,13022,Epazoyucan,0.382,Alta cohesión social,Sin polo
+13,Hidalgo,13023,Francisco I. Madero,0.428,Alta cohesión social,Sin polo
+13,Hidalgo,13024,Huasca de Ocampo,0.438,Alta cohesión social,Sin polo
+13,Hidalgo,13025,Huautla,0.469,Baja cohesión social,Polo de alta marginación
+13,Hidalgo,13026,Huazalingo,0.387,Baja cohesión social,Polo de alta marginación
+13,Hidalgo,13027,Huehuetla,0.449,Baja cohesión social,Polo de alta marginación
+13,Hidalgo,13028,Huejutla de Reyes,0.497,Baja cohesión social,Polarizado
+13,Hidalgo,13029,Huichapan,0.392,Alta cohesión social,Sin polo
+13,Hidalgo,13030,Ixmiquilpan,0.456,Alta cohesión social,Sin polo
+13,Hidalgo,13031,Jacala de Ledezma,0.410,Alta cohesión social,Sin polo
+13,Hidalgo,13032,Jaltocán,0.436,Baja cohesión social,Polo de alta marginación
+13,Hidalgo,13033,Juárez Hidalgo,0.409,Baja cohesión social,Polo de alta marginación
+13,Hidalgo,13034,Lolotla,0.394,Baja cohesión social,Polo de alta marginación
+13,Hidalgo,13035,Metepec,0.366,Baja cohesión social,Polarizado
+13,Hidalgo,13036,San Agustín Metzquititlán,0.401,Baja cohesión social,Polarizado
+13,Hidalgo,13037,Metztitlán,0.438,Baja cohesión social,Polo de alta marginación
+13,Hidalgo,13038,Mineral del Chico,0.398,Alta cohesión social,Sin polo
+13,Hidalgo,13039,Mineral del Monte,0.396,Alta cohesión social,Polo de baja marginación
+13,Hidalgo,13040,La Misión,0.380,Baja cohesión social,Polo de alta marginación
+13,Hidalgo,13041,Mixquiahuala de Juárez,0.426,Alta cohesión social,Sin polo
+13,Hidalgo,13042,Molango de Escamilla,0.437,Alta cohesión social,Sin polo
+13,Hidalgo,13043,Nicolás Flores,0.403,Baja cohesión social,Polo de alta marginación
+13,Hidalgo,13044,Nopala de Villagrán,0.413,Baja cohesión social,Polo de alta marginación
+13,Hidalgo,13045,Omitlán de Juárez,0.406,Alta cohesión social,Sin polo
+13,Hidalgo,13046,San Felipe Orizatlán,0.435,Baja cohesión social,Polo de alta marginación
+13,Hidalgo,13047,Pacula,0.394,Baja cohesión social,Polo de alta marginación
+13,Hidalgo,13048,Pachuca de Soto,0.449,Alta cohesión social,Polo de baja marginación
+13,Hidalgo,13049,Pisaflores,0.429,Baja cohesión social,Polo de alta marginación
+13,Hidalgo,13050,Progreso de Obregón,0.438,Alta cohesión social,Polo de baja marginación
+13,Hidalgo,13051,Mineral de la Reforma,0.474,Alta cohesión social,Polo de baja marginación
+13,Hidalgo,13052,San Agustín Tlaxiaca,0.387,Alta cohesión social,Sin polo
+13,Hidalgo,13053,San Bartolo Tutotepec,0.514,Baja cohesión social,Polo de alta marginación
+13,Hidalgo,13054,San Salvador,0.429,Alta cohesión social,Sin polo
+13,Hidalgo,13055,Santiago de Anaya,0.402,Alta cohesión social,Sin polo
+13,Hidalgo,13056,Santiago Tulantepec de Lugo Guerrero,0.406,Alta cohesión social,Polo de baja marginación
+13,Hidalgo,13057,Singuilucan,0.360,Baja cohesión social,Polarizado
+13,Hidalgo,13058,Tasquillo,0.407,Alta cohesión social,Sin polo
+13,Hidalgo,13059,Tecozautla,0.425,Baja cohesión social,Polo de alta marginación
+13,Hidalgo,13060,Tenango de Doria,0.428,Baja cohesión social,Polo de alta marginación
+13,Hidalgo,13061,Tepeapulco,0.427,Alta cohesión social,Polo de baja marginación
+13,Hidalgo,13062,Tepehuacán de Guerrero,0.374,Baja cohesión social,Polo de alta marginación
+13,Hidalgo,13063,Tepeji del Río de Ocampo,0.385,Alta cohesión social,Sin polo
+13,Hidalgo,13064,Tepetitlán,0.366,Alta cohesión social,Sin polo
+13,Hidalgo,13065,Tetepango,0.395,Alta cohesión social,Sin polo
+13,Hidalgo,13066,Villa de Tezontepec,0.367,Alta cohesión social,Sin polo
+13,Hidalgo,13067,Tezontepec de Aldama,0.411,Alta cohesión social,Sin polo
+13,Hidalgo,13068,Tianguistengo,0.438,Baja cohesión social,Polo de alta marginación
+13,Hidalgo,13069,Tizayuca,0.409,Alta cohesión social,Polo de baja marginación
+13,Hidalgo,13070,Tlahuelilpan,0.418,Alta cohesión social,Sin polo
+13,Hidalgo,13071,Tlahuiltepa,0.384,Baja cohesión social,Polo de alta marginación
+13,Hidalgo,13072,Tlanalapa,0.402,Alta cohesión social,Polo de baja marginación
+13,Hidalgo,13073,Tlanchinol,0.452,Baja cohesión social,Polo de alta marginación
+13,Hidalgo,13074,Tlaxcoapan,0.421,Alta cohesión social,Sin polo
+13,Hidalgo,13075,Tolcayuca,0.361,Alta cohesión social,Polo de baja marginación
+13,Hidalgo,13076,Tula de Allende,0.401,Alta cohesión social,Polo de baja marginación
+13,Hidalgo,13077,Tulancingo de Bravo,0.418,Alta cohesión social,Polo de baja marginación
+13,Hidalgo,13078,Xochiatipan,0.407,Baja cohesión social,Polo de alta marginación
+13,Hidalgo,13079,Xochicoatlán,0.426,Alta cohesión social,Sin polo
+13,Hidalgo,13080,Yahualica,0.396,Baja cohesión social,Polo de alta marginación
+13,Hidalgo,13081,Zacualtipán de Ángeles,0.385,Alta cohesión social,Sin polo
+13,Hidalgo,13082,Zapotlán de Juárez,0.355,Alta cohesión social,Sin polo
+13,Hidalgo,13083,Zempoala,0.388,Alta cohesión social,Polo de baja marginación
+13,Hidalgo,13084,Zimapán,0.393,Alta cohesión social,Sin polo
+14,Jalisco,14001,Acatic,0.383,Alta cohesión social,Sin polo
+14,Jalisco,14002,Acatlán de Juárez,0.400,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14003,Ahualulco de Mercado,0.413,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14004,Amacueca,0.395,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14005,Amatitán,0.387,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14006,Ameca,0.413,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14007,San Juanito de Escobedo,0.397,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14008,Arandas,0.404,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14009,El Arenal,0.378,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14010,Atemajac de Brizuela,0.402,Baja cohesión social,Polo de alta marginación
+14,Jalisco,14011,Atengo,0.411,Baja cohesión social,Polarizado
+14,Jalisco,14012,Atenguillo,0.422,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14013,Atotonilco el Alto,0.410,Alta cohesión social,Sin polo
+14,Jalisco,14014,Atoyac,0.429,Alta cohesión social,Sin polo
+14,Jalisco,14015,Autlán de Navarro,0.439,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14016,Ayotlán,0.386,Alta cohesión social,Sin polo
+14,Jalisco,14017,Ayutla,0.401,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14018,La Barca,0.389,Alta cohesión social,Sin polo
+14,Jalisco,14019,Bolaños,0.522,Alta cohesión social,Sin polo
+14,Jalisco,14020,Cabo Corrientes,0.382,Alta cohesión social,Sin polo
+14,Jalisco,14021,Casimiro Castillo,0.401,Alta cohesión social,Sin polo
+14,Jalisco,14022,Cihuatlán,0.390,Alta cohesión social,Sin polo
+14,Jalisco,14023,Zapotlán el Grande,0.440,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14024,Cocula,0.392,Alta cohesión social,Sin polo
+14,Jalisco,14025,Colotlán,0.444,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14026,Concepción de Buenos Aires,0.362,Alta cohesión social,Sin polo
+14,Jalisco,14027,Cuautitlán de García Barragán,0.500,Alta cohesión social,Sin polo
+14,Jalisco,14028,Cuautla,0.399,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14029,Cuquío,0.375,Alta cohesión social,Sin polo
+14,Jalisco,14030,Chapala,0.392,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14031,Chimaltitán,0.438,Alta cohesión social,Sin polo
+14,Jalisco,14032,Chiquilistlán,0.448,Baja cohesión social,Polo de alta marginación
+14,Jalisco,14033,Degollado,0.376,Alta cohesión social,Sin polo
+14,Jalisco,14034,Ejutla,0.412,Alta cohesión social,Sin polo
+14,Jalisco,14035,Encarnación de Díaz,0.380,Alta cohesión social,Sin polo
+14,Jalisco,14036,Etzatlán,0.413,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14037,El Grullo,0.404,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14038,Guachinango,0.407,Baja cohesión social,Polarizado
+14,Jalisco,14039,Guadalajara,0.433,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14040,Hostotipaquillo,0.385,Alta cohesión social,Sin polo
+14,Jalisco,14041,Huejúcar,0.436,Alta cohesión social,Sin polo
+14,Jalisco,14042,Huejuquilla el Alto,0.410,Baja cohesión social,Polarizado
+14,Jalisco,14043,La Huerta,0.397,Alta cohesión social,Sin polo
+14,Jalisco,14044,Ixtlahuacán de los Membrillos,0.408,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14045,Ixtlahuacán del Río,0.410,Alta cohesión social,Sin polo
+14,Jalisco,14046,Jalostotitlán,0.382,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14047,Jamay,0.353,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14048,Jesús María,0.409,Alta cohesión social,Sin polo
+14,Jalisco,14049,Jilotlán de los Dolores,0.430,Baja cohesión social,Polo de alta marginación
+14,Jalisco,14050,Jocotepec,0.421,Alta cohesión social,Sin polo
+14,Jalisco,14051,Juanacatlán,0.371,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14052,Juchitlán,0.375,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14053,Lagos de Moreno,0.430,Alta cohesión social,Sin polo
+14,Jalisco,14054,El Limón,0.379,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14055,Magdalena,0.383,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14056,Santa María del Oro,0.416,Baja cohesión social,Polo de alta marginación
+14,Jalisco,14057,La Manzanilla de la Paz,0.382,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14058,Mascota,0.420,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14059,Mazamitla,0.427,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14060,Mexticacán,0.364,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14061,Mezquitic,0.531,Baja cohesión social,Polo de alta marginación
+14,Jalisco,14062,Mixtlán,0.409,Alta cohesión social,Sin polo
+14,Jalisco,14063,Ocotlán,0.444,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14064,Ojuelos de Jalisco,0.401,Baja cohesión social,Polarizado
+14,Jalisco,14065,Pihuamo,0.364,Alta cohesión social,Sin polo
+14,Jalisco,14066,Poncitlán,0.427,Baja cohesión social,Polarizado
+14,Jalisco,14067,Puerto Vallarta,0.418,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14068,Villa Purificación,0.423,Baja cohesión social,Polarizado
+14,Jalisco,14069,Quitupan,0.442,Alta cohesión social,Sin polo
+14,Jalisco,14070,El Salto,0.355,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14071,San Cristóbal de la Barranca,0.393,Alta cohesión social,Sin polo
+14,Jalisco,14072,San Diego de Alejandría,0.372,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14073,San Juan de los Lagos,0.376,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14074,San Julián,0.364,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14075,San Marcos,0.409,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14076,San Martín de Bolaños,0.377,Alta cohesión social,Sin polo
+14,Jalisco,14077,San Martín Hidalgo,0.413,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14078,San Miguel el Alto,0.395,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14079,Gómez Farías,0.364,Alta cohesión social,Sin polo
+14,Jalisco,14080,San Sebastián del Oeste,0.417,Alta cohesión social,Sin polo
+14,Jalisco,14081,Santa María de los Ángeles,0.374,Alta cohesión social,Sin polo
+14,Jalisco,14082,Sayula,0.412,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14083,Tala,0.384,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14084,Talpa de Allende,0.414,Alta cohesión social,Sin polo
+14,Jalisco,14085,Tamazula de Gordiano,0.401,Alta cohesión social,Sin polo
+14,Jalisco,14086,Tapalpa,0.381,Baja cohesión social,Polarizado
+14,Jalisco,14087,Tecalitlán,0.417,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14088,Tecolotlán,0.407,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14089,Techaluta de Montenegro,0.371,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14090,Tenamaxtlán,0.402,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14091,Teocaltiche,0.395,Alta cohesión social,Sin polo
+14,Jalisco,14092,Teocuitatlán de Corona,0.412,Alta cohesión social,Sin polo
+14,Jalisco,14093,Tepatitlán de Morelos,0.412,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14094,Tequila,0.415,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14095,Teuchitlán,0.389,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14096,Tizapán el Alto,0.400,Alta cohesión social,Sin polo
+14,Jalisco,14097,Tlajomulco de Zúñiga,0.395,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14098,Tlaquepaque,0.404,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14099,Tolimán,0.372,Alta cohesión social,Sin polo
+14,Jalisco,14100,Tomatlán,0.414,Alta cohesión social,Sin polo
+14,Jalisco,14101,Tonalá,0.407,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14102,Tonaya,0.368,Alta cohesión social,Sin polo
+14,Jalisco,14103,Tonila,0.385,Alta cohesión social,Sin polo
+14,Jalisco,14104,Totatiche,0.410,Alta cohesión social,Sin polo
+14,Jalisco,14105,Tototlán,0.410,Alta cohesión social,Sin polo
+14,Jalisco,14106,Tuxcacuesco,0.349,Alta cohesión social,Sin polo
+14,Jalisco,14107,Tuxcueca,0.411,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14108,Tuxpan,0.394,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14109,Unión de San Antonio,0.522,Alta cohesión social,Sin polo
+14,Jalisco,14110,Unión de Tula,0.440,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14111,Valle de Guadalupe,0.398,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14112,Valle de Juárez,0.425,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14113,San Gabriel,0.354,Alta cohesión social,Sin polo
+14,Jalisco,14114,Villa Corona,0.407,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14115,Villa Guerrero,0.429,Alta cohesión social,Sin polo
+14,Jalisco,14116,Villa Hidalgo,0.386,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14117,Cañadas de Obregón,0.372,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14118,Yahualica de González Gallo,0.433,Alta cohesión social,Sin polo
+14,Jalisco,14119,Zacoalco de Torres,0.382,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14120,Zapopan,0.465,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14121,Zapotiltic,0.356,Alta cohesión social,Polo de baja marginación
+14,Jalisco,14122,Zapotitlán de Vadillo,0.453,Alta cohesión social,Sin polo
+14,Jalisco,14123,Zapotlán del Rey,0.362,Alta cohesión social,Sin polo
+14,Jalisco,14124,Zapotlanejo,0.376,Alta cohesión social,Sin polo
+14,Jalisco,14125,San Ignacio Cerro Gordo,0.409,Alta cohesión social,Sin polo
+15,México,15001,Acambay,0.459,Baja cohesión social,Polo de alta marginación
+15,México,15002,Acolman,0.394,Alta cohesión social,Polo de baja marginación
+15,México,15003,Aculco,0.400,Baja cohesión social,Polo de alta marginación
+15,México,15004,Almoloya de Alquisiras,0.486,Baja cohesión social,Polo de alta marginación
+15,México,15005,Almoloya de Juárez,0.456,Alta cohesión social,Sin polo
+15,México,15006,Almoloya del Río,0.381,Alta cohesión social,Sin polo
+15,México,15007,Amanalco,0.402,Baja cohesión social,Polo de alta marginación
+15,México,15008,Amatepec,0.467,Baja cohesión social,Polo de alta marginación
+15,México,15009,Amecameca,0.388,Alta cohesión social,Polo de baja marginación
+15,México,15010,Apaxco,0.375,Alta cohesión social,Polo de baja marginación
+15,México,15011,Atenco,0.353,Alta cohesión social,Polo de baja marginación
+15,México,15012,Atizapán,0.393,Alta cohesión social,Sin polo
+15,México,15013,Atizapán de Zaragoza,0.461,Alta cohesión social,Polo de baja marginación
+15,México,15014,Atlacomulco,0.431,Baja cohesión social,Polarizado
+15,México,15015,Atlautla,0.456,Alta cohesión social,Sin polo
+15,México,15016,Axapusco,0.368,Alta cohesión social,Sin polo
+15,México,15017,Ayapango,0.389,Alta cohesión social,Sin polo
+15,México,15018,Calimaya,0.366,Alta cohesión social,Sin polo
+15,México,15019,Capulhuac,0.420,Alta cohesión social,Polo de baja marginación
+15,México,15020,Coacalco de Berriozábal,0.397,Alta cohesión social,Polo de baja marginación
+15,México,15021,Coatepec Harinas,0.507,Baja cohesión social,Polo de alta marginación
+15,México,15022,Cocotitlán,0.390,Alta cohesión social,Polo de baja marginación
+15,México,15023,Coyotepec,0.361,Alta cohesión social,Polo de baja marginación
+15,México,15024,Cuautitlán,0.422,Alta cohesión social,Polo de baja marginación
+15,México,15025,Chalco,0.386,Alta cohesión social,Polo de baja marginación
+15,México,15026,Chapa de Mota,0.404,Baja cohesión social,Polo de alta marginación
+15,México,15027,Chapultepec,0.389,Alta cohesión social,Polo de baja marginación
+15,México,15028,Chiautla,0.388,Alta cohesión social,Sin polo
+15,México,15029,Chicoloapan,0.382,Alta cohesión social,Polo de baja marginación
+15,México,15030,Chiconcuac,0.357,Alta cohesión social,Polo de baja marginación
+15,México,15031,Chimalhuacán,0.348,Alta cohesión social,Sin polo
+15,México,15032,Donato Guerra,0.420,Baja cohesión social,Polo de alta marginación
+15,México,15033,Ecatepec de Morelos,0.390,Alta cohesión social,Polo de baja marginación
+15,México,15034,Ecatzingo,0.476,Baja cohesión social,Polo de alta marginación
+15,México,15035,Huehuetoca,0.384,Alta cohesión social,Polo de baja marginación
+15,México,15036,Hueypoxtla,0.350,Alta cohesión social,Sin polo
+15,México,15037,Huixquilucan,0.490,Alta cohesión social,Polo de baja marginación
+15,México,15038,Isidro Fabela,0.411,Alta cohesión social,Sin polo
+15,México,15039,Ixtapaluca,0.406,Alta cohesión social,Polo de baja marginación
+15,México,15040,Ixtapan de la Sal,0.440,Baja cohesión social,Polarizado
+15,México,15041,Ixtapan del Oro,0.400,Baja cohesión social,Polo de alta marginación
+15,México,15042,Ixtlahuaca,0.461,Baja cohesión social,Polo de alta marginación
+15,México,15043,Xalatlaco,0.393,Alta cohesión social,Sin polo
+15,México,15044,Jaltenco,0.381,Alta cohesión social,Polo de baja marginación
+15,México,15045,Jilotepec,0.387,Baja cohesión social,Polarizado
+15,México,15046,Jilotzingo,0.386,Alta cohesión social,Sin polo
+15,México,15047,Jiquipilco,0.435,Baja cohesión social,Polo de alta marginación
+15,México,15048,Jocotitlán,0.401,Alta cohesión social,Sin polo
+15,México,15049,Joquicingo,0.379,Baja cohesión social,Polo de alta marginación
+15,México,15050,Juchitepec,0.360,Alta cohesión social,Sin polo
+15,México,15051,Lerma,0.437,Alta cohesión social,Sin polo
+15,México,15052,Malinalco,0.401,Alta cohesión social,Sin polo
+15,México,15053,Melchor Ocampo,0.391,Alta cohesión social,Polo de baja marginación
+15,México,15054,Metepec,0.460,Alta cohesión social,Polo de baja marginación
+15,México,15055,Mexicaltzingo,0.388,Alta cohesión social,Polo de baja marginación
+15,México,15056,Morelos,0.439,Baja cohesión social,Polo de alta marginación
+15,México,15057,Naucalpan de Juárez,0.454,Alta cohesión social,Polo de baja marginación
+15,México,15058,Nezahualcóyotl,0.394,Alta cohesión social,Polo de baja marginación
+15,México,15059,Nextlalpan,0.408,Alta cohesión social,Sin polo
+15,México,15060,Nicolás Romero,0.398,Alta cohesión social,Polo de baja marginación
+15,México,15061,Nopaltepec,0.362,Alta cohesión social,Sin polo
+15,México,15062,Ocoyoacac,0.410,Alta cohesión social,Polo de baja marginación
+15,México,15063,Ocuilan,0.424,Alta cohesión social,Sin polo
+15,México,15064,El Oro,0.458,Baja cohesión social,Polo de alta marginación
+15,México,15065,Otumba,0.386,Alta cohesión social,Sin polo
+15,México,15066,Otzoloapan,0.431,Alta cohesión social,Sin polo
+15,México,15067,Otzolotepec,0.384,Alta cohesión social,Sin polo
+15,México,15068,Ozumba,0.381,Alta cohesión social,Sin polo
+15,México,15069,Papalotla,0.414,Alta cohesión social,Polo de baja marginación
+15,México,15070,La Paz,0.373,Alta cohesión social,Polo de baja marginación
+15,México,15071,Polotitlán,0.388,Alta cohesión social,Sin polo
+15,México,15072,Rayón,0.380,Alta cohesión social,Polo de baja marginación
+15,México,15073,San Antonio la Isla,0.396,Alta cohesión social,Sin polo
+15,México,15074,San Felipe del Progreso,0.459,Baja cohesión social,Polo de alta marginación
+15,México,15075,San Martín de las Pirámides,0.387,Alta cohesión social,Polo de baja marginación
+15,México,15076,San Mateo Atenco,0.405,Alta cohesión social,Polo de baja marginación
+15,México,15077,San Simón de Guerrero,0.490,Alta cohesión social,Sin polo
+15,México,15078,Santo Tomás,0.434,Alta cohesión social,Sin polo
+15,México,15079,Soyaniquilpan de Juárez,0.387,Alta cohesión social,Sin polo
+15,México,15080,Sultepec,0.483,Baja cohesión social,Polo de alta marginación
+15,México,15081,Tecámac,0.412,Alta cohesión social,Polo de baja marginación
+15,México,15082,Tejupilco,0.517,Baja cohesión social,Polarizado
+15,México,15083,Temamatla,0.390,Alta cohesión social,Polo de baja marginación
+15,México,15084,Temascalapa,0.355,Alta cohesión social,Sin polo
+15,México,15085,Temascalcingo,0.442,Alta cohesión social,Sin polo
+15,México,15086,Temascaltepec,0.522,Baja cohesión social,Polo de alta marginación
+15,México,15087,Temoaya,0.421,Baja cohesión social,Polo de alta marginación
+15,México,15088,Tenancingo,0.443,Baja cohesión social,Polarizado
+15,México,15089,Tenango del Aire,0.375,Alta cohesión social,Sin polo
+15,México,15090,Tenango del Valle,0.396,Baja cohesión social,Polarizado
+15,México,15091,Teoloyucan,0.364,Alta cohesión social,Polo de baja marginación
+15,México,15092,Teotihuacán,0.391,Alta cohesión social,Polo de baja marginación
+15,México,15093,Tepetlaoxtoc,0.417,Alta cohesión social,Sin polo
+15,México,15094,Tepetlixpa,0.392,Alta cohesión social,Sin polo
+15,México,15095,Tepotzotlán,0.404,Alta cohesión social,Polo de baja marginación
+15,México,15096,Tequixquiac,0.361,Alta cohesión social,Polo de baja marginación
+15,México,15097,Texcaltitlán,0.473,Baja cohesión social,Polo de alta marginación
+15,México,15098,Texcalyacac,0.396,Alta cohesión social,Polo de baja marginación
+15,México,15099,Texcoco,0.445,Alta cohesión social,Polo de baja marginación
+15,México,15100,Tezoyuca,0.357,Alta cohesión social,Sin polo
+15,México,15101,Tianguistenco,0.405,Alta cohesión social,Sin polo
+15,México,15102,Timilpan,0.364,Alta cohesión social,Sin polo
+15,México,15103,Tlalmanalco,0.409,Alta cohesión social,Polo de baja marginación
+15,México,15104,Tlalnepantla de Baz,0.437,Alta cohesión social,Polo de baja marginación
+15,México,15105,Tlatlaya,0.485,Baja cohesión social,Polo de alta marginación
+15,México,15106,Toluca,0.463,Alta cohesión social,Polo de baja marginación
+15,México,15107,Tonatico,0.425,Alta cohesión social,Sin polo
+15,México,15108,Tultepec,0.401,Alta cohesión social,Polo de baja marginación
+15,México,15109,Tultitlán,0.386,Alta cohesión social,Polo de baja marginación
+15,México,15110,Valle de Bravo,0.436,Alta cohesión social,Sin polo
+15,México,15111,Villa de Allende,0.397,Baja cohesión social,Polo de alta marginación
+15,México,15112,Villa del Carbón,0.381,Baja cohesión social,Polo de alta marginación
+15,México,15113,Villa Guerrero,0.413,Alta cohesión social,Sin polo
+15,México,15114,Villa Victoria,0.412,Baja cohesión social,Polo de alta marginación
+15,México,15115,Xonacatlán,0.382,Alta cohesión social,Sin polo
+15,México,15116,Zacazonapan,0.406,Alta cohesión social,Sin polo
+15,México,15117,Zacualpan,0.471,Baja cohesión social,Polo de alta marginación
+15,México,15118,Zinacantepec,0.457,Baja cohesión social,Polarizado
+15,México,15119,Zumpahuacán,0.440,Baja cohesión social,Polo de alta marginación
+15,México,15120,Zumpango,0.379,Alta cohesión social,Sin polo
+15,México,15121,Cuautitlán Izcalli,0.407,Alta cohesión social,Polo de baja marginación
+15,México,15122,Valle de Chalco Solidaridad,0.363,Alta cohesión social,Polo de baja marginación
+15,México,15123,Luvianos,0.471,Baja cohesión social,Polo de alta marginación
+15,México,15124,San José del Rincón,0.422,Baja cohesión social,Polo de alta marginación
+15,México,15125,Tonanitla,0.370,Alta cohesión social,Polo de baja marginación
+16,Michoacán,16001,Acuitzio,0.420,Alta cohesión social,Sin polo
+16,Michoacán,16002,Aguililla,0.471,Baja cohesión social,Polo de alta marginación
+16,Michoacán,16003,Álvaro Obregón,0.372,Alta cohesión social,Sin polo
+16,Michoacán,16004,Angamacutiro,0.415,Alta cohesión social,Sin polo
+16,Michoacán,16005,Angangueo,0.389,Alta cohesión social,Sin polo
+16,Michoacán,16006,Apatzingán,0.391,Alta cohesión social,Sin polo
+16,Michoacán,16007,Aporo,0.429,Alta cohesión social,Sin polo
+16,Michoacán,16008,Aquila,0.449,Baja cohesión social,Polo de alta marginación
+16,Michoacán,16009,Ario,0.373,Alta cohesión social,Sin polo
+16,Michoacán,16010,Arteaga,0.537,Alta cohesión social,Sin polo
+16,Michoacán,16011,Briseñas,0.379,Alta cohesión social,Sin polo
+16,Michoacán,16012,Buenavista,0.399,Baja cohesión social,Polo de alta marginación
+16,Michoacán,16013,Carácuaro,0.485,Baja cohesión social,Polo de alta marginación
+16,Michoacán,16014,Coahuayana,0.395,Alta cohesión social,Sin polo
+16,Michoacán,16015,Coalcomán de Vázquez Pallares,0.409,Alta cohesión social,Sin polo
+16,Michoacán,16016,Coeneo,0.394,Alta cohesión social,Sin polo
+16,Michoacán,16017,Contepec,0.419,Alta cohesión social,Sin polo
+16,Michoacán,16018,Copándaro,0.374,Alta cohesión social,Sin polo
+16,Michoacán,16019,Cotija,0.408,Alta cohesión social,Sin polo
+16,Michoacán,16020,Cuitzeo,0.366,Alta cohesión social,Sin polo
+16,Michoacán,16021,Charapan,0.421,Baja cohesión social,Polo de alta marginación
+16,Michoacán,16022,Charo,0.383,Alta cohesión social,Sin polo
+16,Michoacán,16023,Chavinda,0.383,Alta cohesión social,Sin polo
+16,Michoacán,16024,Cherán,0.476,Baja cohesión social,Polo de alta marginación
+16,Michoacán,16025,Chilchota,0.458,Baja cohesión social,Polo de alta marginación
+16,Michoacán,16026,Chinicuila,0.429,Alta cohesión social,Sin polo
+16,Michoacán,16027,Chucándiro,0.366,Alta cohesión social,Sin polo
+16,Michoacán,16028,Churintzio,0.382,Alta cohesión social,Sin polo
+16,Michoacán,16029,Churumuco,0.484,Baja cohesión social,Polo de alta marginación
+16,Michoacán,16030,Ecuandureo,0.397,Alta cohesión social,Sin polo
+16,Michoacán,16031,Epitacio Huerta,0.392,Baja cohesión social,Polo de alta marginación
+16,Michoacán,16032,Erongarícuaro,0.434,Baja cohesión social,Polo de alta marginación
+16,Michoacán,16033,Gabriel Zamora,0.391,Baja cohesión social,Polo de alta marginación
+16,Michoacán,16034,Hidalgo,0.418,Baja cohesión social,Polarizado
+16,Michoacán,16035,La Huacana,0.453,Baja cohesión social,Polo de alta marginación
+16,Michoacán,16036,Huandacareo,0.391,Alta cohesión social,Sin polo
+16,Michoacán,16037,Huaniqueo,0.370,Alta cohesión social,Sin polo
+16,Michoacán,16038,Huetamo,0.494,Baja cohesión social,Polo de alta marginación
+16,Michoacán,16039,Huiramba,0.387,Alta cohesión social,Sin polo
+16,Michoacán,16040,Indaparapeo,0.374,Alta cohesión social,Sin polo
+16,Michoacán,16041,Irimbo,0.401,Baja cohesión social,Polo de alta marginación
+16,Michoacán,16042,Ixtlán,0.403,Alta cohesión social,Sin polo
+16,Michoacán,16043,Jacona,0.394,Alta cohesión social,Sin polo
+16,Michoacán,16044,Jiménez,0.411,Alta cohesión social,Sin polo
+16,Michoacán,16045,Jiquilpan,0.427,Alta cohesión social,Polo de baja marginación
+16,Michoacán,16046,Juárez,0.445,Alta cohesión social,Sin polo
+16,Michoacán,16047,Jungapeo,0.447,Alta cohesión social,Sin polo
+16,Michoacán,16048,Lagunillas,0.382,Baja cohesión social,Polarizado
+16,Michoacán,16049,Madero,0.429,Baja cohesión social,Polo de alta marginación
+16,Michoacán,16050,Maravatío,0.435,Alta cohesión social,Sin polo
+16,Michoacán,16051,Marcos Castellanos,0.378,Alta cohesión social,Polo de baja marginación
+16,Michoacán,16052,Lázaro Cárdenas,0.422,Alta cohesión social,Sin polo
+16,Michoacán,16053,Morelia,0.475,Alta cohesión social,Polo de baja marginación
+16,Michoacán,16054,Morelos,0.353,Alta cohesión social,Sin polo
+16,Michoacán,16055,Múgica,0.424,Alta cohesión social,Sin polo
+16,Michoacán,16056,Nahuatzen,0.429,Baja cohesión social,Polo de alta marginación
+16,Michoacán,16057,Nocupétaro,0.479,Baja cohesión social,Polo de alta marginación
+16,Michoacán,16058,Nuevo Parangaricutiro,0.368,Alta cohesión social,Sin polo
+16,Michoacán,16059,Nuevo Urecho,0.422,Alta cohesión social,Sin polo
+16,Michoacán,16060,Numarán,0.390,Alta cohesión social,Sin polo
+16,Michoacán,16061,Ocampo,0.419,Baja cohesión social,Polo de alta marginación
+16,Michoacán,16062,Pajacuarán,0.397,Alta cohesión social,Sin polo
+16,Michoacán,16063,Panindícuaro,0.415,Alta cohesión social,Sin polo
+16,Michoacán,16064,Parácuaro,0.435,Baja cohesión social,Polo de alta marginación
+16,Michoacán,16065,Paracho,0.482,Alta cohesión social,Sin polo
+16,Michoacán,16066,Pátzcuaro,0.453,Baja cohesión social,Polarizado
+16,Michoacán,16067,Penjamillo,0.380,Alta cohesión social,Sin polo
+16,Michoacán,16068,Peribán,0.376,Alta cohesión social,Sin polo
+16,Michoacán,16069,La Piedad,0.402,Alta cohesión social,Polo de baja marginación
+16,Michoacán,16070,Purépero,0.370,Alta cohesión social,Polo de baja marginación
+16,Michoacán,16071,Puruándiro,0.414,Baja cohesión social,Polarizado
+16,Michoacán,16072,Queréndaro,0.399,Alta cohesión social,Sin polo
+16,Michoacán,16073,Quiroga,0.376,Alta cohesión social,Sin polo
+16,Michoacán,16074,Cojumatlán de Régules,0.376,Alta cohesión social,Sin polo
+16,Michoacán,16075,Los Reyes,0.456,Baja cohesión social,Polarizado
+16,Michoacán,16076,Sahuayo,0.383,Alta cohesión social,Polo de baja marginación
+16,Michoacán,16077,San Lucas,0.419,Baja cohesión social,Polo de alta marginación
+16,Michoacán,16078,Santa Ana Maya,0.393,Alta cohesión social,Sin polo
+16,Michoacán,16079,Salvador Escalante,0.428,Baja cohesión social,Polo de alta marginación
+16,Michoacán,16080,Senguio,0.424,Baja cohesión social,Polo de alta marginación
+16,Michoacán,16081,Susupuato,0.377,Baja cohesión social,Polo de alta marginación
+16,Michoacán,16082,Tacámbaro,0.421,Alta cohesión social,Sin polo
+16,Michoacán,16083,Tancítaro,0.427,Alta cohesión social,Sin polo
+16,Michoacán,16084,Tangamandapio,0.427,Alta cohesión social,Sin polo
+16,Michoacán,16085,Tangancícuaro,0.405,Baja cohesión social,Polarizado
+16,Michoacán,16086,Tanhuato,0.452,Alta cohesión social,Sin polo
+16,Michoacán,16087,Taretan,0.415,Baja cohesión social,Polarizado
+16,Michoacán,16088,Tarímbaro,0.468,Alta cohesión social,Sin polo
+16,Michoacán,16089,Tepalcatepec,0.385,Alta cohesión social,Sin polo
+16,Michoacán,16090,Tingambato,0.419,Alta cohesión social,Sin polo
+16,Michoacán,16091,Tingüindín,0.390,Alta cohesión social,Sin polo
+16,Michoacán,16092,Tiquicheo de Nicolás Romero,0.451,Baja cohesión social,Polo de alta marginación
+16,Michoacán,16093,Tlalpujahua,0.389,Baja cohesión social,Polo de alta marginación
+16,Michoacán,16094,Tlazazalca,0.377,Alta cohesión social,Sin polo
+16,Michoacán,16095,Tocumbo,0.403,Alta cohesión social,Sin polo
+16,Michoacán,16096,Tumbiscatío,0.445,Baja cohesión social,Polo de alta marginación
+16,Michoacán,16097,Turicato,0.502,Baja cohesión social,Polo de alta marginación
+16,Michoacán,16098,Tuxpan,0.417,Baja cohesión social,Polarizado
+16,Michoacán,16099,Tuzantla,0.415,Baja cohesión social,Polo de alta marginación
+16,Michoacán,16100,Tzintzuntzan,0.449,Baja cohesión social,Polo de alta marginación
+16,Michoacán,16101,Tzitzio,0.380,Baja cohesión social,Polo de alta marginación
+16,Michoacán,16102,Uruapan,0.482,Alta cohesión social,Polo de baja marginación
+16,Michoacán,16103,Venustiano Carranza,0.399,Alta cohesión social,Sin polo
+16,Michoacán,16104,Villamar,0.445,Alta cohesión social,Sin polo
+16,Michoacán,16105,Vista Hermosa,0.387,Baja cohesión social,Polarizado
+16,Michoacán,16106,Yurécuaro,0.394,Alta cohesión social,Sin polo
+16,Michoacán,16107,Zacapu,0.439,Alta cohesión social,Polo de baja marginación
+16,Michoacán,16108,Zamora,0.479,Alta cohesión social,Polo de baja marginación
+16,Michoacán,16109,Zináparo,0.441,Baja cohesión social,Polarizado
+16,Michoacán,16110,Zinapécuaro,0.392,Alta cohesión social,Sin polo
+16,Michoacán,16111,Ziracuaretiro,0.418,Alta cohesión social,Sin polo
+16,Michoacán,16112,Zitácuaro,0.448,Baja cohesión social,Polarizado
+16,Michoacán,16113,José Sixto Verduzco,0.394,Alta cohesión social,Sin polo
+17,Morelos,17001,Amacuzac,0.426,Alta cohesión social,Sin polo
+17,Morelos,17002,Atlatlahucan,0.550,Alta cohesión social,Sin polo
+17,Morelos,17003,Axochiapan,0.415,Baja cohesión social,Polo de alta marginación
+17,Morelos,17004,Ayala,0.467,Alta cohesión social,Sin polo
+17,Morelos,17005,Coatlán del Río,0.422,Alta cohesión social,Sin polo
+17,Morelos,17006,Cuautla,0.419,Alta cohesión social,Polo de baja marginación
+17,Morelos,17007,Cuernavaca,0.457,Alta cohesión social,Polo de baja marginación
+17,Morelos,17008,Emiliano Zapata,0.456,Alta cohesión social,Polo de baja marginación
+17,Morelos,17009,Huitzilac,0.436,Alta cohesión social,Polo de baja marginación
+17,Morelos,17010,Jantetelco,0.450,Alta cohesión social,Sin polo
+17,Morelos,17011,Jiutepec,0.441,Alta cohesión social,Polo de baja marginación
+17,Morelos,17012,Jojutla,0.422,Alta cohesión social,Polo de baja marginación
+17,Morelos,17013,Jonacatepec,0.405,Baja cohesión social,Polarizado
+17,Morelos,17014,Mazatepec,0.429,Baja cohesión social,Polarizado
+17,Morelos,17015,Miacatlán,0.431,Baja cohesión social,Polarizado
+17,Morelos,17016,Ocuituco,0.398,Alta cohesión social,Sin polo
+17,Morelos,17017,Puente de Ixtla,0.440,Baja cohesión social,Polarizado
+17,Morelos,17018,Temixco,0.417,Alta cohesión social,Polo de baja marginación
+17,Morelos,17019,Tepalcingo,0.412,Baja cohesión social,Polo de alta marginación
+17,Morelos,17020,Tepoztlán,0.492,Baja cohesión social,Polarizado
+17,Morelos,17021,Tetecala,0.475,Alta cohesión social,Sin polo
+17,Morelos,17022,Tetela del Volcán,0.481,Baja cohesión social,Polo de alta marginación
+17,Morelos,17023,Tlalnepantla,0.417,Baja cohesión social,Polo de alta marginación
+17,Morelos,17024,Tlaltizapán,0.423,Alta cohesión social,Polo de baja marginación
+17,Morelos,17025,Tlaquiltenango,0.425,Alta cohesión social,Sin polo
+17,Morelos,17026,Tlayacapan,0.395,Baja cohesión social,Polarizado
+17,Morelos,17027,Totolapan,0.446,Alta cohesión social,Sin polo
+17,Morelos,17028,Xochitepec,0.412,Alta cohesión social,Sin polo
+17,Morelos,17029,Yautepec,0.401,Alta cohesión social,Polo de baja marginación
+17,Morelos,17030,Yecapixtla,0.397,Alta cohesión social,Sin polo
+17,Morelos,17031,Zacatepec,0.414,Alta cohesión social,Polo de baja marginación
+17,Morelos,17032,Zacualpan,0.406,Alta cohesión social,Sin polo
+17,Morelos,17033,Temoac,0.377,Baja cohesión social,Polo de alta marginación
+18,Nayarit,18001,Acaponeta,0.430,Alta cohesión social,Sin polo
+18,Nayarit,18002,Ahuacatlán,0.375,Alta cohesión social,Polo de baja marginación
+18,Nayarit,18003,Amatlán de Cañas,0.387,Alta cohesión social,Polo de baja marginación
+18,Nayarit,18004,Compostela,0.403,Alta cohesión social,Sin polo
+18,Nayarit,18005,Huajicori,0.472,Baja cohesión social,Polo de alta marginación
+18,Nayarit,18006,Ixtlán del Río,0.437,Alta cohesión social,Polo de baja marginación
+18,Nayarit,18007,Jala,0.445,Alta cohesión social,Sin polo
+18,Nayarit,18008,Xalisco,0.420,Alta cohesión social,Polo de baja marginación
+18,Nayarit,18009,Del Nayar,0.455,Baja cohesión social,Polo de alta marginación
+18,Nayarit,18010,Rosamorada,0.398,Alta cohesión social,Sin polo
+18,Nayarit,18011,Ruíz,0.426,Alta cohesión social,Sin polo
+18,Nayarit,18012,San Blas,0.431,Alta cohesión social,Sin polo
+18,Nayarit,18013,San Pedro Lagunillas,0.367,Alta cohesión social,Polo de baja marginación
+18,Nayarit,18014,Santa María del Oro,0.385,Alta cohesión social,Sin polo
+18,Nayarit,18015,Santiago Ixcuintla,0.411,Alta cohesión social,Sin polo
+18,Nayarit,18016,Tecuala,0.419,Alta cohesión social,Sin polo
+18,Nayarit,18017,Tepic,0.448,Alta cohesión social,Polo de baja marginación
+18,Nayarit,18018,Tuxpan,0.411,Alta cohesión social,Sin polo
+18,Nayarit,18019,La Yesca,0.395,Alta cohesión social,Sin polo
+18,Nayarit,18020,Bahía de Banderas,0.424,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19001,Abasolo,0.380,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19002,Agualeguas,0.427,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19003,Los Aldamas,0.418,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19004,Allende,0.382,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19005,Anáhuac,0.390,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19006,Apodaca,0.395,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19007,Aramberri,0.400,Alta cohesión social,Sin polo
+19,Nuevo León,19008,Bustamante,0.375,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19009,Cadereyta Jiménez,0.396,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19010,Carmen,0.358,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19011,Cerralvo,0.366,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19012,Ciénega de Flores,0.379,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19013,China,0.414,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19014,Dr. Arroyo,0.416,Baja cohesión social,Polarizado
+19,Nuevo León,19015,Dr. Coss,0.371,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19016,Dr. González,0.363,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19017,Galeana,0.385,Alta cohesión social,Sin polo
+19,Nuevo León,19018,García,0.418,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19019,San Pedro Garza García,0.470,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19020,Gral. Bravo,0.441,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19021,Gral. Escobedo,0.403,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19022,Gral. Terán,0.372,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19023,Gral. Treviño,0.456,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19024,Gral. Zaragoza,0.428,Baja cohesión social,Polarizado
+19,Nuevo León,19025,Gral. Zuazua,0.363,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19026,Guadalupe,0.426,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19027,Los Herreras,0.393,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19028,Higueras,0.379,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19029,Hualahuises,0.412,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19030,Iturbide,0.378,Baja cohesión social,Polarizado
+19,Nuevo León,19031,Juárez,0.365,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19032,Lampazos de Naranjo,0.409,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19033,Linares,0.413,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19034,Marín,0.373,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19035,Melchor Ocampo,0.396,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19036,Mier y Noriega,0.391,Baja cohesión social,Polo de alta marginación
+19,Nuevo León,19037,Mina,0.365,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19038,Montemorelos,0.442,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19039,Monterrey,0.455,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19040,Parás,0.399,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19041,Pesquería,,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19042,Los Ramones,0.421,Alta cohesión social,Sin polo
+19,Nuevo León,19043,Rayones,0.362,Alta cohesión social,Sin polo
+19,Nuevo León,19044,Sabinas Hidalgo,0.416,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19045,Salinas Victoria,0.340,Alta cohesión social,Sin polo
+19,Nuevo León,19046,San Nicolás de los Garza,0.410,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19047,Hidalgo,0.397,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19048,Santa Catarina,0.392,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19049,Santiago,0.424,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19050,Vallecillo,0.383,Alta cohesión social,Polo de baja marginación
+19,Nuevo León,19051,Villaldama,0.396,Alta cohesión social,Polo de baja marginación
+20,Oaxaca,20001,Abejones,0.395,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20002,Acatlán de Pérez Figueroa,0.458,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20003,Asunción Cacalotepec,0.436,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20004,Asunción Cuyotepeji,0.404,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20005,Asunción Ixtaltepec,0.454,Alta cohesión social,Sin polo
+20,Oaxaca,20006,Asunción Nochixtlán,0.446,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20007,Asunción Ocotlán,0.403,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20008,Asunción Tlacolulita,0.374,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20009,Ayotzintepec,0.422,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20010,El Barrio de la Soledad,0.426,Alta cohesión social,Sin polo
+20,Oaxaca,20011,Calihualá,0.404,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20012,Candelaria Loxicha,0.453,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20013,Ciénega de Zimatlán,0.396,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20014,Ciudad Ixtepec,0.445,Alta cohesión social,Polo de baja marginación
+20,Oaxaca,20015,Coatecas Altas,0.396,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20016,Coicoyán de las Flores,0.386,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20017,La Compañía,0.361,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20018,Concepción Buenavista,0.405,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20019,Concepción Pápalo,0.373,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20020,Constancia del Rosario,0.554,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20021,Cosolapa,0.414,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20022,Cosoltepec,0.360,Alta cohesión social,Sin polo
+20,Oaxaca,20023,Cuilápam de Guerrero,0.423,Alta cohesión social,Sin polo
+20,Oaxaca,20024,Cuyamecalco Villa de Zaragoza,0.412,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20025,Chahuites,0.412,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20026,Chalcatongo de Hidalgo,0.424,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20027,Chiquihuitlán de Benito Juárez,0.399,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20028,Heroica Ciudad de Ejutla de Crespo,0.426,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20029,Eloxochitlán de Flores Magón,0.461,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20030,El Espinal,0.448,Alta cohesión social,Polo de baja marginación
+20,Oaxaca,20031,Tamazulápam del Espíritu Santo,0.466,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20032,Fresnillo de Trujano,0.370,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20033,Guadalupe Etla,0.426,Alta cohesión social,Polo de baja marginación
+20,Oaxaca,20034,Guadalupe de Ramírez,0.378,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20035,Guelatao de Juárez,0.444,Alta cohesión social,Polo de baja marginación
+20,Oaxaca,20036,Guevea de Humboldt,0.352,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20037,Mesones Hidalgo,0.415,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20038,Villa Hidalgo,0.387,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20039,Heroica Ciudad de Huajuapan de León,0.439,Alta cohesión social,Polo de baja marginación
+20,Oaxaca,20040,Huautepec,0.402,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20041,Huautla de Jiménez,0.543,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20042,Ixtlán de Juárez,0.458,Baja cohesión social,Polarizado
+20,Oaxaca,20043,Heroica Ciudad de Juchitán de Zaragoza,0.429,Alta cohesión social,Sin polo
+20,Oaxaca,20044,Loma Bonita,0.421,Alta cohesión social,Sin polo
+20,Oaxaca,20045,Magdalena Apasco,0.420,Alta cohesión social,Polo de baja marginación
+20,Oaxaca,20046,Magdalena Jaltepec,0.351,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20047,Santa Magdalena Jicotlán,0.311,Alta cohesión social,Sin polo
+20,Oaxaca,20048,Magdalena Mixtepec,0.370,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20049,Magdalena Ocotlán,0.435,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20050,Magdalena Peñasco,0.383,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20051,Magdalena Teitipac,0.369,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20052,Magdalena Tequisistlán,0.411,Alta cohesión social,Sin polo
+20,Oaxaca,20053,Magdalena Tlacotepec,0.370,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20054,Magdalena Zahuatlán,0.327,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20055,Mariscala de Juárez,0.418,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20056,Mártires de Tacubaya,0.371,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20057,Matías Romero Avendaño,0.476,Alta cohesión social,Sin polo
+20,Oaxaca,20058,Mazatlán Villa de Flores,0.414,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20059,Miahuatlán de Porfirio Díaz,0.452,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20060,Mixistlán de la Reforma,0.381,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20061,Monjas,0.392,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20062,Natividad,0.330,Alta cohesión social,Sin polo
+20,Oaxaca,20063,Nazareno Etla,0.414,Alta cohesión social,Polo de baja marginación
+20,Oaxaca,20064,Nejapa de Madero,0.424,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20065,Ixpantepec Nieves,0.368,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20066,Santiago Niltepec,0.434,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20067,Oaxaca de Juárez,0.473,Alta cohesión social,Polo de baja marginación
+20,Oaxaca,20068,Ocotlán de Morelos,0.466,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20069,La Pe,0.391,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20070,Pinotepa de Don Luis,0.482,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20071,Pluma Hidalgo,0.413,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20072,San José del Progreso,0.380,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20073,Putla Villa de Guerrero,0.473,Alta cohesión social,Sin polo
+20,Oaxaca,20074,Santa Catarina Quioquitani,0.370,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20075,Reforma de Pineda,0.410,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20076,La Reforma,0.379,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20077,Reyes Etla,0.424,Alta cohesión social,Sin polo
+20,Oaxaca,20078,Rojas de Cuauhtémoc,0.365,Alta cohesión social,Sin polo
+20,Oaxaca,20079,Salina Cruz,0.422,Alta cohesión social,Polo de baja marginación
+20,Oaxaca,20080,San Agustín Amatengo,0.376,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20081,San Agustín Atenango,0.403,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20082,San Agustín Chayuco,0.393,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20083,San Agustín de las Juntas,0.428,Alta cohesión social,Sin polo
+20,Oaxaca,20084,San Agustín Etla,0.437,Alta cohesión social,Polo de baja marginación
+20,Oaxaca,20085,San Agustín Loxicha,0.413,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20086,San Agustín Tlacotepec,0.446,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20087,San Agustín Yatareni,0.400,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20088,San Andrés Cabecera Nueva,0.387,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20089,San Andrés Dinicuiti,0.401,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20090,San Andrés Huaxpaltepec,0.429,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20091,San Andrés Huayápam,0.480,Alta cohesión social,Polo de baja marginación
+20,Oaxaca,20092,San Andrés Ixtlahuaca,0.431,Alta cohesión social,Sin polo
+20,Oaxaca,20093,San Andrés Lagunas,0.375,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20094,San Andrés Nuxiño,0.375,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20095,San Andrés Paxtlán,0.375,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20096,San Andrés Sinaxtla,0.389,Alta cohesión social,Polo de baja marginación
+20,Oaxaca,20097,San Andrés Solaga,0.373,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20098,San Andrés Teotilálpam,0.398,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20099,San Andrés Tepetlapa,0.356,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20100,San Andrés Yaá,0.374,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20101,San Andrés Zabache,0.355,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20102,San Andrés Zautla,0.407,Alta cohesión social,Sin polo
+20,Oaxaca,20103,San Antonino Castillo Velasco,0.398,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20104,San Antonino el Alto,0.380,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20105,San Antonino Monte Verde,0.377,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20106,San Antonio Acutla,0.311,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20107,San Antonio de la Cal,0.435,Alta cohesión social,Sin polo
+20,Oaxaca,20108,San Antonio Huitepec,0.423,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20109,San Antonio Nanahuatípam,0.387,Alta cohesión social,Sin polo
+20,Oaxaca,20110,San Antonio Sinicahua,0.378,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20111,San Antonio Tepetlapa,0.415,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20112,San Baltazar Chichicápam,0.410,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20113,San Baltazar Loxicha,0.339,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20114,San Baltazar Yatzachi el Bajo,0.406,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20115,San Bartolo Coyotepec,0.420,Alta cohesión social,Sin polo
+20,Oaxaca,20116,San Bartolomé Ayautla,0.401,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20117,San Bartolomé Loxicha,0.403,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20118,San Bartolomé Quialana,0.367,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20119,San Bartolomé Yucuañe,0.358,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20120,San Bartolomé Zoogocho,0.435,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20121,San Bartolo Soyaltepec,0.363,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20122,San Bartolo Yautepec,0.349,Alta cohesión social,Sin polo
+20,Oaxaca,20123,San Bernardo Mixtepec,0.378,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20124,San Blas Atempa,0.467,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20125,San Carlos Yautepec,0.375,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20126,San Cristóbal Amatlán,0.373,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20127,San Cristóbal Amoltepec,0.384,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20128,San Cristóbal Lachirioag,0.397,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20129,San Cristóbal Suchixtlahuaca,0.345,Alta cohesión social,Polo de baja marginación
+20,Oaxaca,20130,San Dionisio del Mar,0.398,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20131,San Dionisio Ocotepec,0.367,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20132,San Dionisio Ocotlán,0.466,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20133,San Esteban Atatlahuca,0.410,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20134,San Felipe Jalapa de Díaz,0.473,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20135,San Felipe Tejalápam,0.397,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20136,San Felipe Usila,0.428,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20137,San Francisco Cahuacuá,0.395,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20138,San Francisco Cajonos,0.412,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20139,San Francisco Chapulapa,0.397,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20140,San Francisco Chindúa,0.372,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20141,San Francisco del Mar,0.427,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20142,San Francisco Huehuetlán,0.393,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20143,San Francisco Ixhuatán,0.468,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20144,San Francisco Jaltepetongo,0.364,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20145,San Francisco Lachigoló,0.428,Alta cohesión social,Sin polo
+20,Oaxaca,20146,San Francisco Logueche,0.376,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20147,San Francisco Nuxaño,0.329,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20148,San Francisco Ozolotepec,0.374,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20149,San Francisco Sola,0.382,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20150,San Francisco Telixtlahuaca,0.391,Alta cohesión social,Sin polo
+20,Oaxaca,20151,San Francisco Teopan,0.328,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20152,San Francisco Tlapancingo,0.370,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20153,San Gabriel Mixtepec,0.410,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20154,San Ildefonso Amatlán,0.394,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20155,San Ildefonso Sola,0.385,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20156,San Ildefonso Villa Alta,0.429,Alta cohesión social,Sin polo
+20,Oaxaca,20157,San Jacinto Amilpas,0.453,Alta cohesión social,Polo de baja marginación
+20,Oaxaca,20158,San Jacinto Tlacotepec,0.379,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20159,San Jerónimo Coatlán,0.396,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20160,San Jerónimo Silacayoapilla,0.356,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20161,San Jerónimo Sosola,0.367,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20162,San Jerónimo Taviche,0.393,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20163,San Jerónimo Tecóatl,0.464,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20164,San Jorge Nuchita,0.395,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20165,San José Ayuquila,0.354,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20166,San José Chiltepec,0.439,Alta cohesión social,Sin polo
+20,Oaxaca,20167,San José del Peñasco,0.382,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20168,San José Estancia Grande,0.384,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20169,San José Independencia,0.427,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20170,San José Lachiguiri,0.385,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20171,San José Tenango,0.435,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20172,San Juan Achiutla,0.317,Alta cohesión social,Sin polo
+20,Oaxaca,20173,San Juan Atepec,0.372,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20174,Ánimas Trujano,0.406,Alta cohesión social,Polo de baja marginación
+20,Oaxaca,20175,San Juan Bautista Atatlahuca,0.349,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20176,San Juan Bautista Coixtlahuaca,0.412,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20177,San Juan Bautista Cuicatlán,0.453,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20178,San Juan Bautista Guelache,0.478,Alta cohesión social,Sin polo
+20,Oaxaca,20179,San Juan Bautista Jayacatlán,0.391,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20180,San Juan Bautista Lo de Soto,0.437,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20181,San Juan Bautista Suchitepec,0.328,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20182,San Juan Bautista Tlacoatzintepec,0.379,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20183,San Juan Bautista Tlachichilco,0.370,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20184,San Juan Bautista Tuxtepec,0.442,Alta cohesión social,Sin polo
+20,Oaxaca,20185,San Juan Cacahuatepec,0.544,Alta cohesión social,Sin polo
+20,Oaxaca,20186,San Juan Cieneguilla,0.422,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20187,San Juan Coatzóspam,0.398,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20188,San Juan Colorado,0.439,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20189,San Juan Comaltepec,0.373,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20190,San Juan Cotzocón,0.441,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20191,San Juan Chicomezúchil,0.390,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20192,San Juan Chilateca,0.394,Alta cohesión social,Polo de baja marginación
+20,Oaxaca,20193,San Juan del Estado,0.396,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20194,San Juan del Río,0.353,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20195,San Juan Diuxi,0.367,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20196,San Juan Evangelista Analco,0.314,Alta cohesión social,Sin polo
+20,Oaxaca,20197,San Juan Guelavía,0.354,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20198,San Juan Guichicovi,0.426,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20199,San Juan Ihualtepec,0.342,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20200,San Juan Juquila Mixes,0.397,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20201,San Juan Juquila Vijanos,0.349,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20202,San Juan Lachao,0.414,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20203,San Juan Lachigalla,0.372,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20204,San Juan Lajarcia,0.386,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20205,San Juan Lalana,0.398,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20206,San Juan de los Cués,0.416,Alta cohesión social,Sin polo
+20,Oaxaca,20207,San Juan Mazatlán,0.380,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20208,San Juan Mixtepec -Dto. 08 -,0.380,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20209,San Juan Mixtepec -Dto. 26 -,0.332,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20210,San Juan Ñumí,0.390,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20211,San Juan Ozolotepec,0.380,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20212,San Juan Petlapa,0.386,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20213,San Juan Quiahije,0.374,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20214,San Juan Quiotepec,0.385,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20215,San Juan Sayultepec,0.448,Alta cohesión social,Sin polo
+20,Oaxaca,20216,San Juan Tabaá,0.378,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20217,San Juan Tamazola,0.381,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20218,San Juan Teita,0.350,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20219,San Juan Teitipac,0.359,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20220,San Juan Tepeuxila,0.348,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20221,San Juan Teposcolula,0.380,Alta cohesión social,Sin polo
+20,Oaxaca,20222,San Juan Yaeé,0.368,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20223,San Juan Yatzona,0.307,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20224,San Juan Yucuita,0.547,Alta cohesión social,Sin polo
+20,Oaxaca,20225,San Lorenzo,0.421,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20226,San Lorenzo Albarradas,0.356,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20227,San Lorenzo Cacaotepec,0.417,Alta cohesión social,Polo de baja marginación
+20,Oaxaca,20228,San Lorenzo Cuaunecuiltitla,0.385,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20229,San Lorenzo Texmelúcan,0.367,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20230,San Lorenzo Victoria,0.374,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20231,San Lucas Camotlán,0.389,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20232,San Lucas Ojitlán,0.461,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20233,San Lucas Quiaviní,0.376,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20234,San Lucas Zoquiápam,0.413,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20235,San Luis Amatlán,0.345,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20236,San Marcial Ozolotepec,0.386,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20237,San Marcos Arteaga,0.402,Alta cohesión social,Sin polo
+20,Oaxaca,20238,San Martín de los Cansecos,0.394,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20239,San Martín Huamelúlpam,0.403,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20240,San Martín Itunyoso,0.414,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20241,San Martín Lachilá,0.402,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20242,San Martín Peras,0.418,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20243,San Martín Tilcajete,0.419,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20244,San Martín Toxpalan,0.425,Alta cohesión social,Sin polo
+20,Oaxaca,20245,San Martín Zacatepec,0.402,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20246,San Mateo Cajonos,0.379,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20247,Capulálpam de Méndez,0.368,Alta cohesión social,Polo de baja marginación
+20,Oaxaca,20248,San Mateo del Mar,0.423,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20249,San Mateo Yoloxochitlán,0.443,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20250,San Mateo Etlatongo,0.399,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20251,San Mateo Nejápam,0.377,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20252,San Mateo Peñasco,0.438,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20253,San Mateo Piñas,0.390,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20254,San Mateo Río Hondo,0.402,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20255,San Mateo Sindihui,0.371,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20256,San Mateo Tlapiltepec,0.315,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20257,San Melchor Betaza,0.374,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20258,San Miguel Achiutla,0.371,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20259,San Miguel Ahuehuetitlán,0.359,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20260,San Miguel Aloápam,0.366,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20261,San Miguel Amatitlán,0.388,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20262,San Miguel Amatlán,0.382,Alta cohesión social,Sin polo
+20,Oaxaca,20263,San Miguel Coatlán,0.382,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20264,San Miguel Chicahua,0.371,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20265,San Miguel Chimalapa,0.407,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20266,San Miguel del Puerto,0.390,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20267,San Miguel del Río,0.364,Alta cohesión social,Sin polo
+20,Oaxaca,20268,San Miguel Ejutla,0.391,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20269,San Miguel el Grande,0.473,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20270,San Miguel Huautla,0.367,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20271,San Miguel Mixtepec,0.392,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20272,San Miguel Panixtlahuaca,0.398,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20273,San Miguel Peras,0.383,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20274,San Miguel Piedras,0.362,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20275,San Miguel Quetzaltepec,0.399,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20276,San Miguel Santa Flor,0.360,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20277,Villa Sola de Vega,0.422,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20278,San Miguel Soyaltepec,0.482,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20279,San Miguel Suchixtepec,0.434,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20280,Villa Talea de Castro,0.408,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20281,San Miguel Tecomatlán,0.354,Alta cohesión social,Sin polo
+20,Oaxaca,20282,San Miguel Tenango,0.333,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20283,San Miguel Tequixtepec,0.351,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20284,San Miguel Tilquiápam,0.370,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20285,San Miguel Tlacamama,0.386,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20286,San Miguel Tlacotepec,0.416,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20287,San Miguel Tulancingo,0.540,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20288,San Miguel Yotao,0.373,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20289,San Nicolás,0.353,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20290,San Nicolás Hidalgo,0.414,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20291,San Pablo Coatlán,0.385,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20292,San Pablo Cuatro Venados,0.365,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20293,San Pablo Etla,0.472,Alta cohesión social,Polo de baja marginación
+20,Oaxaca,20294,San Pablo Huitzo,0.434,Alta cohesión social,Sin polo
+20,Oaxaca,20295,San Pablo Huixtepec,0.396,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20296,San Pablo Macuiltianguis,0.384,Alta cohesión social,Sin polo
+20,Oaxaca,20297,San Pablo Tijaltepec,0.389,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20298,San Pablo Villa de Mitla,0.390,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20299,San Pablo Yaganiza,0.344,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20300,San Pedro Amuzgos,0.419,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20301,San Pedro Apóstol,0.453,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20302,San Pedro Atoyac,0.428,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20303,San Pedro Cajonos,0.382,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20304,San Pedro Coxcaltepec Cántaros,0.360,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20305,San Pedro Comitancillo,0.448,Alta cohesión social,Polo de baja marginación
+20,Oaxaca,20306,San Pedro el Alto,0.378,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20307,San Pedro Huamelula,0.430,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20308,San Pedro Huilotepec,0.379,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20309,San Pedro Ixcatlán,0.473,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20310,San Pedro Ixtlahuaca,0.400,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20311,San Pedro Jaltepetongo,0.385,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20312,San Pedro Jicayán,0.440,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20313,San Pedro Jocotipac,0.348,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20314,San Pedro Juchatengo,0.359,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20315,San Pedro Mártir,0.385,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20316,San Pedro Mártir Quiechapa,0.373,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20317,San Pedro Mártir Yucuxaco,0.376,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20318,San Pedro Mixtepec -Dto. 22 -,0.391,Alta cohesión social,Sin polo
+20,Oaxaca,20319,San Pedro Mixtepec -Dto. 26 -,0.375,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20320,San Pedro Molinos,0.422,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20321,San Pedro Nopala,0.334,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20322,San Pedro Ocopetatillo,0.401,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20323,San Pedro Ocotepec,0.377,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20324,San Pedro Pochutla,0.463,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20325,San Pedro Quiatoni,0.393,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20326,San Pedro Sochiápam,0.390,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20327,San Pedro Tapanatepec,0.447,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20328,San Pedro Taviche,0.379,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20329,San Pedro Teozacoalco,0.393,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20330,San Pedro Teutila,0.397,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20331,San Pedro Tidaá,0.358,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20332,San Pedro Topiltepec,0.395,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20333,San Pedro Totolápam,0.403,Alta cohesión social,Sin polo
+20,Oaxaca,20334,Villa de Tututepec de Melchor Ocampo,0.423,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20335,San Pedro Yaneri,0.359,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20336,San Pedro Yólox,0.373,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20337,San Pedro y San Pablo Ayutla,0.480,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20338,Villa de Etla,0.431,Alta cohesión social,Sin polo
+20,Oaxaca,20339,San Pedro y San Pablo Teposcolula,0.379,Baja cohesión social,Polarizado
+20,Oaxaca,20340,San Pedro y San Pablo Tequixtepec,0.368,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20341,San Pedro Yucunama,0.364,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20342,San Raymundo Jalpan,0.373,Alta cohesión social,Sin polo
+20,Oaxaca,20343,San Sebastián Abasolo,0.393,Alta cohesión social,Sin polo
+20,Oaxaca,20344,San Sebastián Coatlán,0.350,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20345,San Sebastián Ixcapa,0.429,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20346,San Sebastián Nicananduta,0.346,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20347,San Sebastián Río Hondo,0.385,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20348,San Sebastián Tecomaxtlahuaca,0.441,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20349,San Sebastián Teitipac,0.434,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20350,San Sebastián Tutla,0.426,Alta cohesión social,Polo de baja marginación
+20,Oaxaca,20351,San Simón Almolongas,0.363,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20352,San Simón Zahuatlán,0.409,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20353,Santa Ana,0.348,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20354,Santa Ana Ateixtlahuaca,0.370,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20355,Santa Ana Cuauhtémoc,0.421,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20356,Santa Ana del Valle,0.401,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20357,Santa Ana Tavela,0.386,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20358,Santa Ana Tlapacoyan,0.408,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20359,Santa Ana Yareni,0.393,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20360,Santa Ana Zegache,0.411,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20361,Santa Catalina Quierí,0.361,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20362,Santa Catarina Cuixtla,0.360,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20363,Santa Catarina Ixtepeji,0.400,Alta cohesión social,Sin polo
+20,Oaxaca,20364,Santa Catarina Juquila,0.370,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20365,Santa Catarina Lachatao,0.404,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20366,Santa Catarina Loxicha,0.378,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20367,Santa Catarina Mechoacán,0.415,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20368,Santa Catarina Minas,0.398,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20369,Santa Catarina Quiané,0.368,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20370,Santa Catarina Tayata,0.457,Alta cohesión social,Sin polo
+20,Oaxaca,20371,Santa Catarina Ticuá,0.407,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20372,Santa Catarina Yosonotú,0.413,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20373,Santa Catarina Zapoquila,0.367,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20374,Santa Cruz Acatepec,0.420,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20375,Santa Cruz Amilpas,0.435,Alta cohesión social,Polo de baja marginación
+20,Oaxaca,20376,Santa Cruz de Bravo,0.409,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20377,Santa Cruz Itundujia,0.406,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20378,Santa Cruz Mixtepec,0.420,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20379,Santa Cruz Nundaco,0.423,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20380,Santa Cruz Papalutla,0.386,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20381,Santa Cruz Tacache de Mina,0.415,Alta cohesión social,Sin polo
+20,Oaxaca,20382,Santa Cruz Tacahua,0.403,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20383,Santa Cruz Tayata,0.349,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20384,Santa Cruz Xitla,0.375,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20385,Santa Cruz Xoxocotlán,0.449,Alta cohesión social,Sin polo
+20,Oaxaca,20386,Santa Cruz Zenzontepec,0.394,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20387,Santa Gertrudis,0.457,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20388,Santa Inés del Monte,0.370,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20389,Santa Inés Yatzeche,0.394,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20390,Santa Lucía del Camino,0.444,Alta cohesión social,Polo de baja marginación
+20,Oaxaca,20391,Santa Lucía Miahuatlán,0.371,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20392,Santa Lucía Monteverde,0.406,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20393,Santa Lucía Ocotlán,0.348,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20394,Santa María Alotepec,0.434,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20395,Santa María Apazco,0.374,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20396,Santa María la Asunción,0.418,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20397,Heroica Ciudad de Tlaxiaco,0.418,Alta cohesión social,Sin polo
+20,Oaxaca,20398,Ayoquezco de Aldama,0.394,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20399,Santa María Atzompa,0.434,Alta cohesión social,Sin polo
+20,Oaxaca,20400,Santa María Camotlán,0.374,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20401,Santa María Colotepec,0.456,Alta cohesión social,Sin polo
+20,Oaxaca,20402,Santa María Cortijo,0.401,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20403,Santa María Coyotepec,0.374,Alta cohesión social,Polo de baja marginación
+20,Oaxaca,20404,Santa María Chachoápam,0.383,Baja cohesión social,Polarizado
+20,Oaxaca,20405,Villa de Chilapa de Díaz,0.429,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20406,Santa María Chilchotla,0.410,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20407,Santa María Chimalapa,0.419,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20408,Santa María del Rosario,0.366,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20409,Santa María del Tule,0.451,Alta cohesión social,Polo de baja marginación
+20,Oaxaca,20410,Santa María Ecatepec,0.392,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20411,Santa María Guelacé,0.444,Alta cohesión social,Sin polo
+20,Oaxaca,20412,Santa María Guienagati,0.360,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20413,Santa María Huatulco,0.447,Baja cohesión social,Polarizado
+20,Oaxaca,20414,Santa María Huazolotitlán,0.433,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20415,Santa María Ipalapa,0.375,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20416,Santa María Ixcatlán,0.377,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20417,Santa María Jacatepec,0.425,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20418,Santa María Jalapa del Marqués,0.430,Alta cohesión social,Sin polo
+20,Oaxaca,20419,Santa María Jaltianguis,0.385,Alta cohesión social,Sin polo
+20,Oaxaca,20420,Santa María Lachixío,0.384,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20421,Santa María Mixtequilla,0.410,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20422,Santa María Nativitas,0.356,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20423,Santa María Nduayaco,0.329,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20424,Santa María Ozolotepec,0.385,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20425,Santa María Pápalo,0.378,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20426,Santa María Peñoles,0.396,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20427,Santa María Petapa,0.428,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20428,Santa María Quiegolani,0.387,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20429,Santa María Sola,0.359,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20430,Santa María Tataltepec,0.341,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20431,Santa María Tecomavaca,0.465,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20432,Santa María Temaxcalapa,0.387,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20433,Santa María Temaxcaltepec,0.407,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20434,Santa María Teopoxco,0.395,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20435,Santa María Tepantlali,0.391,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20436,Santa María Texcatitlán,0.361,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20437,Santa María Tlahuitoltepec,0.482,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20438,Santa María Tlalixtac,0.379,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20439,Santa María Tonameca,0.442,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20440,Santa María Totolapilla,0.353,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20441,Santa María Xadani,0.388,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20442,Santa María Yalina,0.377,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20443,Santa María Yavesía,0.370,Alta cohesión social,Polo de baja marginación
+20,Oaxaca,20444,Santa María Yolotepec,0.370,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20445,Santa María Yosoyúa,0.385,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20446,Santa María Yucuhiti,0.378,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20447,Santa María Zacatepec,0.432,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20448,Santa María Zaniza,0.376,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20449,Santa María Zoquitlán,0.381,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20450,Santiago Amoltepec,0.404,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20451,Santiago Apoala,0.359,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20452,Santiago Apóstol,0.388,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20453,Santiago Astata,0.431,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20454,Santiago Atitlán,0.397,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20455,Santiago Ayuquililla,0.371,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20456,Santiago Cacaloxtepec,0.401,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20457,Santiago Camotlán,0.382,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20458,Santiago Comaltepec,0.373,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20459,Santiago Chazumba,0.404,Alta cohesión social,Sin polo
+20,Oaxaca,20460,Santiago Choápam,0.418,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20461,Santiago del Río,0.431,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20462,Santiago Huajolotitlán,0.415,Baja cohesión social,Polarizado
+20,Oaxaca,20463,Santiago Huauclilla,0.342,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20464,Santiago Ihuitlán Plumas,0.381,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20465,Santiago Ixcuintepec,0.400,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20466,Santiago Ixtayutla,0.398,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20467,Santiago Jamiltepec,0.448,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20468,Santiago Jocotepec,0.424,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20469,Santiago Juxtlahuaca,0.538,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20470,Santiago Lachiguiri,0.353,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20471,Santiago Lalopa,0.350,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20472,Santiago Laollaga,0.456,Alta cohesión social,Sin polo
+20,Oaxaca,20473,Santiago Laxopa,0.377,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20474,Santiago Llano Grande,0.469,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20475,Santiago Matatlán,0.379,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20476,Santiago Miltepec,0.342,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20477,Santiago Minas,0.375,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20478,Santiago Nacaltepec,0.346,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20479,Santiago Nejapilla,0.360,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20480,Santiago Nundiche,0.365,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20481,Santiago Nuyoó,0.382,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20482,Santiago Pinotepa Nacional,0.478,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20483,Santiago Suchilquitongo,0.416,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20484,Santiago Tamazola,0.394,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20485,Santiago Tapextla,0.383,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20486,Villa Tejúpam de la Unión,0.403,Alta cohesión social,Sin polo
+20,Oaxaca,20487,Santiago Tenango,0.399,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20488,Santiago Tepetlapa,0.286,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20489,Santiago Tetepec,0.419,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20490,Santiago Texcalcingo,0.389,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20491,Santiago Textitlán,0.350,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20492,Santiago Tilantongo,0.394,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20493,Santiago Tillo,0.436,Alta cohesión social,Sin polo
+20,Oaxaca,20494,Santiago Tlazoyaltepec,0.368,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20495,Santiago Xanica,0.395,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20496,Santiago Xiacuí,0.341,Alta cohesión social,Sin polo
+20,Oaxaca,20497,Santiago Yaitepec,0.381,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20498,Santiago Yaveo,0.395,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20499,Santiago Yolomécatl,0.368,Alta cohesión social,Sin polo
+20,Oaxaca,20500,Santiago Yosondúa,0.424,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20501,Santiago Yucuyachi,0.373,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20502,Santiago Zacatepec,0.426,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20503,Santiago Zoochila,0.352,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20504,Nuevo Zoquiápam,0.372,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20505,Santo Domingo Ingenio,0.416,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20506,Santo Domingo Albarradas,0.371,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20507,Santo Domingo Armenta,0.398,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20508,Santo Domingo Chihuitán,0.423,Alta cohesión social,Sin polo
+20,Oaxaca,20509,Santo Domingo de Morelos,0.439,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20510,Santo Domingo Ixcatlán,0.377,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20511,Santo Domingo Nuxaá,0.389,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20512,Santo Domingo Ozolotepec,0.355,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20513,Santo Domingo Petapa,0.396,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20514,Santo Domingo Roayaga,0.407,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20515,Santo Domingo Tehuantepec,0.399,Alta cohesión social,Sin polo
+20,Oaxaca,20516,Santo Domingo Teojomulco,0.383,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20517,Santo Domingo Tepuxtepec,0.401,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20518,Santo Domingo Tlatayápam,0.310,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20519,Santo Domingo Tomaltepec,0.452,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20520,Santo Domingo Tonalá,0.437,Alta cohesión social,Sin polo
+20,Oaxaca,20521,Santo Domingo Tonaltepec,0.309,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20522,Santo Domingo Xagacía,0.400,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20523,Santo Domingo Yanhuitlán,0.451,Alta cohesión social,Sin polo
+20,Oaxaca,20524,Santo Domingo Yodohino,0.359,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20525,Santo Domingo Zanatepec,0.407,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20526,Santos Reyes Nopala,0.488,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20527,Santos Reyes Pápalo,0.389,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20528,Santos Reyes Tepejillo,0.370,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20529,Santos Reyes Yucuná,0.397,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20530,Santo Tomás Jalieza,0.425,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20531,Santo Tomás Mazaltepec,0.433,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20532,Santo Tomás Ocotepec,0.403,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20533,Santo Tomás Tamazulapan,0.408,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20534,San Vicente Coatlán,0.357,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20535,San Vicente Lachixío,0.373,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20536,San Vicente Nuñú,0.380,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20537,Silacayoápam,0.414,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20538,Sitio de Xitlapehua,0.334,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20539,Soledad Etla,0.441,Alta cohesión social,Polo de baja marginación
+20,Oaxaca,20540,Villa de Tamazulápam del Progreso,0.453,Alta cohesión social,Sin polo
+20,Oaxaca,20541,Tanetze de Zaragoza,0.363,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20542,Taniche,0.368,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20543,Tataltepec de Valdés,0.408,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20544,Teococuilco de Marcos Pérez,0.367,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20545,Teotitlán de Flores Magón,0.428,Alta cohesión social,Sin polo
+20,Oaxaca,20546,Teotitlán del Valle,0.372,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20547,Teotongo,0.408,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20548,Tepelmeme Villa de Morelos,0.356,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20549,Tezoatlán de Segura y Luna,0.382,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20550,San Jerónimo Tlacochahuaya,0.450,Alta cohesión social,Sin polo
+20,Oaxaca,20551,Tlacolula de Matamoros,0.407,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20552,Tlacotepec Plumas,0.365,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20553,Tlalixtac de Cabrera,0.461,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20554,Totontepec Villa de Morelos,0.399,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20555,Trinidad Zaachila,0.417,Alta cohesión social,Sin polo
+20,Oaxaca,20556,La Trinidad Vista Hermosa,0.369,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20557,Unión Hidalgo,0.451,Alta cohesión social,Sin polo
+20,Oaxaca,20558,Valerio Trujano,0.455,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20559,San Juan Bautista Valle Nacional,0.450,Alta cohesión social,Sin polo
+20,Oaxaca,20560,Villa Díaz Ordaz,0.360,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20561,Yaxe,0.368,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20562,Magdalena Yodocono de Porfirio Díaz,0.392,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20563,Yogana,0.343,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20564,Yutanduchi de Guerrero,0.376,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20565,Villa de Zaachila,0.394,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20566,San Mateo Yucutindó,0.391,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20567,Zapotitlán Lagunas,0.397,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20568,Zapotitlán Palmas,0.379,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20569,Santa Inés de Zaragoza,0.406,Baja cohesión social,Polo de alta marginación
+20,Oaxaca,20570,Zimatlán de Álvarez,0.465,Baja cohesión social,Polo de alta marginación
+21,Puebla,21001,Acajete,0.356,Baja cohesión social,Polo de alta marginación
+21,Puebla,21002,Acateno,0.412,Baja cohesión social,Polo de alta marginación
+21,Puebla,21003,Acatlán,0.491,Baja cohesión social,Polarizado
+21,Puebla,21004,Acatzingo,0.404,Baja cohesión social,Polo de alta marginación
+21,Puebla,21005,Acteopan,0.370,Baja cohesión social,Polo de alta marginación
+21,Puebla,21006,Ahuacatlán,0.432,Baja cohesión social,Polo de alta marginación
+21,Puebla,21007,Ahuatlán,0.373,Baja cohesión social,Polo de alta marginación
+21,Puebla,21008,Ahuazotepec,0.356,Alta cohesión social,Sin polo
+21,Puebla,21009,Ahuehuetitla,0.441,Baja cohesión social,Polo de alta marginación
+21,Puebla,21010,Ajalpan,0.487,Baja cohesión social,Polo de alta marginación
+21,Puebla,21011,Albino Zertuche,0.389,Baja cohesión social,Polo de alta marginación
+21,Puebla,21012,Aljojuca,0.389,Baja cohesión social,Polo de alta marginación
+21,Puebla,21013,Altepexi,0.367,Baja cohesión social,Polo de alta marginación
+21,Puebla,21014,Amixtlán,0.451,Baja cohesión social,Polo de alta marginación
+21,Puebla,21015,Amozoc,0.402,Alta cohesión social,Sin polo
+21,Puebla,21016,Aquixtla,0.384,Baja cohesión social,Polo de alta marginación
+21,Puebla,21017,Atempan,0.453,Baja cohesión social,Polo de alta marginación
+21,Puebla,21018,Atexcal,0.396,Baja cohesión social,Polo de alta marginación
+21,Puebla,21019,Atlixco,0.473,Alta cohesión social,Polo de baja marginación
+21,Puebla,21020,Atoyatempan,0.336,Baja cohesión social,Polo de alta marginación
+21,Puebla,21021,Atzala,0.373,Alta cohesión social,Sin polo
+21,Puebla,21022,Atzitzihuacán,0.403,Baja cohesión social,Polo de alta marginación
+21,Puebla,21023,Atzitzintla,0.401,Baja cohesión social,Polo de alta marginación
+21,Puebla,21024,Axutla,0.408,Baja cohesión social,Polo de alta marginación
+21,Puebla,21025,Ayotoxco de Guerrero,0.489,Alta cohesión social,Sin polo
+21,Puebla,21026,Calpan,0.395,Baja cohesión social,Polo de alta marginación
+21,Puebla,21027,Caltepec,0.384,Baja cohesión social,Polo de alta marginación
+21,Puebla,21028,Camocuautla,0.384,Baja cohesión social,Polo de alta marginación
+21,Puebla,21029,Caxhuacan,0.492,Baja cohesión social,Polo de alta marginación
+21,Puebla,21030,Coatepec,0.356,Baja cohesión social,Polo de alta marginación
+21,Puebla,21031,Coatzingo,0.401,Baja cohesión social,Polo de alta marginación
+21,Puebla,21032,Cohetzala,0.398,Baja cohesión social,Polo de alta marginación
+21,Puebla,21033,Cohuecan,0.363,Baja cohesión social,Polo de alta marginación
+21,Puebla,21034,Coronango,0.422,Baja cohesión social,Polo de alta marginación
+21,Puebla,21035,Coxcatlán,0.493,Alta cohesión social,Sin polo
+21,Puebla,21036,Coyomeapan,0.386,Baja cohesión social,Polo de alta marginación
+21,Puebla,21037,Coyotepec,0.469,Baja cohesión social,Polo de alta marginación
+21,Puebla,21038,Cuapiaxtla de Madero,0.378,Baja cohesión social,Polo de alta marginación
+21,Puebla,21039,Cuautempan,0.416,Baja cohesión social,Polo de alta marginación
+21,Puebla,21040,Cuautinchán,0.394,Baja cohesión social,Polo de alta marginación
+21,Puebla,21041,Cuautlancingo,0.420,Alta cohesión social,Polo de baja marginación
+21,Puebla,21042,Cuayuca de Andrade,0.412,Baja cohesión social,Polo de alta marginación
+21,Puebla,21043,Cuetzalan del Progreso,0.517,Baja cohesión social,Polo de alta marginación
+21,Puebla,21044,Cuyoaco,0.402,Baja cohesión social,Polo de alta marginación
+21,Puebla,21045,Chalchicomula de Sesma,0.435,Alta cohesión social,Sin polo
+21,Puebla,21046,Chapulco,0.361,Baja cohesión social,Polo de alta marginación
+21,Puebla,21047,Chiautla,0.437,Alta cohesión social,Sin polo
+21,Puebla,21048,Chiautzingo,0.396,Alta cohesión social,Sin polo
+21,Puebla,21049,Chiconcuautla,0.412,Baja cohesión social,Polo de alta marginación
+21,Puebla,21050,Chichiquila,0.396,Baja cohesión social,Polo de alta marginación
+21,Puebla,21051,Chietla,0.423,Baja cohesión social,Polarizado
+21,Puebla,21052,Chigmecatitlán,0.350,Baja cohesión social,Polo de alta marginación
+21,Puebla,21053,Chignahuapan,0.445,Alta cohesión social,Sin polo
+21,Puebla,21054,Chignautla,0.408,Baja cohesión social,Polo de alta marginación
+21,Puebla,21055,Chila,0.440,Baja cohesión social,Polo de alta marginación
+21,Puebla,21056,Chila de la Sal,0.344,Baja cohesión social,Polo de alta marginación
+21,Puebla,21057,Honey,0.398,Baja cohesión social,Polo de alta marginación
+21,Puebla,21058,Chilchotla,0.413,Baja cohesión social,Polo de alta marginación
+21,Puebla,21059,Chinantla,0.419,Baja cohesión social,Polo de alta marginación
+21,Puebla,21060,Domingo Arenas,0.376,Baja cohesión social,Polo de alta marginación
+21,Puebla,21061,Eloxochitlán,0.379,Baja cohesión social,Polo de alta marginación
+21,Puebla,21062,Epatlán,0.407,Baja cohesión social,Polo de alta marginación
+21,Puebla,21063,Esperanza,0.395,Baja cohesión social,Polo de alta marginación
+21,Puebla,21064,Francisco Z. Mena,0.406,Baja cohesión social,Polo de alta marginación
+21,Puebla,21065,General Felipe Ángeles,0.338,Baja cohesión social,Polo de alta marginación
+21,Puebla,21066,Guadalupe,0.392,Baja cohesión social,Polo de alta marginación
+21,Puebla,21067,Guadalupe Victoria,0.431,Baja cohesión social,Polo de alta marginación
+21,Puebla,21068,Hermenegildo Galeana,0.398,Baja cohesión social,Polo de alta marginación
+21,Puebla,21069,Huaquechula,0.404,Baja cohesión social,Polo de alta marginación
+21,Puebla,21070,Huatlatlauca,0.379,Baja cohesión social,Polo de alta marginación
+21,Puebla,21071,Huauchinango,0.501,Alta cohesión social,Sin polo
+21,Puebla,21072,Huehuetla,0.446,Baja cohesión social,Polo de alta marginación
+21,Puebla,21073,Huehuetlán el Chico,0.407,Baja cohesión social,Polo de alta marginación
+21,Puebla,21074,Huejotzingo,0.387,Alta cohesión social,Sin polo
+21,Puebla,21075,Hueyapan,0.423,Baja cohesión social,Polo de alta marginación
+21,Puebla,21076,Hueytamalco,0.420,Baja cohesión social,Polo de alta marginación
+21,Puebla,21077,Hueytlalpan,0.396,Baja cohesión social,Polo de alta marginación
+21,Puebla,21078,Huitzilan de Serdán,0.437,Baja cohesión social,Polo de alta marginación
+21,Puebla,21079,Huitziltepec,0.377,Baja cohesión social,Polo de alta marginación
+21,Puebla,21080,Atlequizayan,0.426,Baja cohesión social,Polo de alta marginación
+21,Puebla,21081,Ixcamilpa de Guerrero,0.396,Baja cohesión social,Polo de alta marginación
+21,Puebla,21082,Ixcaquixtla,0.447,Baja cohesión social,Polo de alta marginación
+21,Puebla,21083,Ixtacamaxtitlán,0.382,Baja cohesión social,Polo de alta marginación
+21,Puebla,21084,Ixtepec,0.437,Baja cohesión social,Polo de alta marginación
+21,Puebla,21085,Izúcar de Matamoros,0.458,Alta cohesión social,Sin polo
+21,Puebla,21086,Jalpan,0.381,Baja cohesión social,Polo de alta marginación
+21,Puebla,21087,Jolalpan,0.403,Baja cohesión social,Polo de alta marginación
+21,Puebla,21088,Jonotla,0.417,Baja cohesión social,Polo de alta marginación
+21,Puebla,21089,Jopala,0.426,Baja cohesión social,Polo de alta marginación
+21,Puebla,21090,Juan C. Bonilla,0.447,Baja cohesión social,Polo de alta marginación
+21,Puebla,21091,Juan Galindo,0.412,Alta cohesión social,Polo de baja marginación
+21,Puebla,21092,Juan N. Méndez,0.368,Baja cohesión social,Polo de alta marginación
+21,Puebla,21093,Lafragua,0.370,Baja cohesión social,Polo de alta marginación
+21,Puebla,21094,Libres,0.471,Alta cohesión social,Sin polo
+21,Puebla,21095,La Magdalena Tlatlauquitepec,0.376,Baja cohesión social,Polo de alta marginación
+21,Puebla,21096,Mazapiltepec de Juárez,0.393,Alta cohesión social,Sin polo
+21,Puebla,21097,Mixtla,0.356,Alta cohesión social,Sin polo
+21,Puebla,21098,Molcaxac,0.417,Baja cohesión social,Polo de alta marginación
+21,Puebla,21099,Cañada Morelos,0.403,Baja cohesión social,Polo de alta marginación
+21,Puebla,21100,Naupan,0.380,Baja cohesión social,Polo de alta marginación
+21,Puebla,21101,Nauzontla,0.400,Baja cohesión social,Polo de alta marginación
+21,Puebla,21102,Nealtican,0.378,Baja cohesión social,Polo de alta marginación
+21,Puebla,21103,Nicolás Bravo,0.360,Baja cohesión social,Polo de alta marginación
+21,Puebla,21104,Nopalucan,0.364,Alta cohesión social,Sin polo
+21,Puebla,21105,Ocotepec,0.374,Baja cohesión social,Polo de alta marginación
+21,Puebla,21106,Ocoyucan,0.435,Baja cohesión social,Polo de alta marginación
+21,Puebla,21107,Olintla,0.409,Baja cohesión social,Polo de alta marginación
+21,Puebla,21108,Oriental,0.447,Alta cohesión social,Sin polo
+21,Puebla,21109,Pahuatlán,0.460,Baja cohesión social,Polo de alta marginación
+21,Puebla,21110,Palmar de Bravo,0.389,Baja cohesión social,Polo de alta marginación
+21,Puebla,21111,Pantepec,0.433,Baja cohesión social,Polo de alta marginación
+21,Puebla,21112,Petlalcingo,0.459,Baja cohesión social,Polo de alta marginación
+21,Puebla,21113,Piaxtla,0.403,Baja cohesión social,Polo de alta marginación
+21,Puebla,21114,Puebla,0.456,Alta cohesión social,Polo de baja marginación
+21,Puebla,21115,Quecholac,0.365,Baja cohesión social,Polo de alta marginación
+21,Puebla,21116,Quimixtlán,0.391,Baja cohesión social,Polo de alta marginación
+21,Puebla,21117,Rafael Lara Grajales,0.385,Alta cohesión social,Sin polo
+21,Puebla,21118,Los Reyes de Juárez,0.387,Baja cohesión social,Polo de alta marginación
+21,Puebla,21119,San Andrés Cholula,0.432,Alta cohesión social,Polo de baja marginación
+21,Puebla,21120,San Antonio Cañada,0.435,Baja cohesión social,Polo de alta marginación
+21,Puebla,21121,San Diego la Mesa Tochimiltzingo,0.374,Baja cohesión social,Polo de alta marginación
+21,Puebla,21122,San Felipe Teotlalcingo,0.401,Alta cohesión social,Sin polo
+21,Puebla,21123,San Felipe Tepatlán,0.382,Baja cohesión social,Polo de alta marginación
+21,Puebla,21124,San Gabriel Chilac,0.392,Baja cohesión social,Polo de alta marginación
+21,Puebla,21125,San Gregorio Atzompa,0.399,Baja cohesión social,Polarizado
+21,Puebla,21126,San Jerónimo Tecuanipan,0.416,Alta cohesión social,Sin polo
+21,Puebla,21127,San Jerónimo Xayacatlán,0.382,Baja cohesión social,Polo de alta marginación
+21,Puebla,21128,San José Chiapa,0.413,Baja cohesión social,Polo de alta marginación
+21,Puebla,21129,San José Miahuatlán,0.359,Baja cohesión social,Polo de alta marginación
+21,Puebla,21130,San Juan Atenco,0.392,Baja cohesión social,Polo de alta marginación
+21,Puebla,21131,San Juan Atzompa,0.367,Baja cohesión social,Polo de alta marginación
+21,Puebla,21132,San Martín Texmelucan,0.398,Alta cohesión social,Sin polo
+21,Puebla,21133,San Martín Totoltepec,0.410,Baja cohesión social,Polo de alta marginación
+21,Puebla,21134,San Matías Tlalancaleca,0.363,Alta cohesión social,Sin polo
+21,Puebla,21135,San Miguel Ixitlán,0.349,Baja cohesión social,Polo de alta marginación
+21,Puebla,21136,San Miguel Xoxtla,0.362,Alta cohesión social,Polo de baja marginación
+21,Puebla,21137,San Nicolás Buenos Aires,0.377,Baja cohesión social,Polo de alta marginación
+21,Puebla,21138,San Nicolás de los Ranchos,0.377,Baja cohesión social,Polo de alta marginación
+21,Puebla,21139,San Pablo Anicano,0.426,Baja cohesión social,Polo de alta marginación
+21,Puebla,21140,San Pedro Cholula,0.454,Alta cohesión social,Polo de baja marginación
+21,Puebla,21141,San Pedro Yeloixtlahuaca,0.437,Baja cohesión social,Polo de alta marginación
+21,Puebla,21142,San Salvador el Seco,0.397,Baja cohesión social,Polo de alta marginación
+21,Puebla,21143,San Salvador el Verde,0.395,Alta cohesión social,Sin polo
+21,Puebla,21144,San Salvador Huixcolotla,0.345,Baja cohesión social,Polo de alta marginación
+21,Puebla,21145,San Sebastián Tlacotepec,0.406,Baja cohesión social,Polo de alta marginación
+21,Puebla,21146,Santa Catarina Tlaltempan,0.369,Baja cohesión social,Polo de alta marginación
+21,Puebla,21147,Santa Inés Ahuatempan,0.413,Baja cohesión social,Polo de alta marginación
+21,Puebla,21148,Santa Isabel Cholula,0.398,Baja cohesión social,Polo de alta marginación
+21,Puebla,21149,Santiago Miahuatlán,0.395,Baja cohesión social,Polo de alta marginación
+21,Puebla,21150,Huehuetlán el Grande,0.377,Baja cohesión social,Polo de alta marginación
+21,Puebla,21151,Santo Tomás Hueyotlipan,0.374,Alta cohesión social,Sin polo
+21,Puebla,21152,Soltepec,0.392,Baja cohesión social,Polo de alta marginación
+21,Puebla,21153,Tecali de Herrera,0.386,Alta cohesión social,Sin polo
+21,Puebla,21154,Tecamachalco,0.415,Baja cohesión social,Polarizado
+21,Puebla,21155,Tecomatlán,0.511,Alta cohesión social,Sin polo
+21,Puebla,21156,Tehuacán,0.396,Alta cohesión social,Sin polo
+21,Puebla,21157,Tehuitzingo,0.480,Baja cohesión social,Polo de alta marginación
+21,Puebla,21158,Tenampulco,0.423,Baja cohesión social,Polo de alta marginación
+21,Puebla,21159,Teopantlán,0.416,Baja cohesión social,Polo de alta marginación
+21,Puebla,21160,Teotlalco,0.397,Baja cohesión social,Polo de alta marginación
+21,Puebla,21161,Tepanco de López,0.402,Baja cohesión social,Polo de alta marginación
+21,Puebla,21162,Tepango de Rodríguez,0.423,Baja cohesión social,Polo de alta marginación
+21,Puebla,21163,Tepatlaxco de Hidalgo,0.337,Baja cohesión social,Polo de alta marginación
+21,Puebla,21164,Tepeaca,0.444,Baja cohesión social,Polarizado
+21,Puebla,21165,Tepemaxalco,0.390,Baja cohesión social,Polo de alta marginación
+21,Puebla,21166,Tepeojuma,0.422,Baja cohesión social,Polo de alta marginación
+21,Puebla,21167,Tepetzintla,0.403,Baja cohesión social,Polo de alta marginación
+21,Puebla,21168,Tepexco,0.393,Baja cohesión social,Polo de alta marginación
+21,Puebla,21169,Tepexi de Rodríguez,0.471,Baja cohesión social,Polo de alta marginación
+21,Puebla,21170,Tepeyahualco,0.413,Baja cohesión social,Polo de alta marginación
+21,Puebla,21171,Tepeyahualco de Cuauhtémoc,0.363,Alta cohesión social,Sin polo
+21,Puebla,21172,Tetela de Ocampo,0.459,Baja cohesión social,Polo de alta marginación
+21,Puebla,21173,Teteles de Avila Castillo,0.491,Alta cohesión social,Polo de baja marginación
+21,Puebla,21174,Teziutlán,0.430,Baja cohesión social,Polarizado
+21,Puebla,21175,Tianguismanalco,0.416,Baja cohesión social,Polo de alta marginación
+21,Puebla,21176,Tilapa,0.385,Baja cohesión social,Polo de alta marginación
+21,Puebla,21177,Tlacotepec de Benito Juárez,0.392,Baja cohesión social,Polo de alta marginación
+21,Puebla,21178,Tlacuilotepec,0.385,Baja cohesión social,Polo de alta marginación
+21,Puebla,21179,Tlachichuca,0.423,Baja cohesión social,Polo de alta marginación
+21,Puebla,21180,Tlahuapan,0.392,Alta cohesión social,Sin polo
+21,Puebla,21181,Tlaltenango,0.363,Baja cohesión social,Polo de alta marginación
+21,Puebla,21182,Tlanepantla,0.376,Baja cohesión social,Polo de alta marginación
+21,Puebla,21183,Tlaola,0.406,Baja cohesión social,Polo de alta marginación
+21,Puebla,21184,Tlapacoya,0.387,Baja cohesión social,Polo de alta marginación
+21,Puebla,21185,Tlapanalá,0.399,Baja cohesión social,Polo de alta marginación
+21,Puebla,21186,Tlatlauquitepec,0.500,Alta cohesión social,Sin polo
+21,Puebla,21187,Tlaxco,0.403,Baja cohesión social,Polo de alta marginación
+21,Puebla,21188,Tochimilco,0.380,Baja cohesión social,Polo de alta marginación
+21,Puebla,21189,Tochtepec,0.411,Baja cohesión social,Polo de alta marginación
+21,Puebla,21190,Totoltepec de Guerrero,0.376,Baja cohesión social,Polo de alta marginación
+21,Puebla,21191,Tulcingo,0.428,Baja cohesión social,Polo de alta marginación
+21,Puebla,21192,Tuzamapan de Galeana,0.445,Baja cohesión social,Polo de alta marginación
+21,Puebla,21193,Tzicatlacoyan,0.378,Baja cohesión social,Polo de alta marginación
+21,Puebla,21194,Venustiano Carranza,0.439,Baja cohesión social,Polo de alta marginación
+21,Puebla,21195,Vicente Guerrero,0.391,Baja cohesión social,Polo de alta marginación
+21,Puebla,21196,Xayacatlán de Bravo,0.453,Baja cohesión social,Polo de alta marginación
+21,Puebla,21197,Xicotepec,0.428,Alta cohesión social,Sin polo
+21,Puebla,21198,Xicotlán,0.386,Baja cohesión social,Polo de alta marginación
+21,Puebla,21199,Xiutetelco,0.416,Baja cohesión social,Polo de alta marginación
+21,Puebla,21200,Xochiapulco,0.450,Baja cohesión social,Polo de alta marginación
+21,Puebla,21201,Xochiltepec,0.365,Baja cohesión social,Polo de alta marginación
+21,Puebla,21202,Xochitlán de Vicente Suárez,0.453,Baja cohesión social,Polo de alta marginación
+21,Puebla,21203,Xochitlán Todos Santos,0.362,Baja cohesión social,Polo de alta marginación
+21,Puebla,21204,Yaonáhuac,0.502,Baja cohesión social,Polo de alta marginación
+21,Puebla,21205,Yehualtepec,0.347,Baja cohesión social,Polo de alta marginación
+21,Puebla,21206,Zacapala,0.392,Baja cohesión social,Polo de alta marginación
+21,Puebla,21207,Zacapoaxtla,0.462,Baja cohesión social,Polo de alta marginación
+21,Puebla,21208,Zacatlán,0.483,Alta cohesión social,Sin polo
+21,Puebla,21209,Zapotitlán,0.417,Baja cohesión social,Polo de alta marginación
+21,Puebla,21210,Zapotitlán de Méndez,0.426,Baja cohesión social,Polo de alta marginación
+21,Puebla,21211,Zaragoza,0.454,Alta cohesión social,Sin polo
+21,Puebla,21212,Zautla,0.446,Baja cohesión social,Polo de alta marginación
+21,Puebla,21213,Zihuateutla,0.414,Baja cohesión social,Polo de alta marginación
+21,Puebla,21214,Zinacatepec,0.367,Baja cohesión social,Polo de alta marginación
+21,Puebla,21215,Zongozotla,0.427,Baja cohesión social,Polo de alta marginación
+21,Puebla,21216,Zoquiapan,0.421,Baja cohesión social,Polo de alta marginación
+21,Puebla,21217,Zoquitlán,0.432,Baja cohesión social,Polo de alta marginación
+22,Querétaro,22001,Amealco de Bonfil,0.465,Baja cohesión social,Polo de alta marginación
+22,Querétaro,22002,Pinal de Amoles,0.439,Baja cohesión social,Polo de alta marginación
+22,Querétaro,22003,Arroyo Seco,0.441,Alta cohesión social,Sin polo
+22,Querétaro,22004,Cadereyta de Montes,0.440,Alta cohesión social,Sin polo
+22,Querétaro,22005,Colón,0.361,Alta cohesión social,Sin polo
+22,Querétaro,22006,Corregidora,0.469,Alta cohesión social,Polo de baja marginación
+22,Querétaro,22007,Ezequiel Montes,0.413,Baja cohesión social,Polarizado
+22,Querétaro,22008,Huimilpan,0.403,Baja cohesión social,Polo de alta marginación
+22,Querétaro,22009,Jalpan de Serra,0.459,Baja cohesión social,Polarizado
+22,Querétaro,22010,Landa de Matamoros,0.414,Baja cohesión social,Polo de alta marginación
+22,Querétaro,22011,El Marqués,0.348,Alta cohesión social,Sin polo
+22,Querétaro,22012,Pedro Escobedo,0.377,Alta cohesión social,Sin polo
+22,Querétaro,22013,Peñamiller,0.376,Baja cohesión social,Polo de alta marginación
+22,Querétaro,22014,Querétaro,0.461,Alta cohesión social,Polo de baja marginación
+22,Querétaro,22015,San Joaquín,0.443,Baja cohesión social,Polo de alta marginación
+22,Querétaro,22016,San Juan del Río,0.437,Alta cohesión social,Polo de baja marginación
+22,Querétaro,22017,Tequisquiapan,0.415,Alta cohesión social,Sin polo
+22,Querétaro,22018,Tolimán,0.453,Baja cohesión social,Polo de alta marginación
+23,Quintana Roo,23001,Cozumel,0.416,Alta cohesión social,Polo de baja marginación
+23,Quintana Roo,23002,Felipe Carrillo Puerto,0.488,Alta cohesión social,Sin polo
+23,Quintana Roo,23003,Isla Mujeres,0.400,Alta cohesión social,Polo de baja marginación
+23,Quintana Roo,23004,Othón P. Blanco,0.457,Alta cohesión social,Sin polo
+23,Quintana Roo,23005,Benito Juárez,0.448,Alta cohesión social,Polo de baja marginación
+23,Quintana Roo,23006,José María Morelos,0.480,Baja cohesión social,Polo de alta marginación
+23,Quintana Roo,23007,Lázaro Cárdenas,0.438,Baja cohesión social,Polo de alta marginación
+23,Quintana Roo,23008,Solidaridad,0.444,Alta cohesión social,Polo de baja marginación
+23,Quintana Roo,23009,Tulum,0.393,Alta cohesión social,Sin polo
+24,San Luis Potosí,24001,Ahualulco,0.459,Baja cohesión social,Polo de alta marginación
+24,San Luis Potosí,24002,Alaquines,0.421,Baja cohesión social,Polo de alta marginación
+24,San Luis Potosí,24003,Aquismón,0.459,Baja cohesión social,Polo de alta marginación
+24,San Luis Potosí,24004,Armadillo de los Infante,0.392,Baja cohesión social,Polo de alta marginación
+24,San Luis Potosí,24005,Cárdenas,0.453,Alta cohesión social,Polo de baja marginación
+24,San Luis Potosí,24006,Catorce,0.366,Alta cohesión social,Sin polo
+24,San Luis Potosí,24007,Cedral,0.429,Alta cohesión social,Sin polo
+24,San Luis Potosí,24008,Cerritos,0.423,Alta cohesión social,Polo de baja marginación
+24,San Luis Potosí,24009,Cerro de San Pedro,0.467,Alta cohesión social,Sin polo
+24,San Luis Potosí,24010,Ciudad del Maíz,0.416,Alta cohesión social,Sin polo
+24,San Luis Potosí,24011,Ciudad Fernández,0.430,Alta cohesión social,Sin polo
+24,San Luis Potosí,24012,Tancanhuitz,0.487,Baja cohesión social,Polo de alta marginación
+24,San Luis Potosí,24013,Ciudad Valles,0.419,Alta cohesión social,Polo de baja marginación
+24,San Luis Potosí,24014,Coxcatlán,0.470,Baja cohesión social,Polo de alta marginación
+24,San Luis Potosí,24015,Charcas,0.404,Alta cohesión social,Sin polo
+24,San Luis Potosí,24016,Ebano,0.439,Baja cohesión social,Polarizado
+24,San Luis Potosí,24017,Guadalcázar,0.387,Baja cohesión social,Polo de alta marginación
+24,San Luis Potosí,24018,Huehuetlán,0.462,Baja cohesión social,Polo de alta marginación
+24,San Luis Potosí,24019,Lagunillas,0.388,Baja cohesión social,Polo de alta marginación
+24,San Luis Potosí,24020,Matehuala,0.428,Alta cohesión social,Polo de baja marginación
+24,San Luis Potosí,24021,Mexquitic de Carmona,0.369,Alta cohesión social,Sin polo
+24,San Luis Potosí,24022,Moctezuma,0.443,Alta cohesión social,Sin polo
+24,San Luis Potosí,24023,Rayón,0.409,Alta cohesión social,Sin polo
+24,San Luis Potosí,24024,Rioverde,0.414,Baja cohesión social,Polarizado
+24,San Luis Potosí,24025,Salinas,0.467,Alta cohesión social,Sin polo
+24,San Luis Potosí,24026,San Antonio,0.434,Baja cohesión social,Polo de alta marginación
+24,San Luis Potosí,24027,San Ciro de Acosta,0.401,Baja cohesión social,Polo de alta marginación
+24,San Luis Potosí,24028,San Luis Potosí,0.455,Alta cohesión social,Polo de baja marginación
+24,San Luis Potosí,24029,San Martín Chalchicuautla,0.425,Baja cohesión social,Polo de alta marginación
+24,San Luis Potosí,24030,San Nicolás Tolentino,0.402,Baja cohesión social,Polo de alta marginación
+24,San Luis Potosí,24031,Santa Catarina,0.387,Baja cohesión social,Polo de alta marginación
+24,San Luis Potosí,24032,Santa María del Río,0.381,Alta cohesión social,Sin polo
+24,San Luis Potosí,24033,Santo Domingo,0.369,Baja cohesión social,Polo de alta marginación
+24,San Luis Potosí,24034,San Vicente Tancuayalab,0.468,Alta cohesión social,Sin polo
+24,San Luis Potosí,24035,Soledad de Graciano Sánchez,0.410,Alta cohesión social,Polo de baja marginación
+24,San Luis Potosí,24036,Tamasopo,0.474,Alta cohesión social,Sin polo
+24,San Luis Potosí,24037,Tamazunchale,0.486,Baja cohesión social,Polo de alta marginación
+24,San Luis Potosí,24038,Tampacán,0.466,Baja cohesión social,Polo de alta marginación
+24,San Luis Potosí,24039,Tampamolón Corona,0.444,Baja cohesión social,Polo de alta marginación
+24,San Luis Potosí,24040,Tamuín,0.405,Baja cohesión social,Polarizado
+24,San Luis Potosí,24041,Tanlajás,0.479,Baja cohesión social,Polo de alta marginación
+24,San Luis Potosí,24042,Tanquián de Escobedo,0.441,Alta cohesión social,Sin polo
+24,San Luis Potosí,24043,Tierra Nueva,0.423,Baja cohesión social,Polo de alta marginación
+24,San Luis Potosí,24044,Vanegas,0.418,Alta cohesión social,Sin polo
+24,San Luis Potosí,24045,Venado,0.528,Baja cohesión social,Polarizado
+24,San Luis Potosí,24046,Villa de Arriaga,0.395,Baja cohesión social,Polo de alta marginación
+24,San Luis Potosí,24047,Villa de Guadalupe,0.378,Baja cohesión social,Polo de alta marginación
+24,San Luis Potosí,24048,Villa de la Paz,0.367,Alta cohesión social,Polo de baja marginación
+24,San Luis Potosí,24049,Villa de Ramos,0.355,Baja cohesión social,Polo de alta marginación
+24,San Luis Potosí,24050,Villa de Reyes,0.385,Alta cohesión social,Sin polo
+24,San Luis Potosí,24051,Villa Hidalgo,0.361,Alta cohesión social,Sin polo
+24,San Luis Potosí,24052,Villa Juárez,0.400,Baja cohesión social,Polo de alta marginación
+24,San Luis Potosí,24053,Axtla de Terrazas,0.488,Alta cohesión social,Sin polo
+24,San Luis Potosí,24054,Xilitla,0.463,Baja cohesión social,Polo de alta marginación
+24,San Luis Potosí,24055,Zaragoza,0.370,Baja cohesión social,Polo de alta marginación
+24,San Luis Potosí,24056,Villa de Arista,0.401,Baja cohesión social,Polo de alta marginación
+24,San Luis Potosí,24057,Matlapa,0.472,Baja cohesión social,Polo de alta marginación
+24,San Luis Potosí,24058,El Naranjo,0.394,Alta cohesión social,Sin polo
+25,Sinaloa,25001,Ahome,0.430,Alta cohesión social,Polo de baja marginación
+25,Sinaloa,25002,Angostura,0.416,Alta cohesión social,Polo de baja marginación
+25,Sinaloa,25003,Badiraguato,0.423,Baja cohesión social,Polo de alta marginación
+25,Sinaloa,25004,Concordia,0.432,Alta cohesión social,Sin polo
+25,Sinaloa,25005,Cosalá,0.410,Alta cohesión social,Sin polo
+25,Sinaloa,25006,Culiacán,0.437,Alta cohesión social,Polo de baja marginación
+25,Sinaloa,25007,Choix,0.440,Alta cohesión social,Sin polo
+25,Sinaloa,25008,Elota,0.405,Alta cohesión social,Sin polo
+25,Sinaloa,25009,Escuinapa,0.415,Alta cohesión social,Sin polo
+25,Sinaloa,25010,El Fuerte,0.405,Alta cohesión social,Sin polo
+25,Sinaloa,25011,Guasave,0.421,Alta cohesión social,Sin polo
+25,Sinaloa,25012,Mazatlán,0.425,Alta cohesión social,Polo de baja marginación
+25,Sinaloa,25013,Mocorito,0.400,Alta cohesión social,Sin polo
+25,Sinaloa,25014,Rosario,0.425,Alta cohesión social,Sin polo
+25,Sinaloa,25015,Salvador Alvarado,0.427,Alta cohesión social,Polo de baja marginación
+25,Sinaloa,25016,San Ignacio,0.401,Alta cohesión social,Sin polo
+25,Sinaloa,25017,Sinaloa,0.388,Alta cohesión social,Sin polo
+25,Sinaloa,25018,Navolato,0.392,Baja cohesión social,Polarizado
+26,Sonora,26001,Aconchi,0.412,Alta cohesión social,Polo de baja marginación
+26,Sonora,26002,Agua Prieta,0.410,Alta cohesión social,Polo de baja marginación
+26,Sonora,26003,Alamos,0.461,Baja cohesión social,Polarizado
+26,Sonora,26004,Altar,0.527,Alta cohesión social,Polo de baja marginación
+26,Sonora,26005,Arivechi,0.436,Baja cohesión social,Polarizado
+26,Sonora,26006,Arizpe,0.425,Alta cohesión social,Polo de baja marginación
+26,Sonora,26007,Atil,0.432,Alta cohesión social,Polo de baja marginación
+26,Sonora,26008,Bacadéhuachi,0.409,Alta cohesión social,Polo de baja marginación
+26,Sonora,26009,Bacanora,0.395,Alta cohesión social,Polo de baja marginación
+26,Sonora,26010,Bacerac,0.406,Alta cohesión social,Polo de baja marginación
+26,Sonora,26011,Bacoachi,0.369,Alta cohesión social,Polo de baja marginación
+26,Sonora,26012,Bácum,0.365,Alta cohesión social,Polo de baja marginación
+26,Sonora,26013,Banámichi,0.447,Alta cohesión social,Polo de baja marginación
+26,Sonora,26014,Baviácora,0.382,Alta cohesión social,Polo de baja marginación
+26,Sonora,26015,Bavispe,0.388,Alta cohesión social,Polo de baja marginación
+26,Sonora,26016,Benjamín Hill,0.371,Alta cohesión social,Polo de baja marginación
+26,Sonora,26017,Caborca,0.411,Alta cohesión social,Polo de baja marginación
+26,Sonora,26018,Cajeme,0.421,Alta cohesión social,Polo de baja marginación
+26,Sonora,26019,Cananea,0.413,Alta cohesión social,Polo de baja marginación
+26,Sonora,26020,Carbó,0.550,Alta cohesión social,Polo de baja marginación
+26,Sonora,26021,La Colorada,0.428,Alta cohesión social,Polo de baja marginación
+26,Sonora,26022,Cucurpe,0.384,Alta cohesión social,Polo de baja marginación
+26,Sonora,26023,Cumpas,0.429,Alta cohesión social,Polo de baja marginación
+26,Sonora,26024,Divisaderos,0.359,Alta cohesión social,Polo de baja marginación
+26,Sonora,26025,Empalme,0.406,Alta cohesión social,Polo de baja marginación
+26,Sonora,26026,Etchojoa,0.433,Baja cohesión social,Polarizado
+26,Sonora,26027,Fronteras,0.385,Alta cohesión social,Polo de baja marginación
+26,Sonora,26028,Granados,0.397,Alta cohesión social,Polo de baja marginación
+26,Sonora,26029,Guaymas,0.421,Alta cohesión social,Polo de baja marginación
+26,Sonora,26030,Hermosillo,0.438,Alta cohesión social,Polo de baja marginación
+26,Sonora,26031,Huachinera,0.387,Alta cohesión social,Polo de baja marginación
+26,Sonora,26032,Huásabas,0.394,Alta cohesión social,Polo de baja marginación
+26,Sonora,26033,Huatabampo,0.436,Alta cohesión social,Sin polo
+26,Sonora,26034,Huépac,0.394,Alta cohesión social,Polo de baja marginación
+26,Sonora,26035,Imuris,0.395,Alta cohesión social,Polo de baja marginación
+26,Sonora,26036,Magdalena,0.401,Alta cohesión social,Polo de baja marginación
+26,Sonora,26037,Mazatán,0.422,Alta cohesión social,Polo de baja marginación
+26,Sonora,26038,Moctezuma,0.408,Alta cohesión social,Polo de baja marginación
+26,Sonora,26039,Naco,0.409,Alta cohesión social,Polo de baja marginación
+26,Sonora,26040,Nácori Chico,0.401,Baja cohesión social,Polarizado
+26,Sonora,26041,Nacozari de García,0.373,Alta cohesión social,Polo de baja marginación
+26,Sonora,26042,Navojoa,0.444,Alta cohesión social,Polo de baja marginación
+26,Sonora,26043,Nogales,0.402,Alta cohesión social,Polo de baja marginación
+26,Sonora,26044,Onavas,0.403,Alta cohesión social,Polo de baja marginación
+26,Sonora,26045,Opodepe,0.423,Alta cohesión social,Polo de baja marginación
+26,Sonora,26046,Oquitoa,0.393,Alta cohesión social,Polo de baja marginación
+26,Sonora,26047,Pitiquito,0.426,Alta cohesión social,Polo de baja marginación
+26,Sonora,26048,Puerto Peñasco,0.412,Alta cohesión social,Polo de baja marginación
+26,Sonora,26049,Quiriego,0.404,Baja cohesión social,Polo de alta marginación
+26,Sonora,26050,Rayón,0.511,Alta cohesión social,Polo de baja marginación
+26,Sonora,26051,Rosario,0.385,Alta cohesión social,Sin polo
+26,Sonora,26052,Sahuaripa,0.413,Alta cohesión social,Polo de baja marginación
+26,Sonora,26053,San Felipe de Jesús,0.359,Alta cohesión social,Polo de baja marginación
+26,Sonora,26054,San Javier,0.539,Alta cohesión social,Polo de baja marginación
+26,Sonora,26055,San Luis Río Colorado,0.412,Alta cohesión social,Polo de baja marginación
+26,Sonora,26056,San Miguel de Horcasitas,0.512,Baja cohesión social,Polo de alta marginación
+26,Sonora,26057,San Pedro de la Cueva,0.401,Alta cohesión social,Polo de baja marginación
+26,Sonora,26058,Santa Ana,0.416,Alta cohesión social,Polo de baja marginación
+26,Sonora,26059,Santa Cruz,0.471,Alta cohesión social,Polo de baja marginación
+26,Sonora,26060,Sáric,0.403,Alta cohesión social,Polo de baja marginación
+26,Sonora,26061,Soyopa,0.452,Alta cohesión social,Polo de baja marginación
+26,Sonora,26062,Suaqui Grande,0.387,Alta cohesión social,Polo de baja marginación
+26,Sonora,26063,Tepache,0.392,Alta cohesión social,Polo de baja marginación
+26,Sonora,26064,Trincheras,0.399,Alta cohesión social,Polo de baja marginación
+26,Sonora,26065,Tubutama,0.421,Alta cohesión social,Polo de baja marginación
+26,Sonora,26066,Ures,0.393,Alta cohesión social,Polo de baja marginación
+26,Sonora,26067,Villa Hidalgo,0.424,Alta cohesión social,Polo de baja marginación
+26,Sonora,26068,Villa Pesqueira,0.372,Alta cohesión social,Polo de baja marginación
+26,Sonora,26069,Yécora,0.410,Alta cohesión social,Sin polo
+26,Sonora,26070,General Plutarco Elías Calles,0.567,Alta cohesión social,Polo de baja marginación
+26,Sonora,26071,Benito Juárez,0.434,Alta cohesión social,Polo de baja marginación
+26,Sonora,26072,San Ignacio Río Muerto,0.409,Baja cohesión social,Polarizado
+27,Tabasco,27001,Balancán,0.433,Alta cohesión social,Sin polo
+27,Tabasco,27002,Cárdenas,0.475,Alta cohesión social,Sin polo
+27,Tabasco,27003,Centla,0.463,Baja cohesión social,Polo de alta marginación
+27,Tabasco,27004,Centro,0.468,Alta cohesión social,Polo de baja marginación
+27,Tabasco,27005,Comalcalco,0.447,Alta cohesión social,Sin polo
+27,Tabasco,27006,Cunduacán,0.384,Alta cohesión social,Sin polo
+27,Tabasco,27007,Emiliano Zapata,0.424,Alta cohesión social,Sin polo
+27,Tabasco,27008,Huimanguillo,0.466,Alta cohesión social,Sin polo
+27,Tabasco,27009,Jalapa,0.382,Alta cohesión social,Sin polo
+27,Tabasco,27010,Jalpa de Méndez,0.415,Alta cohesión social,Sin polo
+27,Tabasco,27011,Jonuta,0.479,Alta cohesión social,Sin polo
+27,Tabasco,27012,Macuspana,0.481,Alta cohesión social,Sin polo
+27,Tabasco,27013,Nacajuca,0.442,Alta cohesión social,Sin polo
+27,Tabasco,27014,Paraíso,0.445,Alta cohesión social,Sin polo
+27,Tabasco,27015,Tacotalpa,0.478,Alta cohesión social,Sin polo
+27,Tabasco,27016,Teapa,0.404,Baja cohesión social,Polarizado
+27,Tabasco,27017,Tenosique,0.386,Baja cohesión social,Polarizado
+28,Tamaulipas,28001,Abasolo,0.411,Alta cohesión social,Sin polo
+28,Tamaulipas,28002,Aldama,0.419,Baja cohesión social,Polarizado
+28,Tamaulipas,28003,Altamira,0.408,Alta cohesión social,Polo de baja marginación
+28,Tamaulipas,28004,Antiguo Morelos,0.390,Baja cohesión social,Polarizado
+28,Tamaulipas,28005,Burgos,0.368,Alta cohesión social,Sin polo
+28,Tamaulipas,28006,Bustamante,0.407,Baja cohesión social,Polo de alta marginación
+28,Tamaulipas,28007,Camargo,0.417,Alta cohesión social,Polo de baja marginación
+28,Tamaulipas,28008,Casas,0.442,Alta cohesión social,Sin polo
+28,Tamaulipas,28009,Ciudad Madero,0.453,Alta cohesión social,Polo de baja marginación
+28,Tamaulipas,28010,Cruillas,0.383,Alta cohesión social,Sin polo
+28,Tamaulipas,28011,Gómez Farías,0.359,Alta cohesión social,Sin polo
+28,Tamaulipas,28012,González,0.440,Alta cohesión social,Sin polo
+28,Tamaulipas,28013,Güémez,0.362,Alta cohesión social,Sin polo
+28,Tamaulipas,28014,Guerrero,,Alta cohesión social,Polo de baja marginación
+28,Tamaulipas,28015,Gustavo Díaz Ordaz,0.410,Alta cohesión social,Polo de baja marginación
+28,Tamaulipas,28016,Hidalgo,0.380,Alta cohesión social,Sin polo
+28,Tamaulipas,28017,Jaumave,0.434,Baja cohesión social,Polarizado
+28,Tamaulipas,28018,Jiménez,0.416,Alta cohesión social,Polo de baja marginación
+28,Tamaulipas,28019,Llera,0.388,Alta cohesión social,Sin polo
+28,Tamaulipas,28020,Mainero,0.364,Baja cohesión social,Polarizado
+28,Tamaulipas,28021,El Mante,0.444,Alta cohesión social,Polo de baja marginación
+28,Tamaulipas,28022,Matamoros,0.419,Alta cohesión social,Polo de baja marginación
+28,Tamaulipas,28023,Méndez,0.386,Alta cohesión social,Sin polo
+28,Tamaulipas,28024,Mier,0.405,Alta cohesión social,Polo de baja marginación
+28,Tamaulipas,28025,Miguel Alemán,0.425,Alta cohesión social,Polo de baja marginación
+28,Tamaulipas,28026,Miquihuana,0.392,Baja cohesión social,Polo de alta marginación
+28,Tamaulipas,28027,Nuevo Laredo,0.413,Alta cohesión social,Polo de baja marginación
+28,Tamaulipas,28028,Nuevo Morelos,0.377,Alta cohesión social,Sin polo
+28,Tamaulipas,28029,Ocampo,0.407,Alta cohesión social,Sin polo
+28,Tamaulipas,28030,Padilla,0.414,Alta cohesión social,Polo de baja marginación
+28,Tamaulipas,28031,Palmillas,0.356,Alta cohesión social,Sin polo
+28,Tamaulipas,28032,Reynosa,0.409,Alta cohesión social,Polo de baja marginación
+28,Tamaulipas,28033,Río Bravo,0.414,Alta cohesión social,Polo de baja marginación
+28,Tamaulipas,28034,San Carlos,0.404,Alta cohesión social,Sin polo
+28,Tamaulipas,28035,San Fernando,0.397,Alta cohesión social,Sin polo
+28,Tamaulipas,28036,San Nicolás,0.357,Baja cohesión social,Polo de alta marginación
+28,Tamaulipas,28037,Soto la Marina,0.416,Alta cohesión social,Sin polo
+28,Tamaulipas,28038,Tampico,0.442,Alta cohesión social,Polo de baja marginación
+28,Tamaulipas,28039,Tula,0.430,Baja cohesión social,Polarizado
+28,Tamaulipas,28040,Valle Hermoso,0.413,Alta cohesión social,Polo de baja marginación
+28,Tamaulipas,28041,Victoria,0.458,Alta cohesión social,Polo de baja marginación
+28,Tamaulipas,28042,Villagrán,0.356,Alta cohesión social,Sin polo
+28,Tamaulipas,28043,Xicoténcatl,0.410,Alta cohesión social,Sin polo
+29,Tlaxcala,29001,Amaxac de Guerrero,0.412,Alta cohesión social,Polo de baja marginación
+29,Tlaxcala,29002,Apetatitlán de Antonio Carvajal,0.432,Alta cohesión social,Polo de baja marginación
+29,Tlaxcala,29003,Atlangatepec,0.332,Alta cohesión social,Sin polo
+29,Tlaxcala,29004,Atltzayanca,0.387,Baja cohesión social,Polo de alta marginación
+29,Tlaxcala,29005,Apizaco,0.440,Alta cohesión social,Polo de baja marginación
+29,Tlaxcala,29006,Calpulalpan,0.397,Alta cohesión social,Polo de baja marginación
+29,Tlaxcala,29007,El Carmen Tequexquitla,0.346,Baja cohesión social,Polo de alta marginación
+29,Tlaxcala,29008,Cuapiaxtla,0.350,Alta cohesión social,Sin polo
+29,Tlaxcala,29009,Cuaxomulco,0.385,Alta cohesión social,Sin polo
+29,Tlaxcala,29010,Chiautempan,0.400,Alta cohesión social,Polo de baja marginación
+29,Tlaxcala,29011,Muñoz de Domingo Arenas,0.365,Alta cohesión social,Polo de baja marginación
+29,Tlaxcala,29012,Españita,0.385,Alta cohesión social,Sin polo
+29,Tlaxcala,29013,Huamantla,0.413,Baja cohesión social,Polarizado
+29,Tlaxcala,29014,Hueyotlipan,0.377,Alta cohesión social,Sin polo
+29,Tlaxcala,29015,Ixtacuixtla de Mariano Matamoros,0.419,Alta cohesión social,Sin polo
+29,Tlaxcala,29016,Ixtenco,0.415,Alta cohesión social,Sin polo
+29,Tlaxcala,29017,Mazatecochco de José María Morelos,0.368,Alta cohesión social,Sin polo
+29,Tlaxcala,29018,Contla de Juan Cuamatzi,0.390,Alta cohesión social,Sin polo
+29,Tlaxcala,29019,Tepetitla de Lardizábal,0.392,Alta cohesión social,Sin polo
+29,Tlaxcala,29020,Sanctórum de Lázaro Cárdenas,0.351,Alta cohesión social,Sin polo
+29,Tlaxcala,29021,Nanacamilpa de Mariano Arista,0.348,Alta cohesión social,Sin polo
+29,Tlaxcala,29022,Acuamanala de Miguel Hidalgo,0.339,Alta cohesión social,Sin polo
+29,Tlaxcala,29023,Natívitas,0.402,Alta cohesión social,Sin polo
+29,Tlaxcala,29024,Panotla,0.472,Alta cohesión social,Sin polo
+29,Tlaxcala,29025,San Pablo del Monte,0.402,Alta cohesión social,Sin polo
+29,Tlaxcala,29026,Santa Cruz Tlaxcala,0.434,Alta cohesión social,Polo de baja marginación
+29,Tlaxcala,29027,Tenancingo,0.357,Alta cohesión social,Sin polo
+29,Tlaxcala,29028,Teolocholco,0.398,Alta cohesión social,Sin polo
+29,Tlaxcala,29029,Tepeyanco,0.389,Alta cohesión social,Polo de baja marginación
+29,Tlaxcala,29030,Terrenate,0.356,Baja cohesión social,Polo de alta marginación
+29,Tlaxcala,29031,Tetla de la Solidaridad,0.375,Alta cohesión social,Polo de baja marginación
+29,Tlaxcala,29032,Tetlatlahuca,0.393,Alta cohesión social,Polo de baja marginación
+29,Tlaxcala,29033,Tlaxcala,0.455,Alta cohesión social,Polo de baja marginación
+29,Tlaxcala,29034,Tlaxco,0.369,Alta cohesión social,Sin polo
+29,Tlaxcala,29035,Tocatlán,0.409,Alta cohesión social,Sin polo
+29,Tlaxcala,29036,Totolac,0.451,Alta cohesión social,Polo de baja marginación
+29,Tlaxcala,29037,Ziltlaltépec de Trinidad Sánchez Santos,0.433,Baja cohesión social,Polo de alta marginación
+29,Tlaxcala,29038,Tzompantepec,0.416,Alta cohesión social,Sin polo
+29,Tlaxcala,29039,Xaloztoc,0.368,Alta cohesión social,Sin polo
+29,Tlaxcala,29040,Xaltocan,0.370,Alta cohesión social,Sin polo
+29,Tlaxcala,29041,Papalotla de Xicohténcatl,0.415,Alta cohesión social,Polo de baja marginación
+29,Tlaxcala,29042,Xicohtzinco,0.383,Alta cohesión social,Polo de baja marginación
+29,Tlaxcala,29043,Yauhquemehcan,0.419,Alta cohesión social,Polo de baja marginación
+29,Tlaxcala,29044,Zacatelco,0.411,Alta cohesión social,Polo de baja marginación
+29,Tlaxcala,29045,Benito Juárez,0.343,Alta cohesión social,Sin polo
+29,Tlaxcala,29046,Emiliano Zapata,0.344,Baja cohesión social,Polo de alta marginación
+29,Tlaxcala,29047,Lázaro Cárdenas,0.330,Alta cohesión social,Sin polo
+29,Tlaxcala,29048,La Magdalena Tlaltelulco,0.402,Alta cohesión social,Sin polo
+29,Tlaxcala,29049,San Damián Texóloc,0.415,Alta cohesión social,Polo de baja marginación
+29,Tlaxcala,29050,San Francisco Tetlanohcan,0.398,Alta cohesión social,Sin polo
+29,Tlaxcala,29051,San Jerónimo Zacualpan,0.452,Alta cohesión social,Polo de baja marginación
+29,Tlaxcala,29052,San José Teacalco,0.368,Baja cohesión social,Polo de alta marginación
+29,Tlaxcala,29053,San Juan Huactzinco,0.422,Alta cohesión social,Sin polo
+29,Tlaxcala,29054,San Lorenzo Axocomanitla,0.390,Alta cohesión social,Polo de baja marginación
+29,Tlaxcala,29055,San Lucas Tecopilco,0.362,Alta cohesión social,Polo de baja marginación
+29,Tlaxcala,29056,Santa Ana Nopalucan,0.394,Alta cohesión social,Sin polo
+29,Tlaxcala,29057,Santa Apolonia Teacalco,0.414,Alta cohesión social,Polo de baja marginación
+29,Tlaxcala,29058,Santa Catarina Ayometla,0.386,Alta cohesión social,Sin polo
+29,Tlaxcala,29059,Santa Cruz Quilehtla,0.361,Alta cohesión social,Sin polo
+29,Tlaxcala,29060,Santa Isabel Xiloxoxtla,0.383,Alta cohesión social,Sin polo
+30,Veracruz,30001,Acajete,0.439,Alta cohesión social,Sin polo
+30,Veracruz,30002,Acatlán,0.371,Alta cohesión social,Sin polo
+30,Veracruz,30003,Acayucan,0.431,Alta cohesión social,Sin polo
+30,Veracruz,30004,Actopan,0.394,Alta cohesión social,Sin polo
+30,Veracruz,30005,Acula,0.396,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30006,Acultzingo,0.423,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30007,Camarón de Tejeda,0.395,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30008,Alpatláhuac,0.401,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30009,Alto Lucero de Gutiérrez Barrios,0.396,Alta cohesión social,Sin polo
+30,Veracruz,30010,Altotonga,0.473,Alta cohesión social,Sin polo
+30,Veracruz,30011,Alvarado,0.447,Alta cohesión social,Sin polo
+30,Veracruz,30012,Amatitlán,0.401,Baja cohesión social,Polarizado
+30,Veracruz,30013,Naranjos Amatlán,0.517,Alta cohesión social,Polo de baja marginación
+30,Veracruz,30014,Amatlán de los Reyes,0.391,Alta cohesión social,Sin polo
+30,Veracruz,30015,Angel R. Cabada,0.406,Alta cohesión social,Sin polo
+30,Veracruz,30016,La Antigua,0.408,Alta cohesión social,Polo de baja marginación
+30,Veracruz,30017,Apazapan,0.359,Alta cohesión social,Sin polo
+30,Veracruz,30018,Aquila,0.385,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30019,Astacinga,0.402,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30020,Atlahuilco,0.427,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30021,Atoyac,0.410,Alta cohesión social,Sin polo
+30,Veracruz,30022,Atzacan,0.442,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30023,Atzalan,0.417,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30024,Tlaltetela,0.402,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30025,Ayahualulco,0.402,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30026,Banderilla,0.430,Alta cohesión social,Polo de baja marginación
+30,Veracruz,30027,Benito Juárez,0.494,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30028,Boca del Río,0.465,Alta cohesión social,Polo de baja marginación
+30,Veracruz,30029,Calcahualco,0.387,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30030,Camerino Z. Mendoza,0.468,Alta cohesión social,Polo de baja marginación
+30,Veracruz,30031,Carrillo Puerto,0.375,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30032,Catemaco,0.422,Alta cohesión social,Sin polo
+30,Veracruz,30033,Cazones de Herrera,0.437,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30034,Cerro Azul,0.487,Alta cohesión social,Polo de baja marginación
+30,Veracruz,30035,Citlaltépetl,0.432,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30036,Coacoatzintla,0.419,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30037,Coahuitlán,0.423,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30038,Coatepec,0.451,Alta cohesión social,Sin polo
+30,Veracruz,30039,Coatzacoalcos,0.441,Alta cohesión social,Polo de baja marginación
+30,Veracruz,30040,Coatzintla,0.436,Alta cohesión social,Polo de baja marginación
+30,Veracruz,30041,Coetzala,0.413,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30042,Colipa,0.402,Alta cohesión social,Sin polo
+30,Veracruz,30043,Comapa,0.383,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30044,Córdoba,0.454,Alta cohesión social,Polo de baja marginación
+30,Veracruz,30045,Cosamaloapan de Carpio,0.460,Alta cohesión social,Sin polo
+30,Veracruz,30046,Cosautlán de Carvajal,0.402,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30047,Coscomatepec,0.485,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30048,Cosoleacaque,0.471,Alta cohesión social,Sin polo
+30,Veracruz,30049,Cotaxtla,0.430,Alta cohesión social,Sin polo
+30,Veracruz,30050,Coxquihui,0.446,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30051,Coyutla,0.469,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30052,Cuichapa,0.394,Alta cohesión social,Sin polo
+30,Veracruz,30053,Cuitláhuac,0.398,Alta cohesión social,Sin polo
+30,Veracruz,30054,Chacaltianguis,0.410,Baja cohesión social,Polarizado
+30,Veracruz,30055,Chalma,0.460,Alta cohesión social,Sin polo
+30,Veracruz,30056,Chiconamel,0.405,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30057,Chiconquiaco,0.421,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30058,Chicontepec,0.537,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30059,Chinameca,0.377,Alta cohesión social,Sin polo
+30,Veracruz,30060,Chinampa de Gorostiza,0.438,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30061,Las Choapas,0.503,Alta cohesión social,Sin polo
+30,Veracruz,30062,Chocamán,0.454,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30063,Chontla,0.443,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30064,Chumatlán,0.395,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30065,Emiliano Zapata,0.489,Alta cohesión social,Sin polo
+30,Veracruz,30066,Espinal,0.460,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30067,Filomeno Mata,0.496,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30068,Fortín,0.481,Alta cohesión social,Polo de baja marginación
+30,Veracruz,30069,Gutiérrez Zamora,0.442,Alta cohesión social,Sin polo
+30,Veracruz,30070,Hidalgotitlán,0.426,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30071,Huatusco,0.480,Alta cohesión social,Sin polo
+30,Veracruz,30072,Huayacocotla,0.481,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30073,Hueyapan de Ocampo,0.446,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30074,Huiloapan de Cuauhtémoc,0.414,Alta cohesión social,Sin polo
+30,Veracruz,30075,Ignacio de la Llave,0.452,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30076,Ilamatlán,0.465,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30077,Isla,0.404,Alta cohesión social,Sin polo
+30,Veracruz,30078,Ixcatepec,0.442,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30079,Ixhuacán de los Reyes,0.377,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30080,Ixhuatlán del Café,0.420,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30081,Ixhuatlancillo,0.443,Baja cohesión social,Polarizado
+30,Veracruz,30082,Ixhuatlán del Sureste,0.404,Alta cohesión social,Sin polo
+30,Veracruz,30083,Ixhuatlán de Madero,0.450,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30084,Ixmatlahuacan,0.389,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30085,Ixtaczoquitlán,0.417,Alta cohesión social,Sin polo
+30,Veracruz,30086,Jalacingo,0.410,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30087,Xalapa,0.462,Alta cohesión social,Polo de baja marginación
+30,Veracruz,30088,Jalcomulco,0.405,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30089,Jáltipan,0.434,Alta cohesión social,Sin polo
+30,Veracruz,30090,Jamapa,0.443,Alta cohesión social,Sin polo
+30,Veracruz,30091,Jesús Carranza,0.400,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30092,Xico,0.433,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30093,Jilotepec,0.373,Alta cohesión social,Sin polo
+30,Veracruz,30094,Juan Rodríguez Clara,0.425,Alta cohesión social,Sin polo
+30,Veracruz,30095,Juchique de Ferrer,0.435,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30096,Landero y Coss,0.369,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30097,Lerdo de Tejada,0.401,Alta cohesión social,Polo de baja marginación
+30,Veracruz,30098,Magdalena,0.449,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30099,Maltrata,0.437,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30100,Manlio Fabio Altamirano,0.372,Alta cohesión social,Sin polo
+30,Veracruz,30101,Mariano Escobedo,0.483,Baja cohesión social,Polarizado
+30,Veracruz,30102,Martínez de la Torre,0.434,Alta cohesión social,Sin polo
+30,Veracruz,30103,Mecatlán,0.443,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30104,Mecayapan,0.458,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30105,Medellín,0.416,Alta cohesión social,Sin polo
+30,Veracruz,30106,Miahuatlán,0.390,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30107,Las Minas,0.403,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30108,Minatitlán,0.473,Alta cohesión social,Polo de baja marginación
+30,Veracruz,30109,Misantla,0.422,Alta cohesión social,Sin polo
+30,Veracruz,30110,Mixtla de Altamirano,0.376,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30111,Moloacán,0.434,Baja cohesión social,Polarizado
+30,Veracruz,30112,Naolinco,0.422,Alta cohesión social,Sin polo
+30,Veracruz,30113,Naranjal,0.434,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30114,Nautla,0.389,Alta cohesión social,Sin polo
+30,Veracruz,30115,Nogales,0.433,Alta cohesión social,Sin polo
+30,Veracruz,30116,Oluta,0.416,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30117,Omealca,0.422,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30118,Orizaba,0.454,Alta cohesión social,Polo de baja marginación
+30,Veracruz,30119,Otatitlán,0.419,Alta cohesión social,Sin polo
+30,Veracruz,30120,Oteapan,0.433,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30121,Ozuluama de Mascareñas,0.430,Alta cohesión social,Sin polo
+30,Veracruz,30122,Pajapan,0.389,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30123,Pánuco,0.426,Alta cohesión social,Sin polo
+30,Veracruz,30124,Papantla,0.477,Alta cohesión social,Sin polo
+30,Veracruz,30125,Paso del Macho,0.412,Alta cohesión social,Sin polo
+30,Veracruz,30126,Paso de Ovejas,0.391,Baja cohesión social,Polarizado
+30,Veracruz,30127,La Perla,0.425,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30128,Perote,0.387,Alta cohesión social,Sin polo
+30,Veracruz,30129,Platón Sánchez,0.457,Alta cohesión social,Sin polo
+30,Veracruz,30130,Playa Vicente,0.453,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30131,Poza Rica de Hidalgo,0.440,Alta cohesión social,Polo de baja marginación
+30,Veracruz,30132,Las Vigas de Ramírez,0.469,Alta cohesión social,Sin polo
+30,Veracruz,30133,Pueblo Viejo,0.396,Alta cohesión social,Sin polo
+30,Veracruz,30134,Puente Nacional,0.446,Baja cohesión social,Polarizado
+30,Veracruz,30135,Rafael Delgado,0.472,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30136,Rafael Lucio,0.373,Alta cohesión social,Sin polo
+30,Veracruz,30137,Los Reyes,0.427,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30138,Río Blanco,0.427,Alta cohesión social,Polo de baja marginación
+30,Veracruz,30139,Saltabarranca,0.400,Alta cohesión social,Sin polo
+30,Veracruz,30140,San Andrés Tenejapan,0.429,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30141,San Andrés Tuxtla,0.471,Alta cohesión social,Sin polo
+30,Veracruz,30142,San Juan Evangelista,0.426,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30143,Santiago Tuxtla,0.461,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30144,Sayula de Alemán,0.430,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30145,Soconusco,0.430,Baja cohesión social,Polarizado
+30,Veracruz,30146,Sochiapa,0.361,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30147,Soledad Atzompa,0.407,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30148,Soledad de Doblado,0.386,Alta cohesión social,Sin polo
+30,Veracruz,30149,Soteapan,0.462,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30150,Tamalín,0.465,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30151,Tamiahua,0.465,Alta cohesión social,Sin polo
+30,Veracruz,30152,Tampico Alto,0.439,Alta cohesión social,Sin polo
+30,Veracruz,30153,Tancoco,0.413,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30154,Tantima,0.357,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30155,Tantoyuca,0.490,Alta cohesión social,Sin polo
+30,Veracruz,30156,Tatatila,0.404,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30157,Castillo de Teayo,0.429,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30158,Tecolutla,0.428,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30159,Tehuipango,0.403,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30160,Álamo Temapache,0.430,Alta cohesión social,Sin polo
+30,Veracruz,30161,Tempoal,0.506,Alta cohesión social,Sin polo
+30,Veracruz,30162,Tenampa,0.357,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30163,Tenochtitlán,0.401,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30164,Teocelo,0.428,Alta cohesión social,Sin polo
+30,Veracruz,30165,Tepatlaxco,0.409,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30166,Tepetlán,0.392,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30167,Tepetzintla,0.447,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30168,Tequila,0.501,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30169,José Azueta,0.452,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30170,Texcatepec,0.427,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30171,Texhuacán,0.475,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30172,Texistepec,0.440,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30173,Tezonapa,0.429,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30174,Tierra Blanca,0.425,Baja cohesión social,Polarizado
+30,Veracruz,30175,Tihuatlán,0.436,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30176,Tlacojalpan,0.429,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30177,Tlacolulan,0.446,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30178,Tlacotalpan,0.466,Baja cohesión social,Polarizado
+30,Veracruz,30179,Tlacotepec de Mejía,0.386,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30180,Tlachichilco,0.426,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30181,Tlalixcoyan,0.408,Alta cohesión social,Sin polo
+30,Veracruz,30182,Tlalnelhuayocan,0.453,Alta cohesión social,Sin polo
+30,Veracruz,30183,Tlapacoyan,0.457,Alta cohesión social,Sin polo
+30,Veracruz,30184,Tlaquilpa,0.403,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30185,Tlilapan,0.444,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30186,Tomatlán,0.407,Alta cohesión social,Sin polo
+30,Veracruz,30187,Tonayán,0.383,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30188,Totutla,0.383,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30189,Tuxpan,0.448,Alta cohesión social,Sin polo
+30,Veracruz,30190,Tuxtilla,0.392,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30191,Ursulo Galván,0.402,Alta cohesión social,Polo de baja marginación
+30,Veracruz,30192,Vega de Alatorre,0.440,Alta cohesión social,Sin polo
+30,Veracruz,30193,Veracruz,0.466,Alta cohesión social,Polo de baja marginación
+30,Veracruz,30194,Villa Aldama,0.395,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30195,Xoxocotla,0.387,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30196,Yanga,0.420,Alta cohesión social,Sin polo
+30,Veracruz,30197,Yecuatla,0.450,Alta cohesión social,Sin polo
+30,Veracruz,30198,Zacualpan,0.417,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30199,Zaragoza,0.391,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30200,Zentla,0.376,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30201,Zongolica,0.558,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30202,Zontecomatlán de López y Fuentes,0.422,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30203,Zozocolco de Hidalgo,0.469,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30204,Agua Dulce,0.465,Alta cohesión social,Polo de baja marginación
+30,Veracruz,30205,El Higo,0.426,Alta cohesión social,Sin polo
+30,Veracruz,30206,Nanchital de Lázaro Cárdenas del Río,0.411,Alta cohesión social,Polo de baja marginación
+30,Veracruz,30207,Tres Valles,0.411,Alta cohesión social,Sin polo
+30,Veracruz,30208,Carlos A. Carrillo,0.371,Alta cohesión social,Polo de baja marginación
+30,Veracruz,30209,Tatahuicapan de Juárez,0.454,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30210,Uxpanapa,0.413,Baja cohesión social,Polo de alta marginación
+30,Veracruz,30211,San Rafael,0.380,Alta cohesión social,Sin polo
+30,Veracruz,30212,Santiago Sochiapan,0.407,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31001,Abalá,0.384,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31002,Acanceh,0.378,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31003,Akil,0.436,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31004,Baca,0.362,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31005,Bokobá,0.438,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31006,Buctzotz,0.430,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31007,Cacalchén,0.333,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31008,Calotmul,0.388,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31009,Cansahcab,0.405,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31010,Cantamayec,0.428,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31011,Celestún,0.350,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31012,Cenotillo,0.392,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31013,Conkal,0.380,Alta cohesión social,Polo de baja marginación
+31,Yucatán,31014,Cuncunul,0.392,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31015,Cuzamá,0.358,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31016,Chacsinkín,0.377,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31017,Chankom,0.415,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31018,Chapab,0.396,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31019,Chemax,0.420,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31020,Chicxulub Pueblo,0.354,Alta cohesión social,Sin polo
+31,Yucatán,31021,Chichimilá,0.451,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31022,Chikindzonot,0.400,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31023,Chocholá,0.339,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31024,Chumayel,0.381,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31025,Dzán,0.411,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31026,Dzemul,0.372,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31027,Dzidzantún,0.400,Alta cohesión social,Sin polo
+31,Yucatán,31028,Dzilam de Bravo,0.338,Alta cohesión social,Sin polo
+31,Yucatán,31029,Dzilam González,0.400,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31030,Dzitás,0.381,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31031,Dzoncauich,0.370,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31032,Espita,0.456,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31033,Halachó,0.415,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31034,Hocabá,0.359,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31035,Hoctún,0.377,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31036,Homún,0.351,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31037,Huhí,0.335,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31038,Hunucmá,0.407,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31039,Ixil,0.361,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31040,Izamal,0.401,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31041,Kanasín,0.400,Alta cohesión social,Polo de baja marginación
+31,Yucatán,31042,Kantunil,0.362,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31043,Kaua,0.417,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31044,Kinchil,0.343,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31045,Kopomá,0.411,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31046,Mama,0.376,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31047,Maní,0.405,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31048,Maxcanú,0.422,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31049,Mayapán,0.362,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31050,Mérida,0.449,Alta cohesión social,Polo de baja marginación
+31,Yucatán,31051,Mocochá,0.326,Alta cohesión social,Sin polo
+31,Yucatán,31052,Motul,0.424,Alta cohesión social,Sin polo
+31,Yucatán,31053,Muna,0.422,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31054,Muxupip,0.412,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31055,Opichén,0.369,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31056,Oxkutzcab,0.440,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31057,Panabá,0.419,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31058,Peto,0.461,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31059,Progreso,0.398,Alta cohesión social,Polo de baja marginación
+31,Yucatán,31060,Quintana Roo,0.365,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31061,Río Lagartos,0.347,Alta cohesión social,Sin polo
+31,Yucatán,31062,Sacalum,0.379,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31063,Samahil,0.396,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31064,Sanahcat,0.381,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31065,San Felipe,0.414,Alta cohesión social,Polo de baja marginación
+31,Yucatán,31066,Santa Elena,0.382,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31067,Seyé,0.335,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31068,Sinanché,0.415,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31069,Sotuta,0.434,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31070,Sucilá,0.399,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31071,Sudzal,0.427,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31072,Suma,0.390,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31073,Tahdziú,0.427,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31074,Tahmek,0.357,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31075,Teabo,0.381,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31076,Tecoh,0.386,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31077,Tekal de Venegas,0.366,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31078,Tekantó,0.375,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31079,Tekax,0.465,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31080,Tekit,0.337,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31081,Tekom,0.399,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31082,Telchac Pueblo,0.398,Alta cohesión social,Sin polo
+31,Yucatán,31083,Telchac Puerto,0.324,Alta cohesión social,Sin polo
+31,Yucatán,31084,Temax,0.380,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31085,Temozón,0.402,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31086,Tepakán,0.399,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31087,Tetiz,0.359,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31088,Teya,0.385,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31089,Ticul,0.428,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31090,Timucuy,0.373,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31091,Tinum,0.416,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31092,Tixcacalcupul,0.409,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31093,Tixkokob,0.389,Baja cohesión social,Polarizado
+31,Yucatán,31094,Tixmehuac,0.434,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31095,Tixpéhual,0.363,Alta cohesión social,Sin polo
+31,Yucatán,31096,Tizimín,0.449,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31097,Tunkás,0.425,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31098,Tzucacab,0.417,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31099,Uayma,0.386,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31100,Ucú,0.373,Alta cohesión social,Sin polo
+31,Yucatán,31101,Umán,0.391,Alta cohesión social,Polo de baja marginación
+31,Yucatán,31102,Valladolid,0.474,Alta cohesión social,Sin polo
+31,Yucatán,31103,Xocchel,0.337,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31104,Yaxcabá,0.425,Baja cohesión social,Polo de alta marginación
+31,Yucatán,31105,Yaxkukul,0.361,Alta cohesión social,Sin polo
+31,Yucatán,31106,Yobaín,0.413,Baja cohesión social,Polo de alta marginación
+32,Zacatecas,32001,Apozol,0.365,Alta cohesión social,Polo de baja marginación
+32,Zacatecas,32002,Apulco,0.383,Alta cohesión social,Sin polo
+32,Zacatecas,32003,Atolinga,0.395,Alta cohesión social,Sin polo
+32,Zacatecas,32004,Benito Juárez,0.412,Alta cohesión social,Sin polo
+32,Zacatecas,32005,Calera,0.427,Alta cohesión social,Polo de baja marginación
+32,Zacatecas,32006,Cañitas de Felipe Pescador,0.403,Alta cohesión social,Polo de baja marginación
+32,Zacatecas,32007,Concepción del Oro,0.403,Alta cohesión social,Polo de baja marginación
+32,Zacatecas,32008,Cuauhtémoc,0.395,Alta cohesión social,Sin polo
+32,Zacatecas,32009,Chalchihuites,0.386,Alta cohesión social,Sin polo
+32,Zacatecas,32010,Fresnillo,0.437,Alta cohesión social,Sin polo
+32,Zacatecas,32011,Trinidad García de la Cadena,0.403,Alta cohesión social,Polo de baja marginación
+32,Zacatecas,32012,Genaro Codina,0.433,Alta cohesión social,Sin polo
+32,Zacatecas,32013,General Enrique Estrada,0.403,Alta cohesión social,Sin polo
+32,Zacatecas,32014,General Francisco R. Murguía,0.504,Alta cohesión social,Sin polo
+32,Zacatecas,32015,El Plateado de Joaquín Amaro,0.348,Alta cohesión social,Sin polo
+32,Zacatecas,32016,General Pánfilo Natera,0.392,Alta cohesión social,Sin polo
+32,Zacatecas,32017,Guadalupe,0.460,Alta cohesión social,Polo de baja marginación
+32,Zacatecas,32018,Huanusco,0.389,Alta cohesión social,Sin polo
+32,Zacatecas,32019,Jalpa,0.428,Alta cohesión social,Polo de baja marginación
+32,Zacatecas,32020,Jerez,0.425,Alta cohesión social,Polo de baja marginación
+32,Zacatecas,32021,Jiménez del Teul,0.436,Baja cohesión social,Polo de alta marginación
+32,Zacatecas,32022,Juan Aldama,0.412,Alta cohesión social,Polo de baja marginación
+32,Zacatecas,32023,Juchipila,0.398,Alta cohesión social,Polo de baja marginación
+32,Zacatecas,32024,Loreto,0.439,Alta cohesión social,Sin polo
+32,Zacatecas,32025,Luis Moya,0.385,Alta cohesión social,Sin polo
+32,Zacatecas,32026,Mazapil,0.391,Alta cohesión social,Sin polo
+32,Zacatecas,32027,Melchor Ocampo,0.379,Alta cohesión social,Sin polo
+32,Zacatecas,32028,Mezquital del Oro,0.385,Baja cohesión social,Polarizado
+32,Zacatecas,32029,Miguel Auza,0.405,Alta cohesión social,Polo de baja marginación
+32,Zacatecas,32030,Momax,0.395,Alta cohesión social,Polo de baja marginación
+32,Zacatecas,32031,Monte Escobedo,0.396,Alta cohesión social,Sin polo
+32,Zacatecas,32032,Morelos,0.409,Alta cohesión social,Polo de baja marginación
+32,Zacatecas,32033,Moyahua de Estrada,0.396,Alta cohesión social,Sin polo
+32,Zacatecas,32034,Nochistlán de Mejía,0.422,Alta cohesión social,Polo de baja marginación
+32,Zacatecas,32035,Noria de Ángeles,0.363,Alta cohesión social,Sin polo
+32,Zacatecas,32036,Ojocaliente,0.422,Alta cohesión social,Sin polo
+32,Zacatecas,32037,Pánuco,0.377,Alta cohesión social,Sin polo
+32,Zacatecas,32038,Pinos,0.365,Alta cohesión social,Sin polo
+32,Zacatecas,32039,Río Grande,0.427,Alta cohesión social,Sin polo
+32,Zacatecas,32040,Sain Alto,0.365,Alta cohesión social,Sin polo
+32,Zacatecas,32041,El Salvador,0.444,Alta cohesión social,Sin polo
+32,Zacatecas,32042,Sombrerete,0.385,Alta cohesión social,Sin polo
+32,Zacatecas,32043,Susticacán,0.374,Alta cohesión social,Sin polo
+32,Zacatecas,32044,Tabasco,0.379,Alta cohesión social,Sin polo
+32,Zacatecas,32045,Tepechitlán,0.414,Baja cohesión social,Polarizado
+32,Zacatecas,32046,Tepetongo,0.407,Alta cohesión social,Sin polo
+32,Zacatecas,32047,Teúl de González Ortega,0.396,Alta cohesión social,Polo de baja marginación
+32,Zacatecas,32048,Tlaltenango de Sánchez Román,0.424,Alta cohesión social,Polo de baja marginación
+32,Zacatecas,32049,Valparaíso,0.402,Alta cohesión social,Sin polo
+32,Zacatecas,32050,Vetagrande,0.393,Alta cohesión social,Polo de baja marginación
+32,Zacatecas,32051,Villa de Cos,0.390,Alta cohesión social,Sin polo
+32,Zacatecas,32052,Villa García,0.417,Alta cohesión social,Sin polo
+32,Zacatecas,32053,Villa González Ortega,0.422,Alta cohesión social,Sin polo
+32,Zacatecas,32054,Villa Hidalgo,0.381,Alta cohesión social,Sin polo
+32,Zacatecas,32055,Villanueva,0.378,Alta cohesión social,Sin polo
+32,Zacatecas,32056,Zacatecas,0.472,Alta cohesión social,Polo de baja marginación
+32,Zacatecas,32057,Trancoso,0.419,Alta cohesión social,Sin polo
+32,Zacatecas,32058,Santa María de la Paz,0.383,Alta cohesión social,Sin polo
